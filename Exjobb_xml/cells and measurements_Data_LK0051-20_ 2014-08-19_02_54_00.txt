@@ -1,0 +1,3 @@
+Device code	B/N	cell nr	production date	measurement date	measurement time	Area cm2	TiO2 thickness (um)	Notes
+Other	LK0051-20	1	2014-08-19	2014-08-19	14:44	99.00	 0.00	Kartk's Exjob 
+29.7 lux
