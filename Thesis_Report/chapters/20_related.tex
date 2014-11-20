@@ -32,8 +32,10 @@ The amount of current that the cell is able to generate is determined by the ene
 
 **Info about single diode model of DSCs Pictures etc** \newline
 
+  
+  
 \subsection{Single diode model}\label{SDM}
-The simplest equivalent circuit of a solar cell is a Single diode model comprising of a current source in parallel with a diode. The incident photons **excites/induces a current in the cell that is proportional to the intensity of the light 
+The simplest equivalent circuit of a generic solar cell is a Single diode model comprising of a current source in parallel with a diode.A sightly more detailed model includes a shunt resistance of the cell which takes into account the parallel resistive losses representing leakage current across the junction in the cell. This model is sometimes referred to as a single exponential five-parameter model\cite{vignati2012solutions}. Like before, the incident photons induces a current in the active area that is proportional to the intensity of the light falling on the cell.
 
  \begin{figure}[H]
   \begin{center}
@@ -42,36 +44,43 @@ The simplest equivalent circuit of a solar cell is a Single diode model comprisi
   \label{fig:EQu_cell}
   \end{center}
   \end{figure}
-
-\subsection{Double diode model}\label{DDM}
- \begin{figure}[H]
-  \begin{center}
-  \includegraphics[width=\textwidth]{images/pacehold}
-  \caption{ Double diode model for a solar cell }
-  \label{fig:Double_EQu_cell}
-  \end{center}
-  \end{figure}
-\subsection{Equivalent DSCs model}
-
-\subsection{**Text**\cite{wenger2010strategies}}
-
-Wenger, Sophie.- "\textit{Strategies to optimizing dye-sensitized solar cells: organic sensitizers, tandem device structures, and numerical device modeling}". Diss. ÉCOLE POLYTECHNIQUE FÉDÉRALE DE LAUSANNE, 2010.\\
-
-
-
-
-The power conversion efficiency of a solar cell is determined from the current versus applied voltage (I-V ) characteristics under illumination. The I-V curve and device efficiency are reported with respect to a standard reference spectral irradiance distribution, the air mass 1.5 global (AM 1.5G) spectrum. The I-V characteristics of a solar cell are well described by an equivalent electric circuit in Figure ~\ref{fig:EQu_cell} on page ~\pageref{fig:EQu_cell} . Under illumination, a constant photo current (I\textsubscript{ph}) is generated.If a forward voltage bias is applied, a dark diode current (I\textsubscript{dark}) flows in the opposite direction. A shunt resistance (R\textsubscript{shunt}) may arise from charge recombination in the photo-active layer and induce a shunting current(I\textsubscript{shunt}).The series resistance (R\textsubscript{series}) includes the contact resistance at interfaces, the bulk resistance, and the sheet resistance of the transparent electrodes. The total measured current then is
+  
+**Change text**  
+The power conversion efficiency of a solar cell is determined from the current versus applied voltage (I-V ) characteristics under illumination. The I-V curve and device efficiency are reported with respect to a standard reference spectral irradiance distribution, the air mass 1.5 global (AM 1.5G) spectrum\cite{wenger2010strategies}. The I-V characteristics of a solar cell are well described by an equivalent electric circuit in Figure ~\ref{fig:EQu_cell} on page ~\pageref{fig:EQu_cell} . Under illumination, a constant photo current (I\textsubscript{ph}) is generated.If a forward voltage bias is applied, a dark diode current (I\textsubscript{dark}) flows in the opposite direction. A shunt resistance (R\textsubscript{shunt}) may arise from charge recombination in the photo-active layer and induce a shunting current(I\textsubscript{shunt}).The series resistance (R\textsubscript{series}) includes the contact resistance at interfaces, the bulk resistance, and the sheet resistance of the transparent electrodes. The total measured current then is:
  
  \begin{equation}
  \begin{aligned}
-  I = I\textsubscript{ph} - I\textsubscript{dark} - I\textsubscript{shunt} = I\textsubscript{ph} -  I\textsubscript{s} (e^{\frac{eV}{\textit{mk}T}-1}) - \dfrac{V+IR\textsubscript{series}}{R\textsubscript{shunt}}
+  I = I\textsubscript{ph} - I\textsubscript{dark} - I\textsubscript{shunt} = I\textsubscript{ph} -  I\textsubscript{s} (e^{\frac{eV}{\textit{mk}T}}-1) - \dfrac{V+IR\textsubscript{series}}{R\textsubscript{shunt}}
    \label{eq:equ_current}
    \end{aligned}
    \end{equation}
 
- where \textbf{I\textsubscript{s}} is the diode saturation current, \textbf{V} is the applied bias voltage, \textbf{\textit{m}} is an ideality factor ( \textit{m} = 1 for an ideal cell), \textbf{\textit{k}} is the Boltzmann constant, and \textbf{T} is the device temperature\cite{pointwenger2010strategies}.
+ where \textbf{I\textsubscript{s}} is the diode saturation current, \textbf{V} is the applied bias voltage, \textbf{\textit{m}} is an ideality factor ( \textit{m} = 1 for an ideal cell), \textbf{\textit{k}} is the Boltzmann constant, and \textbf{T} is the device temperature\cite{pointwenger2010strategies}. For small forward bias voltages the numerical value of the exponential is very large and 
+  the thermal voltage very small, therefore the '-1' in the didoe equation can be safely neglected and the forward diode current can be written as :
+  \begin{equation}
+   \begin{aligned}
+    I\textsubscript{dark}= I\textsubscript{s} (e^{\frac{eV}{\textit{mk}T}}) 
+    \label{eq:equ_current_dark}
+    \end{aligned}
+   \end{equation}
+   
+   Substituting the value of I\textsubscript{dark} back in equation ~\ref{eq:equ_current} and neglecting the shunt resistance we can simplify the equation to as below (equation ~\ref{eq:equ_new_cell_current}) can be schematically depicted as Figure ~\ref{fig:simple_EQu_cell} on page ~\pageref{fig:simple_EQu_cell}.
+   
+    \begin{equation}
+    \begin{aligned}
+     I = I\textsubscript{ph} - I\textsubscript{dark} - I\textsubscript{shunt} = I\textsubscript{ph} -  I\textsubscript{s} (e^{\frac{eV}{\textit{mk}T}}-1) - \dfrac{V+IR\textsubscript{series}}{R\textsubscript{shunt}}
+      \label{eq:equ_new_cell_current}
+      \end{aligned}
+      \end{equation}
   
- 
+     
+ \begin{figure}[H]
+   \begin{center}
+   \includegraphics[width=\textwidth]{images/simplified_single_diode_model_simple}
+   \caption{ Simplified single diode model for a solar cell }
+   \label{fig:simple_EQu_cell}
+   \end{center}
+   \end{figure}
 
 The maximum-power operating point defines the condition at which the power output (P\textsubscript{\textit{max}} = I\textsubscript{\textit{max}}V\textsubscript{\textit{max}}) of the device is maximal.
 The so-called \ac{F.F} is often used to characterize the maximum power ,
@@ -79,9 +88,31 @@ The so-called \ac{F.F} is often used to characterize the maximum power ,
 \begin{equation}
  \begin{aligned}
   \ac{F.F} = \dfrac{I\textsubscript{\textit{max}}V\textsubscript{\textit{max}}}{I\textsubscript{\textit{sc}}V\textsubscript{\textit{oc}}}
-   \label{eq:equ_current}
+   \label{eq:equ_current_new}
    \end{aligned}
    \end{equation}
+
+
+
+\subsection{Double diode model}\label{DDM}
+ \begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=\textwidth]{images/Double_diode_model}
+  \caption{ Double diode model for a solar cell }
+  \label{fig:Double_EQu_cell}
+  \end{center}
+  \end{figure}
+  
+  \begin{equation}
+   \begin{aligned}
+    I = I\textsubscript{ph} - I\textsubscript{dark} - I\textsubscript{shunt} = I\textsubscript{ph} -  I\textsubscript{s1} (e^{\frac{eV}{\textit{mk}T}}-1) - I\textsubscript{s2} (e^{\frac{eV}{\textit{mk}T}}-1)- \dfrac{V+IR\textsubscript{series}}{R\textsubscript{shunt}}
+     \label{eq:equ_current_double}
+     \end{aligned}
+     \end{equation}
+  
+\subsection{Equivalent DSCs model}
+
+
 
 **Pictures and text about losses in the light absorption in the cell **
 

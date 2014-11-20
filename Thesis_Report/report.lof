@@ -22,40 +22,42 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Single diode model for a solar cell \relax }}{11}{figure.caption.26}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Double diode model for a solar cell \relax }}{12}{figure.caption.27}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Simplified single diode model for a solar cell \relax }}{12}{figure.caption.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Flow chart for the Perturb and Observe Method \relax }}{14}{figure.caption.29}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Double diode model for a solar cell \relax }}{13}{figure.caption.29}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Flow chart for the Incremental Conductance Method\relax }}{15}{figure.caption.30}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Flow chart for the Perturb and Observe Method \relax }}{14}{figure.caption.30}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Flow chart for the fractional open circuit voltage Method Method \relax }}{16}{figure.caption.31}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Flow chart for the Incremental Conductance Method\relax }}{15}{figure.caption.31}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.8}{\ignorespaces I\IeC {\textendash }V curves of the solar panel under different irradiation levels and the voltage approximation line. \cite {liu2011fast} \relax }}{19}{figure.caption.34}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Flow chart for the fractional open circuit voltage Method Method \relax }}{16}{figure.caption.32}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Variation of V\textsubscript {MPP} for different illumination observed **in/on** the DSC under test \relax }}{20}{figure.caption.35}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces I\IeC {\textendash }V curves of the solar panel under different irradiation levels and the voltage approximation line. \cite {liu2011fast} \relax }}{19}{figure.caption.35}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Research Cell Efficiency Records \cite {liu2011fast} \relax }}{21}{figure.caption.36}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Variation of V\textsubscript {MPP} for different illumination observed **in/on** the DSC under test \relax }}{20}{figure.caption.36}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Golden Section search Algorithm \relax }}{24}{figure.caption.37}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Research Cell Efficiency Records \cite {liu2011fast} \relax }}{21}{figure.caption.37}
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Test Setup \relax }}{26}{figure.caption.39}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Cell Characterisation \relax }}{27}{figure.caption.40}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces I-V curve for the array at steady illumination\relax }}{27}{figure.caption.41}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces I-V curve for the array at varying illumination\relax }}{28}{figure.caption.42}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Golden Section search Algorithm \relax }}{24}{figure.caption.38}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Perturb and Observe Method on implementation \relax }}{31}{figure.caption.43}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Test Setup \relax }}{26}{figure.caption.40}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Incremental Conductance Method on implementation \relax }}{32}{figure.caption.44}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Cell Characterisation \relax }}{27}{figure.caption.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces fractional open circuit voltage on implementation\relax }}{33}{figure.caption.45}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces I-V curve for the array at steady illumination\relax }}{27}{figure.caption.42}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Flow chart for Proposed MPPT Algorithm \relax }}{34}{figure.caption.46}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces I-V curve for the array at varying illumination\relax }}{28}{figure.caption.43}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Perturb and Observe Method on implementation \relax }}{31}{figure.caption.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Incremental Conductance Method on implementation \relax }}{32}{figure.caption.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces fractional open circuit voltage on implementation\relax }}{33}{figure.caption.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Flow chart for Proposed MPPT Algorithm \relax }}{34}{figure.caption.47}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
