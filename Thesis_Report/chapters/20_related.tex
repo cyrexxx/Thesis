@@ -68,7 +68,7 @@ The power conversion efficiency of a solar cell is determined from the current v
    
     \begin{equation}
     \begin{aligned}
-     I = I\textsubscript{ph} - I\textsubscript{dark} - I\textsubscript{shunt} = I\textsubscript{ph} -  I\textsubscript{s} (e^{\frac{eV}{\textit{mk}T}}-1)
+     I = I\textsubscript{ph} - I\textsubscript{dark} - I\textsubscript{shunt} = I\textsubscript{ph} -  I\textsubscript{s} (e^{\frac{eV}{\textit{mk}T}})
       \label{eq:equ_new_cell_current}
       \end{aligned}
       \end{equation}
@@ -91,10 +91,14 @@ The so-called \ac{F.F} is often used to characterize the maximum power ,
    \label{eq:equ_current_new}
    \end{aligned}
    \end{equation}
-
+   
+The accuracy and complexity of the model can be increased by including Temperature dependence of the photo current and diode saturation current; Shunt resistance in parallel with the diode; Accommodating for variance in the quality factor of the diode either by having a variable parameter or introduction of an additional diode in to the circuit as done in the Double Diode Model.
 
 
 \subsection{Double diode model}\label{sec:DDM}
+
+The single diode equation assumes a constant value for the ideality factor n. In reality the ideality factor is a function of voltage across the device. At high voltage, When the recombination in the device is dominated by the surfaces and the bulk regions the ideality factor is close to one. However at lower voltages, recombination in the junction dominates and the ideality factor approaches two. The junction recombination is modelled by adding a second diode in parallel with the first and setting the ideality factor typically to two(ideality factor, m for D\textsubscript{1} = 1 and D\textsubscript{2} = 2)\cite{pv_education_org}.\\
+
  \begin{figure}[H]
   \begin{center}
   \includegraphics[width=\textwidth]{images/Double_diode_model}
@@ -103,9 +107,11 @@ The so-called \ac{F.F} is often used to characterize the maximum power ,
   \end{center}
   \end{figure}
   
+The equation of the double diode model under illumination is given by:  
+
   \begin{equation}
    \begin{aligned}
-    I = I\textsubscript{ph} - I\textsubscript{dark} - I\textsubscript{shunt} = I\textsubscript{ph} -  I\textsubscript{s1} (e^{\frac{eV}{\textit{mk}T}}-1) - I\textsubscript{s2} (e^{\frac{eV}{2\textit{mk}T}}-1)- \dfrac{V+IR\textsubscript{series}}{R\textsubscript{shunt}}
+    I = I\textsubscript{ph} - I\textsubscript{dark} - I\textsubscript{shunt} = I\textsubscript{ph} -  I\textsubscript{s1} (e^{\frac{eV}{\textit{k}T}}-1) - I\textsubscript{s2} (e^{\frac{eV}{2\textit{k}T}}-1)- \dfrac{V+IR\textsubscript{series}}{R\textsubscript{shunt}}
      \label{eq:equ_current_double}
     \end{aligned}
     \end{equation}
@@ -120,7 +126,7 @@ A standard \ac{DSCs} typically contains three interfaces formed by FTO/TiO\texts
 
  \begin{figure}[H]
   \begin{center}
-	\includegraphics[width=1.1\linewidth]{images/dsc_eq_ckt}
+	\includegraphics[width=1.0\linewidth]{images/dsc_eq_ckt}
 	\caption{Equivalent circuit for DSCs  }
 	\label{fig:dsc_eq_ckt}
   \end{center}
@@ -157,7 +163,21 @@ A standard \ac{DSCs} typically contains three interfaces formed by FTO/TiO\texts
      \end{aligned}
     \end{equation}
     
-Where T is the absolute temperature 
+Where T is the absolute temperature, $\omega$ is the angular frequency, $\sigma$ is the Warburg coefficient, $F(\lambda)$ and  $IPCE(\lambda)$ are the incident photon flux density and the incident photon-to-current conversion efficiency at wavelength $\lambda$ respectively, $r(\lambda)$ is the incident light losses due to the light absorption and reflection by the FTO glass, and $\Phi(\lambda)$ is the quantum yield \cite{yong2008modeling}.\newline
+
+ \begin{figure}[H]
+  \begin{center}
+	\includegraphics[width=\linewidth]{images/Voltagevlux}
+	\caption{spread of measured illumination vs Voltage  }
+	\label{fig:Voltagevlux}
+  \end{center}
+ \end{figure}
+ 
+However due to the near impossibility of accurately measuring all the variables of a unknown cell for this research work,a model was constructed by placing a the test cell under a battery of varied illuminations (0 Lux - 5050 Lux) shown in figure ~\ref{fig:Voltagevlux} . Which resulted in a surface (Figure ~\ref{} ) that closely resembles the cell's operation in real world conditions. particular attention was paid to low light conditions which is to be expected for indoor illuminations ( < 2000 Lux).As \ac{DSCs} display are very stable output across a large temperature range, the above model was made independent of temperature variations.   
+
+
+
+
 **Pictures and text about losses in the light absorption in the cell **
 
 **talk ABOUT STABILITY OF dcs with change in temperature **
