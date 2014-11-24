@@ -56,7 +56,7 @@ The power conversion efficiency of a solar cell is determined from the current v
    \end{equation}
 
  where \textbf{I\textsubscript{s}} is the diode saturation current, \textbf{V} is the applied bias voltage, \textbf{\textit{m}} is an ideality factor ( \textit{m} = 1 for an ideal cell), \textbf{\textit{k}} is the Boltzmann constant, and \textbf{T} is the device temperature\cite{pointwenger2010strategies}. For small forward bias voltages the numerical value of the exponential is very large and 
-  the thermal voltage very small, therefore the '-1' in the didoe equation can be safely neglected and the forward diode current can be written as :
+  the thermal voltage very small, therefore the '-1' in the didoe equation can be safely neglected and the forward diode current can be written as\cite{pv_education_org}:
   \begin{equation}
    \begin{aligned}
     I\textsubscript{dark}= I\textsubscript{s} (e^{\frac{eV}{\textit{mk}T}}) 
@@ -173,7 +173,7 @@ Where T is the absolute temperature, $\omega$ is the angular frequency, $\sigma$
   \end{center}
  \end{figure}
  
-However due to the near impossibility of accurately measuring all the variables of a unknown cell for this research work,a model was constructed by placing a the test cell under a battery of varied illuminations (0 Lux - 5050 Lux) shown in figure ~\ref{fig:Voltagevlux} . Which resulted in a surface (Figure ~\ref{} ) that closely resembles the cell's operation in real world conditions. particular attention was paid to low light conditions which is to be expected for indoor illuminations ( < 2000 Lux).As \ac{DSCs} display are very stable output across a large temperature range, the above model was made independent of temperature variations.   
+However due to the near impossibility of accurately measuring all the variables of a unknown cell for this research work,a model was constructed by placing a the test cell under a battery of varied illuminations (0 Lux - 5050 Lux) shown in figure ~\ref{fig:Voltagevlux} . Which resulted in a surface that closely resembles the cell's operation in real world conditions. particular attention was paid to low light conditions which is to be expected for indoor illuminations ( < 2000 Lux).As \ac{DSCs} display are very stable output across a large temperature range, the above model was made independent of temperature variations.   
 
 
 
@@ -191,27 +191,55 @@ Despite all the advantages presented by the generation of energy through the use
 To overcome this problem, several methods for extracting the maximum power have been proposed in literature **citations **
 
 \subsection{Perturb and Observe Method }
-  The \ac{PnO} Method is most widely used in \ac{MPPT} because of  its simple structure and it requires only few parameters. Figure ~\ref{fig:PnOflow}  shows the flow chart of \ac{PnO} method. It perturbs the PV array's terminal voltage periodically, and then it compares the PV output power with that of the previous cycle of perturbation. When PV power and PV voltage increase at the same time and vice versa, a perturbation step size, ${\Delta}$D will be added to the duty cycle, D to generate the next cycle of   perturbation in order to force the operating point moving towards the \ac{MPP}. When PV power increases and PV voltage decreases and vice versa, the perturbation step will be subtracted for the next cycle of perturbation.This process will be carried on continuously until \ac{MPP} is reached.However, the system will oscillate around the \ac{MPP} throughout this process, and this will result in loss of energy. These oscillations can be minimized by reducing the perturbation step size but it slows down the \ac{MPP} tracking system \cite{ngan2011study}.  \\
+
+
+    \begin{figure}[H]
+       \begin{center}
+       \includegraphics[width=0.4\textwidth]{images/PnO_block}
+       \caption{ Black box model for the Perturb and Observe Algorithm }
+       \label{fig:PnO_block}
+       \end{center}
+       \end{figure}
+       
+  The \ac{PnO} Method is most widely used in \ac{MPPT} because of  its simple structure and it requires only few parameters. Figure ~\ref{fig:PnO_flow}  shows the flow chart of \ac{PnO} method. It perturbs the PV array's terminal voltage periodically, and then it compares the PV output power with that of the previous cycle of perturbation. When PV power and PV voltage increase at the same time and vice versa, a perturbation step size, ${\Delta}$D will be added to the duty cycle, D to generate the next cycle of   perturbation in order to force the operating point moving towards the \ac{MPP}. When PV power increases and PV voltage decreases and vice versa, the perturbation step will be subtracted for the next cycle of perturbation.This process will be carried on continuously until \ac{MPP} is reached.However, the system will oscillate around the \ac{MPP} throughout this process, and this will result in loss of energy. These oscillations can be minimized by reducing the perturbation step size but it slows down the \ac{MPP} tracking system \cite{ngan2011study}.  \\
   
   \begin{figure}[H]
     \begin{center}
-    \includegraphics[width=\textwidth]{images/INc_flow}
+    \includegraphics[width=\textwidth]{images/pno_flow}
     \caption{ Flow chart for the Perturb and Observe Method }
-    \label{fig:PnOflow}
+    \label{fig:PnO_flow}
     \end{center}
     \end{figure}
   
   \subsection{Incremental Conductance Method }
+  
+  \begin{figure}[H]
+         \begin{center}
+         \includegraphics[width=0.4\textwidth]{images/inC_block}
+         \caption{ Black box model for the Incremental Conductance Algorithm }
+         \label{fig:inC_block}
+    \end{center}
+  \end{figure}
+  
   The  solar array terminal  voltage  can  be  adjusted relative to the MPP voltage by measuring the incremental and instantaneous  array  conductance (dI/dV and I/V ,   respectively).  Although  the  incremental  conductance method offers good performance under rapidly changing atmospheric  conditions,  four  sensors  are  required to   perform the  computations. The  drawback is that sensor devices require  more  conversion  time  thus  result in a large amount of power loss.   \\
   
    \begin{figure}[H]
       \begin{center}
-      \includegraphics[width=\textwidth]{images/pno_flow}
+      \includegraphics[width=\textwidth]{images/INc_flow}
       \caption{ Flow chart for the Incremental Conductance Method}
       \label{fig:inCflow}
       \end{center}
       \end{figure}
+      
   \subsection{fractional open circuit voltage Method }
+  
+   \begin{figure}[H]
+           \begin{center}
+           \includegraphics[width=0.4\textwidth]{images/Frac_block}
+           \caption{ Black box model for the Incremental Conductance Algorithm }
+           \label{fig:Frac_block}
+      \end{center}
+    \end{figure}
   This is a method based on the linear relationship between output voltage of the PV array at the \ac{MPP}, V\textsubscript{MPP} and the PV array's open circuit voltage, V\textsubscript{OC} in under varying temperature and solar irradiance. \\
   
   \begin{equation}
@@ -225,13 +253,13 @@ To overcome this problem, several methods for extracting the maximum power have 
   
   \begin{figure}[H]
         \begin{center}
-        \includegraphics[width=\textwidth]{images/pacehold}
+        \includegraphics[width=0.5\textwidth]{images/Frac_Flow}
         \caption{ Flow chart for the fractional open circuit voltage Method  Method }
         \label{fig:focflow}
         \end{center}
         \end{figure}
   
-\subsection{other Algorithms}
+\subsection{Other Algorithms}
   \begin{itemize}
   \item {\bf Fixed duty cycle} The fixed duty cycle represents the simplest of the methods and it does not require any feedback, where the load impedance is adjusted only once for the maximum power point and it is not adjusted again.
   \item {\bf Pilot cell} In the pilot cell MPPT algorithm, the constant voltage or current method is used, but the open-circuit voltage or short-circuit current measurements are made on a small solar cell, called a pilot cell, that has the same characteristics as the cells in the larger solar array The pilot cell measurements can be used by the MPPT to operate the main solar array at its MPP, eliminating the loss of PV power during the V\textsubscript{OC} or I\textsubscript{sc} measurement
@@ -246,136 +274,18 @@ To overcome this problem, several methods for extracting the maximum power have 
   \end{itemize} 
   
 
-\ifx
-% Commeted out.
-
-\subsection{**text**\cite{ngan2011study}}
-
-Ngan, Mei Shan, and Chee Wei Tan. "\textit{A study of maximum power point tracking algorithms for stand-alone photovoltaic systems.}" Applied Power Electronics Colloquium (IAPEC), 2011 IEEE. IEEE, 2011. \\
-
-**Text about the paper **
-
-\subsection{**text**\cite{ngan2011study}}
-
-Ngan, Mei Shan, and Chee Wei Tan. "\textit{A study of maximum power point tracking algorithms for stand-alone photovoltaic systems.}" Applied Power Electronics Colloquium (IAPEC), 2011 IEEE. IEEE, 2011. \\
-
-**Text about the paper **
-
-\subsection{**text**\cite{esram2007comparison}}
-
-Esram, Trishan, and Patrick L. Chapman. "\textit{Comparison of photovoltaic array maximum power point tracking techniques.}" IEEE TRANSACTIONS ON ENERGY CONVERSION EC 22.2 (2007): 439.\\
-
-**almost all the Work in eltawil2013mppt is derived from this paper including pictures and text **
-\fi
-
-
-\subsection{**text**\cite{eltawil2013mppt}}
-
-Eltawil, Mohamed A., and Zhengming Zhao. "\textit{MPPT techniques for photovoltaic applications.}" Renewable and Sustainable Energy Reviews 25 (2013): 793-813. \\
-
-This article aims to assess different MPPT techniques, provide background knowledge, implementation topology, grid interconnection of PV and solar microinverter requirements presented in the literature, doing in depth comparisons between them with a brief discussion. The MPPT merits, demerits and classification, which can be used as a reference for future research related to optimizing the solar power generation, are also discussed.\\
-
-**Text about the paper **
-
-\subsection{**text**\cite{reza2013classification}}
-
-Reza Reisi, Ali, Mohammad Hassan Moradi, and Shahriar Jamasb. "\textit{Classification and comparison of maximum power point tracking techniques for photovoltaic system: A review.}" Renewable and Sustainable Energy Reviews 19 (2013): 433-443.
-
-\subsection{**text**\cite{faranda2008energy}}
-
-Faranda, Roberto, and Sonia Leva. "\textit{Energy comparison of MPPT techniques for PV Systems.}" WSEAS transactions on power systems 3.6 (2008): 446-455.\\
-
-This paper presents a comparative study of ten widely-adopted MPPT algorithms; their performance is evaluated on the energy point of view, by using the simulation tool Simulink{\textregistered}, considering different solar irradiance variations.\\
-
-My thesis borrows some of the algorithms/Flow Chart mentioned in the above four papers. 
-
-\subsection{**text**\cite{houssamo2013experimental}}
-
-Houssamo, Issam, Fabrice Locment, and Manuela Sechilariu. "\textit{Experimental analysis of impact of MPPT methods on energy efficiency for photovoltaic power systems.}" International Journal of Electrical Power \& Energy Systems 46 (2013): 98-107.\\
-
-This work presents an experimental comparison; Using four identical PV, under strictly the same set of technical and meteorological conditions, an experimental comparison  of four most used MPPT methods for PV power systems is done.This comparison shows the advantage of use of a MPPT with a variable tracking step.\\  
-
-\subsection{**text**\cite{jain2004new}}
-Jain, Sachin, and Vivek Agarwal. "\textit{A new algorithm for rapid tracking of approximate maximum power point in photovoltaic systems.}" Power Electronics Letters, IEEE 2.1 (2004): 16-19.\\
-
-This paper presents a new algorithm for tracking maximum power point in photovoltaic systems. This is a fast tracking algorithm, where an initial approximation of \ac{MPP} quickly achieved using a variable step-size. Subsequently, the exact\ac{MPP} can be targeted using any conventional method like the hill-climbing or incremental conductance method. Thus, the drawback of a fixed small step-size over the entire tracking range is removed, resulting in reduced number of iterations and much faster tracking compared to conventional methods. \\
-
-My implementation draws inspiration for the above article for its  two-stage algorithm to reduce the number of iterations but deviates significantly in the implementation and algorithms used to identify the \ac{MPP} 
-
-\subsection{**text**\cite{liu2011fast}}
-
-Liu, Yi-Hua, and Jia-Wei Huang. "\textit{A fast and low cost analog maximum power point tracking method for low power photovoltaic systems.}" Solar Energy 85.11 (2011): 2771-2780.\\
-
-**add TEXT important RESEARCH * \\
-
-Typically, MPPT methods utilized in medium and high power PV systems uses measured cell characteristics (current, voltage, power) along with an online search algorithm to compute the corresponding \ac{MPP}. Due to the complexity of the required mathematical operations, a \ac{DSP} or a relatively powerful micro-controller is typically needed, which increases the cost of the system.Moreover, it consumes significant portion of the generated power. Therefore, a\ac{MPPT} circuit with low-cost and fast-tracking features is essential .\\
-
-It has already established that there exists a relation between V\textsubscript{MPP} and V\textsubscript{OC} in equation ~\ref{eq:equ_fracoc} and is famously used in the \ac{FOCV} method. However we see that this does not hold true for all illumination conditions and certainly not for low-light(less than ~1500 Lux ) as compared to higher insolation. Since V\textsubscript{OC} is is a logarithmic function of I\textsubscript{ph}, the relationship between  V\textsubscript{MP} and I\textsubscript{MP}.with respect to irradiation is not linear. However, it is possible to linearize this relationship for an interval where the value of V\textsubscript{OC} is sufficiently insensitive to irradiation. That is, the  \ac{VAL} can be calculated as the tangent line of the \ac{MPP} locus where the sensitivity of V\textsubscript{OC} to I\textsubscript{ph} is lower than a pre-defined threshold. This relationship is illustrated in Figure ~\ref{fig:Lui_IV_1} on page ~\pageref{fig:Lui_IV_1}.
-
-
- \begin{figure}[H]
-  \begin{center}
-  \includegraphics[width=\textwidth]{images/IVCurve_lui}
-  \caption{I–V curves of the solar panel under different irradiation levels and the voltage approximation line. \cite{liu2011fast} }
-  \label{fig:Lui_IV_1}
-  \end{center}
-  \end{figure}
-  
-  The same trend can be seen on the I-V curves for the \ac{DSCs} under test (Figure ~\ref{fig:vmmp_lux50_5000}).
-   \begin{figure}[H]
-    \begin{center}
-    \includegraphics[width=\textwidth]{images/IV_50-500}
-    \caption{Variation of V\textsubscript{MPP} for different illumination observed **in/on** the DSC under test }
-    \label{fig:vmmp_lux50_5000}
-    \end{center}
-    \end{figure}
-  
-
- \begin{figure}[H]
-  \begin{center}
-  \includegraphics[width=\textwidth]{images/IVCurve_lui_2}
-  \caption{Research Cell Efficiency Records \cite{liu2011fast} }
-  \label{fig:Lui_IV_2}
-  \end{center}
-  \end{figure}
 
 
 
-
-
-**insert pictures**
-
-\subsection{**text**\cite{dondi2008modeling}}
-
-Dondi, Denis, et al. "\textit{Modeling and optimization of a solar energy harvester system for self-powered wireless sensor networks.}" Industrial Electronics, IEEE Transactions on 55.7 (2008): 2759-2766.\\
-
-
-**Initial modelling strategies where based on this paper,  improving the efficiency. \# discrete components\# ** 
-
-\subsection{**text**\cite{chu2009robust}}
-Chu, Chen-Chi, and Chieh-Li Chen. "\textit{Robust maximum power point tracking method for photovoltaic cells: A sliding mode control approach.}" Solar Energy 83.8 (2009): 1370-1378.\\
-
-\subsection{**text**\cite{urayai2011single}}
-Urayai, Caston, and G. Amaratunga. "\textit{Single sensor boost converter-based maximum power point tracking algorithms.}" Applied Power Electronics Conference and Exposition (APEC), 2011 Twenty-Sixth Annual IEEE. IEEE, 2011.\\
-
-Two new maximum power point tracking algorithms are presented: the input voltage sensor, and duty ratio maximum power point tracking algorithm (ViSD algorithm); and the output voltage sensor, and duty ratio maximum power point tracking algorithm (VoSD algorithm).unlike the incremental conductance algorithm which requires two sensors (the voltage sensor and current sensor), the two algorithms are more desirable because they require only one sensor: the voltage sensor.  \\ 
-
-\subsection{**text**\cite{clark2006power}}
-
-Clark, C., and A. Lopez. "\textit{Power system challenges for small satellite missions.}" Proceedings of the 2006 Small Satellites, Systems and Services Symposium, D. Danesy, Ed. The Netherlands: ESA. 2006.\\
-
-
-**TExt**
-Inspiration for use of multiple power buses 
 
 
 
 \section{Machine Learning ???}
 This section discusses about Search optimization in order to lock on the  V\textsubscript{MP} and I\textsubscript{MP} as efficiently as possible.
 
-\subsection{Regression Modelling \cite{lenarreg2006}}
+\subsection{Regression Modelling }
 
-We use regression analysis when we want to predict one variable from another. The most basic form of regression is called simple regression, where We have 1 independent variable and 1 dependent variable and where we are predicting a linear trend. In regression, we attempt to determine the magnitude of the relationship between a set of independent variables and the dependent variable. Independent variable(X), Also called the predictor variable, that we believe influences our Dependent variable(Y),Also called the response variable.\\
+We use regression analysis when we want to predict one variable from another. The most basic form of regression is called simple regression, where We have 1 independent variable and 1 dependent variable and where we are predicting a linear trend. In regression, we attempt to determine the magnitude of the relationship between a set of independent variables and the dependent variable. Independent variable(X), Also called the predictor variable, that we believe influences our Dependent variable(Y),Also called the response variable\cite{lenarreg2006}.\\
 
 A regression model is a formal way of stating:
 \begin{itemize}
@@ -406,7 +316,13 @@ The linear regression model(for observation i = 1, . . . , N) can we written as:
 \item $\beta\textsubscript{1}$ is the slope of the line, the amount of increase in Y brought about by a unit increase $(X^{'}= X + 1)$ in X.\\
 \item \textbf{$\epsilon\textsubscript{i}$} is the random error, specific to each observation.
 \end {itemize}
-
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=\textwidth]{images/Reg_line}
+  \caption{ Example for linear regression }
+  \label{fig:linear_regression}
+  \end{center}
+  \end{figure}
 
 
 **add more text about line Linear Regression **

@@ -1,11 +1,11 @@
-\chapter{Implementation}
+\chapter{Methodology and Implementation}
 \begin{quote} 
 \it This chapter covers the implementation details of the concept, the algorithms. All the simulations were first carried out in MATLAB{\textregistered} and Simulink{\textregistered}, testing and verifying; then implementing the same in Hardware.
 \end{quote}
 
 
 \section{Cell Characterisation}
-In this section, Model of two types of cells (\ac{a-Si} and \ac{DSCs}) is discussed.There are several Models that have been analysed in literature which are usually variations of the Single Diode model or the Double Diode model (discussed in section \ref{SDM} and \ref{DDM}).
+In this section, Model of two types of cells (\ac{a-Si} and \ac{DSCs}) is discussed.There are several Models that have been analysed in literature which are usually variations of the Single Diode model or the Double Diode model (discussed in section \ref{sec:SDM} and \ref{sec:DDM}).
  
 \subsection{Test Setup}
 in **furtherance of** creating a working solar cell model and to validate the algorithm several measurements would need to be performed. The Test-rig consisted of a blacked out enclosure to prevent **interference** from ambient light. The Test-rig is fitted with an array of evenly spaced White-\ac{LED}s to provide uniform illumination on the Test subject. The \ac{LED}-array are calibrated and temperature controlled so as to provide white light with a known spectra. A high precision Lux Meter(\textit{GOSSEN Mavolux 5032B}) is used to measure the  intensity of the light, as perceived by the human eye.The Light chamber is also routinely calibrated against a reference cell to factor-in the variations and degradation of the \ac{LED}s. The intensity of light is varied using a High-Voltage power source.A pictorial representation of the above description can be seen is figure  ~\ref{fig:test setup} on page ~\pageref{fig:test setup}. \\
@@ -45,6 +45,18 @@ When the above is repeated for several different light intensities we get a thre
   \end{figure}
 
 \section{Modelling and Simulations} 
+
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=\textwidth]{images/PV_block_Model}
+  \caption{Modelling of the DSC Subsystem }
+  \label{fig:PV_block_Model}
+  \end{center}
+  \end{figure}
+
+
+
+
 
 \section {Validation in Matlab{\textregistered}}
 
