@@ -36,15 +36,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.2}Incremental Conductance Method }{17}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}fractional open circuit voltage Method }{19}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}fractional open circuit voltage Method }{20}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}Other Algorithms}{20}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.4}Other Algorithms}{21}{subsection.2.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Machine Learning ???}{20}{section.2.3}
+\contentsline {section}{\numberline {2.3}Machine Learning ???}{21}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Regression Modelling }{21}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}Regression Modelling }{22}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Pattern search}{22}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}Pattern search}{23}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Methodology and Implementation}{25}{chapter.3}
 \defcounter {refsection}{0}\relax 
