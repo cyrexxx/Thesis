@@ -1,0 +1,5 @@
+\chapternotoc{Acronyms}
+
+\begin{acronym}[YOURLONGESTACRONYM]
+	\acro{GNU}{GNU is Not Unix}
+\end{acronym}

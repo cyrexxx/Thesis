@@ -1,0 +1,1156 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{}{}
+    \entry{chu2009robust}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=0c70414155d2180a99606a771754ebe8}{Chu}{C\bibinitperiod}{Chen-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=e14e6cdfeb9c8cc6654677697014588a}{Chen}{C\bibinitperiod}{Chieh-Li}{C\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0c70414155d2180a99606a771754ebe8}{Chu}{C\bibinitperiod}{Chen-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=e14e6cdfeb9c8cc6654677697014588a}{Chen}{C\bibinitperiod}{Chieh-Li}{C\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4bbf338541f1625b082f8efa0eba0efd}
+      \strng{fullhash}{4bbf338541f1625b082f8efa0eba0efd}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{Robust maximum power point tracking method for photovoltaic cells: A sliding mode control approach}
+      \field{journaltitle}{Solar Energy}
+      \field{number}{8}
+      \field{title}{Robust maximum power point tracking method for photovoltaic cells: A sliding mode control approach}
+      \field{volume}{83}
+      \field{year}{2009}
+      \field{pages}{1370\bibrangedash 1378}
+    \endentry
+    \entry{clark2006power}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=12f1c979101cc4179190ba9c36911b23}{Clark}{C\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bf970fe83a4cee2bb22e706c44e1fc75}{Lopez}{L\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=12f1c979101cc4179190ba9c36911b23}{Clark}{C\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bf970fe83a4cee2bb22e706c44e1fc75}{Lopez}{L\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{13677d373850fb0e49c5a294d0799c7d}
+      \strng{fullhash}{13677d373850fb0e49c5a294d0799c7d}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{Power system challenges for small satellite missions}
+      \field{booktitle}{Proceedings of the 2006 Small Satellites, Systems and Services Symposium, D. Danesy, Ed. The Netherlands: ESA}
+      \field{title}{Power system challenges for small satellite missions}
+      \field{year}{2006}
+    \endentry
+    \entry{dondi2008modeling}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=65f754d36f961f8a06a0d328dc11b8cb}{Dondi}{D\bibinitperiod}{Denis}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cf42d26f6112e645fb1e8dd7fb6659d1}{Bertacchini}{B\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=50a11dece6b31e426f722240c1873f2f}{Brunelli}{B\bibinitperiod}{Davide}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=dd6e082c308226b3a6dc07320663cde8}{Larcher}{L\bibinitperiod}{Luca}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ba31f0daddec3d14ef6a4f5279845d2d}{Benini}{B\bibinitperiod}{Luca}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=65f754d36f961f8a06a0d328dc11b8cb}{Dondi}{D\bibinitperiod}{Denis}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cf42d26f6112e645fb1e8dd7fb6659d1}{Bertacchini}{B\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=50a11dece6b31e426f722240c1873f2f}{Brunelli}{B\bibinitperiod}{Davide}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=dd6e082c308226b3a6dc07320663cde8}{Larcher}{L\bibinitperiod}{Luca}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ba31f0daddec3d14ef6a4f5279845d2d}{Benini}{B\bibinitperiod}{Luca}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4e99f84d3ae297672d27e6c4b35c72ec}
+      \strng{fullhash}{e5a780df569f1bde50973a33f4193e29}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{Modeling and optimization of a solar energy harvester system for self-powered wireless sensor networks}
+      \field{journaltitle}{Industrial Electronics, IEEE Transactions on}
+      \field{number}{7}
+      \field{title}{Modeling and optimization of a solar energy harvester system for self-powered wireless sensor networks}
+      \field{volume}{55}
+      \field{year}{2008}
+      \field{pages}{2759\bibrangedash 2766}
+    \endentry
+    \entry{eltawil2013mppt}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=ba9e157bf9fcef40850bba7d6175a5ee}{Eltawil}{E\bibinitperiod}{Mohamed\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5e89ff679cd2046b5aeade6aa562139b}{Zhao}{Z\bibinitperiod}{Zhengming}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ba9e157bf9fcef40850bba7d6175a5ee}{Eltawil}{E\bibinitperiod}{Mohamed\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5e89ff679cd2046b5aeade6aa562139b}{Zhao}{Z\bibinitperiod}{Zhengming}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a6e53ef36d87d0e8ead47cae990d1698}
+      \strng{fullhash}{a6e53ef36d87d0e8ead47cae990d1698}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{MPPT techniques for photovoltaic applications}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{MPPT techniques for photovoltaic applications}
+      \field{volume}{25}
+      \field{year}{2013}
+      \field{pages}{793\bibrangedash 813}
+    \endentry
+    \entry{enrique2010reliable}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=c84418977c766ecd18503287858ed449}{Enrique}{E\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=86d45eaad6e773bcafc3d8c1418b9abd}{And{ú}jar}{A\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b02cd14841801d6bafe6cb039fcd6b8b}{Boh{ó}rquez}{B\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=c84418977c766ecd18503287858ed449}{Enrique}{E\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=86d45eaad6e773bcafc3d8c1418b9abd}{And{ú}jar}{A\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b02cd14841801d6bafe6cb039fcd6b8b}{Boh{ó}rquez}{B\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{21de4b305b043557071b6a5eeda5236a}
+      \strng{fullhash}{21de4b305b043557071b6a5eeda5236a}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{A reliable, fast and low cost maximum power point tracker for photovoltaic applications}
+      \field{journaltitle}{Solar Energy}
+      \field{number}{1}
+      \field{title}{A reliable, fast and low cost maximum power point tracker for photovoltaic applications}
+      \field{volume}{84}
+      \field{year}{2010}
+      \field{pages}{79\bibrangedash 89}
+    \endentry
+    \entry{esram2007comparison}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=19553988963b9b066750f32490f15b22}{Esram}{E\bibinitperiod}{Trishan}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=c1dea0538c419b5d254745bf5b666311}{Chapman}{C\bibinitperiod}{Patrick\bibnamedelima L}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=19553988963b9b066750f32490f15b22}{Esram}{E\bibinitperiod}{Trishan}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=c1dea0538c419b5d254745bf5b666311}{Chapman}{C\bibinitperiod}{Patrick\bibnamedelima L}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {IEEE INSTITUTE OF ELECTRICAL}%
+        {ELECTRONICS}%
+      }
+      \strng{namehash}{abf1277035559cb581ab5de67224fb8f}
+      \strng{fullhash}{abf1277035559cb581ab5de67224fb8f}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{Comparison of photovoltaic array maximum power point tracking techniques}
+      \field{journaltitle}{IEEE TRANSACTIONS ON ENERGY CONVERSION EC}
+      \field{number}{2}
+      \field{title}{Comparison of photovoltaic array maximum power point tracking techniques}
+      \field{volume}{22}
+      \field{year}{2007}
+      \field{pages}{439}
+    \endentry
+    \entry{faranda2008energy}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=24f674633dbd91a730e0a04f8591cf5b}{Faranda}{F\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=13c9d358d811c1a18186a2140a772eed}{Leva}{L\bibinitperiod}{Sonia}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=24f674633dbd91a730e0a04f8591cf5b}{Faranda}{F\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=13c9d358d811c1a18186a2140a772eed}{Leva}{L\bibinitperiod}{Sonia}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a2b302d73b16eff94b66af0bdff7528d}
+      \strng{fullhash}{a2b302d73b16eff94b66af0bdff7528d}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{Energy comparison of MPPT techniques for PV Systems}
+      \field{journaltitle}{WSEAS transactions on power systems}
+      \field{number}{6}
+      \field{title}{Energy comparison of MPPT techniques for PV Systems}
+      \field{volume}{3}
+      \field{year}{2008}
+      \field{pages}{446\bibrangedash 455}
+    \endentry
+    \entry{gcell_DSSC_cycle}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=a87792f64798c983853abc8930c7fb1d}{GCell}{G\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a87792f64798c983853abc8930c7fb1d}{GCell}{G\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{a87792f64798c983853abc8930c7fb1d}
+      \strng{fullhash}{a87792f64798c983853abc8930c7fb1d}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{How does DSSC work}
+      \field{title}{How does DSSC work}
+      \field{urlday}{03}
+      \field{urlmonth}{10}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://gcell.com/wp-content/uploads/DSSC_cycle.jpg
+      \endverb
+    \endentry
+    \entry{Gill81MurrayWright}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=39f9385073ef2b104699537ba0be16ef}{Gill}{G\bibinitperiod}{P.\bibnamedelimi E.}{P\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=317c3a3cc33b4ee2233b0185f1060b36}{Murray}{M\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=449d495e6afab180631900004aee429c}{Wright}{W\bibinitperiod}{M.\bibnamedelimi H.}{M\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=39f9385073ef2b104699537ba0be16ef}{Gill}{G\bibinitperiod}{P.\bibnamedelimi E.}{P\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=317c3a3cc33b4ee2233b0185f1060b36}{Murray}{M\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=449d495e6afab180631900004aee429c}{Wright}{W\bibinitperiod}{M.\bibnamedelimi H.}{M\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{baddbf9ec5d9c3466817f0aef99f7896}
+      \strng{fullhash}{baddbf9ec5d9c3466817f0aef99f7896}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{Practical optimization}
+      \field{title}{Practical optimization}
+      \field{year}{1981}
+    \endentry
+    \entry{gomathy2012design}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=45705be52013799c9f3a1e72db0299bd}{Gomathy}{G\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b615bcc8dd85eadf9a1e385cdfcf9c43}{Saravanan}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c3112eca2ac894274e4c4a08cb0e2303}{Thangavel}{T\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=45705be52013799c9f3a1e72db0299bd}{Gomathy}{G\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b615bcc8dd85eadf9a1e385cdfcf9c43}{Saravanan}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c3112eca2ac894274e4c4a08cb0e2303}{Thangavel}{T\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{591ed3269327fd3c51f72e40d048a38f}
+      \strng{fullhash}{591ed3269327fd3c51f72e40d048a38f}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{Design and implementation of maximum power point tracking (MPPT) algorithm for a standalone PV system}
+      \field{journaltitle}{International Journal of Scientific \& Engineering Research}
+      \field{number}{3}
+      \field{title}{Design and implementation of maximum power point tracking (MPPT) algorithm for a standalone PV system}
+      \field{volume}{3}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 7}
+    \endentry
+    \entry{gratzel2004conversion}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0bd47905e4ba146c53d4c7990000b387}{Gr{ä}tzel}{G\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0bd47905e4ba146c53d4c7990000b387}{Gr{ä}tzel}{G\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0bd47905e4ba146c53d4c7990000b387}
+      \strng{fullhash}{0bd47905e4ba146c53d4c7990000b387}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{Conversion of sunlight to electric power by nanocrystalline dye-sensitized solar cells}
+      \field{journaltitle}{Journal of Photochemistry and Photobiology A: Chemistry}
+      \field{number}{1}
+      \field{title}{Conversion of sunlight to electric power by nanocrystalline dye-sensitized solar cells}
+      \field{volume}{164}
+      \field{year}{2004}
+      \field{pages}{3\bibrangedash 14}
+    \endentry
+    \entry{pv_education_org}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=826b173420c8dde6203cf3726c8c95a7}{Honsberg}{H\bibinitperiod}{Christiana}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=826b173420c8dde6203cf3726c8c95a7}{Honsberg}{H\bibinitperiod}{Christiana}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{826b173420c8dde6203cf3726c8c95a7}
+      \strng{fullhash}{826b173420c8dde6203cf3726c8c95a7}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{Double Diode Model}
+      \field{title}{Double Diode Model}
+      \field{urlday}{03}
+      \field{urlmonth}{11}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://pveducation.org/pvcdrom/characterisation/double-diode-model
+      \endverb
+    \endentry
+    \entry{houssamo2013experimental}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=75ac3f03da0e5c0189018fd77449b058}{Houssamo}{H\bibinitperiod}{Issam}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=d0c7b7a8be09f022e2526e5e7e82bae7}{Locment}{L\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=5cf4c757a9cbb6100ffacdd62907290c}{Sechilariu}{S\bibinitperiod}{Manuela}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=75ac3f03da0e5c0189018fd77449b058}{Houssamo}{H\bibinitperiod}{Issam}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=d0c7b7a8be09f022e2526e5e7e82bae7}{Locment}{L\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=5cf4c757a9cbb6100ffacdd62907290c}{Sechilariu}{S\bibinitperiod}{Manuela}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{349cb56a6ffbc733f27dbba65cf7493f}
+      \strng{fullhash}{349cb56a6ffbc733f27dbba65cf7493f}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{Experimental analysis of impact of MPPT methods on energy efficiency for photovoltaic power systems}
+      \field{journaltitle}{International Journal of Electrical Power \& Energy Systems}
+      \field{title}{Experimental analysis of impact of MPPT methods on energy efficiency for photovoltaic power systems}
+      \field{volume}{46}
+      \field{year}{2013}
+      \field{pages}{98\bibrangedash 107}
+    \endentry
+    \entry{jain2004new}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=b7157f21b1e6dfd4d0da8622e55efaf7}{Jain}{J\bibinitperiod}{Sachin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=246533043913bff92ca958dedf0b963e}{Agarwal}{A\bibinitperiod}{Vivek}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b7157f21b1e6dfd4d0da8622e55efaf7}{Jain}{J\bibinitperiod}{Sachin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=246533043913bff92ca958dedf0b963e}{Agarwal}{A\bibinitperiod}{Vivek}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{278dd02a64a9bc1d7624e7499c61fdfc}
+      \strng{fullhash}{278dd02a64a9bc1d7624e7499c61fdfc}
+      \field{sortinit}{J}
+      \field{sortinithash}{f75b22df8c340a961dce37019e29107f}
+      \field{labeltitle}{A new algorithm for rapid tracking of approximate maximum power point in photovoltaic systems}
+      \field{journaltitle}{Power Electronics Letters, IEEE}
+      \field{number}{1}
+      \field{title}{A new algorithm for rapid tracking of approximate maximum power point in photovoltaic systems}
+      \field{volume}{2}
+      \field{year}{2004}
+      \field{pages}{16\bibrangedash 19}
+    \endentry
+    \entry{kalyanasundaram2010dye}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7b8157e22da279fa59d8d2a80ffe006b}{Kalyanasundaram}{K\bibinitperiod}{Kuppuswamy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7b8157e22da279fa59d8d2a80ffe006b}{Kalyanasundaram}{K\bibinitperiod}{Kuppuswamy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {EPFL press}%
+      }
+      \strng{namehash}{7b8157e22da279fa59d8d2a80ffe006b}
+      \strng{fullhash}{7b8157e22da279fa59d8d2a80ffe006b}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Dye-sensitized solar cells}
+      \field{title}{Dye-sensitized solar cells}
+      \field{year}{2010}
+    \endentry
+    \entry{liu2011fast}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6cc0e551b7b677c77c45f913aa6d6c8e}{Liu}{L\bibinitperiod}{Yi-Hua}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=a5cb7df155b286a4771f78feb34b0491}{Huang}{H\bibinitperiod}{Jia-Wei}{J\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6cc0e551b7b677c77c45f913aa6d6c8e}{Liu}{L\bibinitperiod}{Yi-Hua}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=a5cb7df155b286a4771f78feb34b0491}{Huang}{H\bibinitperiod}{Jia-Wei}{J\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{dc845167256c8e80556660dec60f5895}
+      \strng{fullhash}{dc845167256c8e80556660dec60f5895}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{A fast and low cost analog maximum power point tracking method for low power photovoltaic systems}
+      \field{journaltitle}{Solar Energy}
+      \field{number}{11}
+      \field{title}{A fast and low cost analog maximum power point tracking method for low power photovoltaic systems}
+      \field{volume}{85}
+      \field{year}{2011}
+      \field{pages}{2771\bibrangedash 2780}
+    \endentry
+    \entry{ngan2011study}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=de143eec0bd7e0edee82ccdae3d6accd}{Ngan}{N\bibinitperiod}{Mei\bibnamedelima Shan}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=2a0d807ce354c9087f91123aa056169a}{Tan}{T\bibinitperiod}{Chee\bibnamedelima Wei}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=de143eec0bd7e0edee82ccdae3d6accd}{Ngan}{N\bibinitperiod}{Mei\bibnamedelima Shan}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=2a0d807ce354c9087f91123aa056169a}{Tan}{T\bibinitperiod}{Chee\bibnamedelima Wei}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a9b3f6b47a24b074cc11995cc4fbd20e}
+      \strng{fullhash}{a9b3f6b47a24b074cc11995cc4fbd20e}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labeltitle}{A study of maximum power point tracking algorithms for stand-alone photovoltaic systems}
+      \field{booktitle}{Applied Power Electronics Colloquium (IAPEC), 2011 IEEE}
+      \field{title}{A study of maximum power point tracking algorithms for stand-alone photovoltaic systems}
+      \field{year}{2011}
+      \field{pages}{22\bibrangedash 27}
+    \endentry
+    \entry{nrel_Research_Cell}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=0555c9ccec3fd2deadd3866f764bed48}{NREL}{N\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0555c9ccec3fd2deadd3866f764bed48}{NREL}{N\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{0555c9ccec3fd2deadd3866f764bed48}
+      \strng{fullhash}{0555c9ccec3fd2deadd3866f764bed48}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labeltitle}{National Center for Photovoltaics, Research Cell Efficiency Records}
+      \field{title}{National Center for Photovoltaics, Research Cell Efficiency Records}
+      \field{urlday}{23}
+      \field{urlmonth}{09}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.nrel.gov/ncpv/images/efficiency_chart.jpg
+      \endverb
+    \endentry
+    \entry{reza2013classification}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=76d40c334fc23a35f71b4cade5742588}{Reza\bibnamedelima Reisi}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{Ali}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=df022b90feea6e8a42a4835105842699}{Hassan\bibnamedelima Moradi}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{Mohammad}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=54ade59bacb5872e3e7717685f163e2d}{Jamasb}{J\bibinitperiod}{Shahriar}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=76d40c334fc23a35f71b4cade5742588}{Reza\bibnamedelima Reisi}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{Ali}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=df022b90feea6e8a42a4835105842699}{Hassan\bibnamedelima Moradi}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{Mohammad}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=54ade59bacb5872e3e7717685f163e2d}{Jamasb}{J\bibinitperiod}{Shahriar}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{33ff557c85484e5e3c2d70d3c23605e1}
+      \strng{fullhash}{33ff557c85484e5e3c2d70d3c23605e1}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{Classification and comparison of maximum power point tracking techniques for photovoltaic system: A review}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{Classification and comparison of maximum power point tracking techniques for photovoltaic system: A review}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{pages}{433\bibrangedash 443}
+    \endentry
+    \entry{lenarreg2006}{unpublished}{}
+      \name{labelname}{1}{}{%
+        {{hash=b52bea77ed67efef839aa58b408a3cfd}{Templin}{T\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b52bea77ed67efef839aa58b408a3cfd}{Templin}{T\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {University of Kansas}%
+      }
+      \strng{namehash}{b52bea77ed67efef839aa58b408a3cfd}
+      \strng{fullhash}{b52bea77ed67efef839aa58b408a3cfd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{Chapter 1 : Linear Regression With One Predictor Variable}
+      \field{day}{24}
+      \field{month}{10}
+      \field{title}{Chapter 1 : Linear Regression With One Predictor Variable}
+      \field{type}{Lecture Notes}
+      \field{urlday}{02}
+      \field{urlmonth}{10}
+      \field{urlyear}{2014}
+      \field{year}{2006}
+      \verb{url}
+      \verb http://jonathantemplin.com/files/glm1/psyc790f06_lecture13.pdf
+      \endverb
+    \endentry
+    \entry{toivola2010dye}{article}{}
+      \true{morelabelname}
+      \name{labelname}{1}{}{%
+        {{hash=9900c4a2c8c9f6b716110afd47011979}{Toivola}{T\bibinitperiod}{Minna}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{1}{}{%
+        {{hash=9900c4a2c8c9f6b716110afd47011979}{Toivola}{T\bibinitperiod}{Minna}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Aalto-yliopiston teknillinen korkeakoulu}%
+      }
+      \strng{namehash}{00aa5c083d3d5f92bda52fb6f3d2feb2}
+      \strng{fullhash}{00aa5c083d3d5f92bda52fb6f3d2feb2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{Dye-sensitized solar cells on alternative substrates}
+      \field{title}{Dye-sensitized solar cells on alternative substrates}
+      \field{year}{2010}
+    \endentry
+    \entry{urayai2011single}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=50a0f69d5240a8ffbd72b954f9ad2075}{Urayai}{U\bibinitperiod}{Caston}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=70770dbd184d9376108a899ae971c80e}{Amaratunga}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=50a0f69d5240a8ffbd72b954f9ad2075}{Urayai}{U\bibinitperiod}{Caston}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=70770dbd184d9376108a899ae971c80e}{Amaratunga}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{aa14e0d9d75bc16fd9453805bd18ea62}
+      \strng{fullhash}{aa14e0d9d75bc16fd9453805bd18ea62}
+      \field{sortinit}{U}
+      \field{sortinithash}{311bb924dfb84a64dcdd01c5b07d40b0}
+      \field{labeltitle}{Single sensor boost converter-based maximum power point tracking algorithms}
+      \field{booktitle}{Applied Power Electronics Conference and Exposition (APEC), 2011 Twenty-Sixth Annual IEEE}
+      \field{title}{Single sensor boost converter-based maximum power point tracking algorithms}
+      \field{year}{2011}
+      \field{pages}{1238\bibrangedash 1243}
+    \endentry
+    \entry{vignati2012solutions}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e434fd1a770086b2ef0f351071281a28}{Vignati}{V\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e434fd1a770086b2ef0f351071281a28}{Vignati}{V\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {KTH-Royal Institute of Technology}%
+      }
+      \strng{namehash}{e434fd1a770086b2ef0f351071281a28}
+      \strng{fullhash}{e434fd1a770086b2ef0f351071281a28}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{Solutions for Indoor Light Energy Harvesting}
+      \field{title}{Solutions for Indoor Light Energy Harvesting}
+      \field{year}{2012}
+    \endentry
+    \entry{wenger2010strategies}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=d380e5ee06dd3a928ec6fa23d84f61b9}{Wenger}{W\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d380e5ee06dd3a928ec6fa23d84f61b9}{Wenger}{W\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {{É}COLE POLYTECHNIQUE F{É}D{É}RALE DE LAUSANNE}%
+      }
+      \strng{namehash}{d380e5ee06dd3a928ec6fa23d84f61b9}
+      \strng{fullhash}{d380e5ee06dd3a928ec6fa23d84f61b9}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labeltitle}{Strategies to optimizing dye-sensitized solar cells: organic sensitizers, tandem device structures, and numerical device modeling}
+      \field{title}{Strategies to optimizing dye-sensitized solar cells: organic sensitizers, tandem device structures, and numerical device modeling}
+      \field{type}{phdthesis}
+      \field{year}{2010}
+    \endentry
+    \entry{yong2008modeling}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=729b8e4804549a7de86b87fa8377a5d8}{Yong}{Y\bibinitperiod}{Virginia}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=63ec796448d6c0be2b14a400ec2dff45}{Ho}{H\bibinitperiod}{Seng-Tiong}{S\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=a4c23f379927290157162ee705ef2ee4}{Chang}{C\bibinitperiod}{Robert\bibnamedelima PH}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=729b8e4804549a7de86b87fa8377a5d8}{Yong}{Y\bibinitperiod}{Virginia}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=63ec796448d6c0be2b14a400ec2dff45}{Ho}{H\bibinitperiod}{Seng-Tiong}{S\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=a4c23f379927290157162ee705ef2ee4}{Chang}{C\bibinitperiod}{Robert\bibnamedelima PH}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {AIP}%
+      }
+      \strng{namehash}{8d966a8d7383360f862b9abe6df49ec2}
+      \strng{fullhash}{8d966a8d7383360f862b9abe6df49ec2}
+      \field{sortinit}{Y}
+      \field{sortinithash}{29d12db4e709b19996b4b797fbeec132}
+      \field{labeltitle}{Modeling and simulation for dye-sensitized solar cells}
+      \field{journaltitle}{Applied Physics Letters}
+      \field{number}{14}
+      \field{title}{Modeling and simulation for dye-sensitized solar cells}
+      \field{volume}{92}
+      \field{year}{2008}
+      \field{pages}{143506\bibrangedash 143506}
+    \endentry
+  \endsortlist
+  \sortlist{nty}{nty}
+    \entry{chu2009robust}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=0c70414155d2180a99606a771754ebe8}{Chu}{C\bibinitperiod}{Chen-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=e14e6cdfeb9c8cc6654677697014588a}{Chen}{C\bibinitperiod}{Chieh-Li}{C\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=0c70414155d2180a99606a771754ebe8}{Chu}{C\bibinitperiod}{Chen-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=e14e6cdfeb9c8cc6654677697014588a}{Chen}{C\bibinitperiod}{Chieh-Li}{C\bibinithyphendelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{4bbf338541f1625b082f8efa0eba0efd}
+      \strng{fullhash}{4bbf338541f1625b082f8efa0eba0efd}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{Robust maximum power point tracking method for photovoltaic cells: A sliding mode control approach}
+      \field{journaltitle}{Solar Energy}
+      \field{number}{8}
+      \field{title}{Robust maximum power point tracking method for photovoltaic cells: A sliding mode control approach}
+      \field{volume}{83}
+      \field{year}{2009}
+      \field{pages}{1370\bibrangedash 1378}
+    \endentry
+    \entry{clark2006power}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=12f1c979101cc4179190ba9c36911b23}{Clark}{C\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bf970fe83a4cee2bb22e706c44e1fc75}{Lopez}{L\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=12f1c979101cc4179190ba9c36911b23}{Clark}{C\bibinitperiod}{C}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bf970fe83a4cee2bb22e706c44e1fc75}{Lopez}{L\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{13677d373850fb0e49c5a294d0799c7d}
+      \strng{fullhash}{13677d373850fb0e49c5a294d0799c7d}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{Power system challenges for small satellite missions}
+      \field{booktitle}{Proceedings of the 2006 Small Satellites, Systems and Services Symposium, D. Danesy, Ed. The Netherlands: ESA}
+      \field{title}{Power system challenges for small satellite missions}
+      \field{year}{2006}
+    \endentry
+    \entry{dondi2008modeling}{article}{}
+      \name{labelname}{5}{}{%
+        {{hash=65f754d36f961f8a06a0d328dc11b8cb}{Dondi}{D\bibinitperiod}{Denis}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cf42d26f6112e645fb1e8dd7fb6659d1}{Bertacchini}{B\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=50a11dece6b31e426f722240c1873f2f}{Brunelli}{B\bibinitperiod}{Davide}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=dd6e082c308226b3a6dc07320663cde8}{Larcher}{L\bibinitperiod}{Luca}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ba31f0daddec3d14ef6a4f5279845d2d}{Benini}{B\bibinitperiod}{Luca}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{5}{}{%
+        {{hash=65f754d36f961f8a06a0d328dc11b8cb}{Dondi}{D\bibinitperiod}{Denis}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=cf42d26f6112e645fb1e8dd7fb6659d1}{Bertacchini}{B\bibinitperiod}{Alessandro}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=50a11dece6b31e426f722240c1873f2f}{Brunelli}{B\bibinitperiod}{Davide}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=dd6e082c308226b3a6dc07320663cde8}{Larcher}{L\bibinitperiod}{Luca}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=ba31f0daddec3d14ef6a4f5279845d2d}{Benini}{B\bibinitperiod}{Luca}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4e99f84d3ae297672d27e6c4b35c72ec}
+      \strng{fullhash}{e5a780df569f1bde50973a33f4193e29}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{Modeling and optimization of a solar energy harvester system for self-powered wireless sensor networks}
+      \field{journaltitle}{Industrial Electronics, IEEE Transactions on}
+      \field{number}{7}
+      \field{title}{Modeling and optimization of a solar energy harvester system for self-powered wireless sensor networks}
+      \field{volume}{55}
+      \field{year}{2008}
+      \field{pages}{2759\bibrangedash 2766}
+    \endentry
+    \entry{eltawil2013mppt}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=ba9e157bf9fcef40850bba7d6175a5ee}{Eltawil}{E\bibinitperiod}{Mohamed\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5e89ff679cd2046b5aeade6aa562139b}{Zhao}{Z\bibinitperiod}{Zhengming}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=ba9e157bf9fcef40850bba7d6175a5ee}{Eltawil}{E\bibinitperiod}{Mohamed\bibnamedelima A}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=5e89ff679cd2046b5aeade6aa562139b}{Zhao}{Z\bibinitperiod}{Zhengming}{Z\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a6e53ef36d87d0e8ead47cae990d1698}
+      \strng{fullhash}{a6e53ef36d87d0e8ead47cae990d1698}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{MPPT techniques for photovoltaic applications}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{MPPT techniques for photovoltaic applications}
+      \field{volume}{25}
+      \field{year}{2013}
+      \field{pages}{793\bibrangedash 813}
+    \endentry
+    \entry{enrique2010reliable}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=c84418977c766ecd18503287858ed449}{Enrique}{E\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=86d45eaad6e773bcafc3d8c1418b9abd}{And{ú}jar}{A\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b02cd14841801d6bafe6cb039fcd6b8b}{Boh{ó}rquez}{B\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=c84418977c766ecd18503287858ed449}{Enrique}{E\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=86d45eaad6e773bcafc3d8c1418b9abd}{And{ú}jar}{A\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b02cd14841801d6bafe6cb039fcd6b8b}{Boh{ó}rquez}{B\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{21de4b305b043557071b6a5eeda5236a}
+      \strng{fullhash}{21de4b305b043557071b6a5eeda5236a}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{A reliable, fast and low cost maximum power point tracker for photovoltaic applications}
+      \field{journaltitle}{Solar Energy}
+      \field{number}{1}
+      \field{title}{A reliable, fast and low cost maximum power point tracker for photovoltaic applications}
+      \field{volume}{84}
+      \field{year}{2010}
+      \field{pages}{79\bibrangedash 89}
+    \endentry
+    \entry{esram2007comparison}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=19553988963b9b066750f32490f15b22}{Esram}{E\bibinitperiod}{Trishan}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=c1dea0538c419b5d254745bf5b666311}{Chapman}{C\bibinitperiod}{Patrick\bibnamedelima L}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=19553988963b9b066750f32490f15b22}{Esram}{E\bibinitperiod}{Trishan}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=c1dea0538c419b5d254745bf5b666311}{Chapman}{C\bibinitperiod}{Patrick\bibnamedelima L}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {IEEE INSTITUTE OF ELECTRICAL}%
+        {ELECTRONICS}%
+      }
+      \strng{namehash}{abf1277035559cb581ab5de67224fb8f}
+      \strng{fullhash}{abf1277035559cb581ab5de67224fb8f}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{Comparison of photovoltaic array maximum power point tracking techniques}
+      \field{journaltitle}{IEEE TRANSACTIONS ON ENERGY CONVERSION EC}
+      \field{number}{2}
+      \field{title}{Comparison of photovoltaic array maximum power point tracking techniques}
+      \field{volume}{22}
+      \field{year}{2007}
+      \field{pages}{439}
+    \endentry
+    \entry{faranda2008energy}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=24f674633dbd91a730e0a04f8591cf5b}{Faranda}{F\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=13c9d358d811c1a18186a2140a772eed}{Leva}{L\bibinitperiod}{Sonia}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=24f674633dbd91a730e0a04f8591cf5b}{Faranda}{F\bibinitperiod}{Roberto}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=13c9d358d811c1a18186a2140a772eed}{Leva}{L\bibinitperiod}{Sonia}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a2b302d73b16eff94b66af0bdff7528d}
+      \strng{fullhash}{a2b302d73b16eff94b66af0bdff7528d}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{Energy comparison of MPPT techniques for PV Systems}
+      \field{journaltitle}{WSEAS transactions on power systems}
+      \field{number}{6}
+      \field{title}{Energy comparison of MPPT techniques for PV Systems}
+      \field{volume}{3}
+      \field{year}{2008}
+      \field{pages}{446\bibrangedash 455}
+    \endentry
+    \entry{gcell_DSSC_cycle}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=a87792f64798c983853abc8930c7fb1d}{GCell}{G\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a87792f64798c983853abc8930c7fb1d}{GCell}{G\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{a87792f64798c983853abc8930c7fb1d}
+      \strng{fullhash}{a87792f64798c983853abc8930c7fb1d}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{How does DSSC work}
+      \field{title}{How does DSSC work}
+      \field{urlday}{03}
+      \field{urlmonth}{10}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://gcell.com/wp-content/uploads/DSSC_cycle.jpg
+      \endverb
+    \endentry
+    \entry{Gill81MurrayWright}{book}{}
+      \name{labelname}{3}{}{%
+        {{hash=39f9385073ef2b104699537ba0be16ef}{Gill}{G\bibinitperiod}{P.\bibnamedelimi E.}{P\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=317c3a3cc33b4ee2233b0185f1060b36}{Murray}{M\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=449d495e6afab180631900004aee429c}{Wright}{W\bibinitperiod}{M.\bibnamedelimi H.}{M\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=39f9385073ef2b104699537ba0be16ef}{Gill}{G\bibinitperiod}{P.\bibnamedelimi E.}{P\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=317c3a3cc33b4ee2233b0185f1060b36}{Murray}{M\bibinitperiod}{W.}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=449d495e6afab180631900004aee429c}{Wright}{W\bibinitperiod}{M.\bibnamedelimi H.}{M\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{baddbf9ec5d9c3466817f0aef99f7896}
+      \strng{fullhash}{baddbf9ec5d9c3466817f0aef99f7896}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{Practical optimization}
+      \field{title}{Practical optimization}
+      \field{year}{1981}
+    \endentry
+    \entry{gomathy2012design}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=45705be52013799c9f3a1e72db0299bd}{Gomathy}{G\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b615bcc8dd85eadf9a1e385cdfcf9c43}{Saravanan}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c3112eca2ac894274e4c4a08cb0e2303}{Thangavel}{T\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=45705be52013799c9f3a1e72db0299bd}{Gomathy}{G\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b615bcc8dd85eadf9a1e385cdfcf9c43}{Saravanan}{S\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c3112eca2ac894274e4c4a08cb0e2303}{Thangavel}{T\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{591ed3269327fd3c51f72e40d048a38f}
+      \strng{fullhash}{591ed3269327fd3c51f72e40d048a38f}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{Design and implementation of maximum power point tracking (MPPT) algorithm for a standalone PV system}
+      \field{journaltitle}{International Journal of Scientific \& Engineering Research}
+      \field{number}{3}
+      \field{title}{Design and implementation of maximum power point tracking (MPPT) algorithm for a standalone PV system}
+      \field{volume}{3}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 7}
+    \endentry
+    \entry{gratzel2004conversion}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0bd47905e4ba146c53d4c7990000b387}{Gr{ä}tzel}{G\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0bd47905e4ba146c53d4c7990000b387}{Gr{ä}tzel}{G\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0bd47905e4ba146c53d4c7990000b387}
+      \strng{fullhash}{0bd47905e4ba146c53d4c7990000b387}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{Conversion of sunlight to electric power by nanocrystalline dye-sensitized solar cells}
+      \field{journaltitle}{Journal of Photochemistry and Photobiology A: Chemistry}
+      \field{number}{1}
+      \field{title}{Conversion of sunlight to electric power by nanocrystalline dye-sensitized solar cells}
+      \field{volume}{164}
+      \field{year}{2004}
+      \field{pages}{3\bibrangedash 14}
+    \endentry
+    \entry{pv_education_org}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=826b173420c8dde6203cf3726c8c95a7}{Honsberg}{H\bibinitperiod}{Christiana}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=826b173420c8dde6203cf3726c8c95a7}{Honsberg}{H\bibinitperiod}{Christiana}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{826b173420c8dde6203cf3726c8c95a7}
+      \strng{fullhash}{826b173420c8dde6203cf3726c8c95a7}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{Double Diode Model}
+      \field{title}{Double Diode Model}
+      \field{urlday}{03}
+      \field{urlmonth}{11}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://pveducation.org/pvcdrom/characterisation/double-diode-model
+      \endverb
+    \endentry
+    \entry{houssamo2013experimental}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=75ac3f03da0e5c0189018fd77449b058}{Houssamo}{H\bibinitperiod}{Issam}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=d0c7b7a8be09f022e2526e5e7e82bae7}{Locment}{L\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=5cf4c757a9cbb6100ffacdd62907290c}{Sechilariu}{S\bibinitperiod}{Manuela}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=75ac3f03da0e5c0189018fd77449b058}{Houssamo}{H\bibinitperiod}{Issam}{I\bibinitperiod}{}{}{}{}}%
+        {{hash=d0c7b7a8be09f022e2526e5e7e82bae7}{Locment}{L\bibinitperiod}{Fabrice}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=5cf4c757a9cbb6100ffacdd62907290c}{Sechilariu}{S\bibinitperiod}{Manuela}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{349cb56a6ffbc733f27dbba65cf7493f}
+      \strng{fullhash}{349cb56a6ffbc733f27dbba65cf7493f}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{Experimental analysis of impact of MPPT methods on energy efficiency for photovoltaic power systems}
+      \field{journaltitle}{International Journal of Electrical Power \& Energy Systems}
+      \field{title}{Experimental analysis of impact of MPPT methods on energy efficiency for photovoltaic power systems}
+      \field{volume}{46}
+      \field{year}{2013}
+      \field{pages}{98\bibrangedash 107}
+    \endentry
+    \entry{jain2004new}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=b7157f21b1e6dfd4d0da8622e55efaf7}{Jain}{J\bibinitperiod}{Sachin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=246533043913bff92ca958dedf0b963e}{Agarwal}{A\bibinitperiod}{Vivek}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b7157f21b1e6dfd4d0da8622e55efaf7}{Jain}{J\bibinitperiod}{Sachin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=246533043913bff92ca958dedf0b963e}{Agarwal}{A\bibinitperiod}{Vivek}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{278dd02a64a9bc1d7624e7499c61fdfc}
+      \strng{fullhash}{278dd02a64a9bc1d7624e7499c61fdfc}
+      \field{sortinit}{J}
+      \field{sortinithash}{f75b22df8c340a961dce37019e29107f}
+      \field{labeltitle}{A new algorithm for rapid tracking of approximate maximum power point in photovoltaic systems}
+      \field{journaltitle}{Power Electronics Letters, IEEE}
+      \field{number}{1}
+      \field{title}{A new algorithm for rapid tracking of approximate maximum power point in photovoltaic systems}
+      \field{volume}{2}
+      \field{year}{2004}
+      \field{pages}{16\bibrangedash 19}
+    \endentry
+    \entry{kalyanasundaram2010dye}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7b8157e22da279fa59d8d2a80ffe006b}{Kalyanasundaram}{K\bibinitperiod}{Kuppuswamy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7b8157e22da279fa59d8d2a80ffe006b}{Kalyanasundaram}{K\bibinitperiod}{Kuppuswamy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {EPFL press}%
+      }
+      \strng{namehash}{7b8157e22da279fa59d8d2a80ffe006b}
+      \strng{fullhash}{7b8157e22da279fa59d8d2a80ffe006b}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Dye-sensitized solar cells}
+      \field{title}{Dye-sensitized solar cells}
+      \field{year}{2010}
+    \endentry
+    \entry{liu2011fast}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=6cc0e551b7b677c77c45f913aa6d6c8e}{Liu}{L\bibinitperiod}{Yi-Hua}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=a5cb7df155b286a4771f78feb34b0491}{Huang}{H\bibinitperiod}{Jia-Wei}{J\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=6cc0e551b7b677c77c45f913aa6d6c8e}{Liu}{L\bibinitperiod}{Yi-Hua}{Y\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=a5cb7df155b286a4771f78feb34b0491}{Huang}{H\bibinitperiod}{Jia-Wei}{J\bibinithyphendelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{dc845167256c8e80556660dec60f5895}
+      \strng{fullhash}{dc845167256c8e80556660dec60f5895}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{A fast and low cost analog maximum power point tracking method for low power photovoltaic systems}
+      \field{journaltitle}{Solar Energy}
+      \field{number}{11}
+      \field{title}{A fast and low cost analog maximum power point tracking method for low power photovoltaic systems}
+      \field{volume}{85}
+      \field{year}{2011}
+      \field{pages}{2771\bibrangedash 2780}
+    \endentry
+    \entry{ngan2011study}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=de143eec0bd7e0edee82ccdae3d6accd}{Ngan}{N\bibinitperiod}{Mei\bibnamedelima Shan}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=2a0d807ce354c9087f91123aa056169a}{Tan}{T\bibinitperiod}{Chee\bibnamedelima Wei}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=de143eec0bd7e0edee82ccdae3d6accd}{Ngan}{N\bibinitperiod}{Mei\bibnamedelima Shan}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=2a0d807ce354c9087f91123aa056169a}{Tan}{T\bibinitperiod}{Chee\bibnamedelima Wei}{C\bibinitperiod\bibinitdelim W\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{a9b3f6b47a24b074cc11995cc4fbd20e}
+      \strng{fullhash}{a9b3f6b47a24b074cc11995cc4fbd20e}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labeltitle}{A study of maximum power point tracking algorithms for stand-alone photovoltaic systems}
+      \field{booktitle}{Applied Power Electronics Colloquium (IAPEC), 2011 IEEE}
+      \field{title}{A study of maximum power point tracking algorithms for stand-alone photovoltaic systems}
+      \field{year}{2011}
+      \field{pages}{22\bibrangedash 27}
+    \endentry
+    \entry{nrel_Research_Cell}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=0555c9ccec3fd2deadd3866f764bed48}{NREL}{N\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0555c9ccec3fd2deadd3866f764bed48}{NREL}{N\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{0555c9ccec3fd2deadd3866f764bed48}
+      \strng{fullhash}{0555c9ccec3fd2deadd3866f764bed48}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labeltitle}{National Center for Photovoltaics, Research Cell Efficiency Records}
+      \field{title}{National Center for Photovoltaics, Research Cell Efficiency Records}
+      \field{urlday}{23}
+      \field{urlmonth}{09}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://www.nrel.gov/ncpv/images/efficiency_chart.jpg
+      \endverb
+    \endentry
+    \entry{reza2013classification}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=76d40c334fc23a35f71b4cade5742588}{Reza\bibnamedelima Reisi}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{Ali}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=df022b90feea6e8a42a4835105842699}{Hassan\bibnamedelima Moradi}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{Mohammad}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=54ade59bacb5872e3e7717685f163e2d}{Jamasb}{J\bibinitperiod}{Shahriar}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=76d40c334fc23a35f71b4cade5742588}{Reza\bibnamedelima Reisi}{R\bibinitperiod\bibinitdelim R\bibinitperiod}{Ali}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=df022b90feea6e8a42a4835105842699}{Hassan\bibnamedelima Moradi}{H\bibinitperiod\bibinitdelim M\bibinitperiod}{Mohammad}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=54ade59bacb5872e3e7717685f163e2d}{Jamasb}{J\bibinitperiod}{Shahriar}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{33ff557c85484e5e3c2d70d3c23605e1}
+      \strng{fullhash}{33ff557c85484e5e3c2d70d3c23605e1}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{Classification and comparison of maximum power point tracking techniques for photovoltaic system: A review}
+      \field{journaltitle}{Renewable and Sustainable Energy Reviews}
+      \field{title}{Classification and comparison of maximum power point tracking techniques for photovoltaic system: A review}
+      \field{volume}{19}
+      \field{year}{2013}
+      \field{pages}{433\bibrangedash 443}
+    \endentry
+    \entry{lenarreg2006}{unpublished}{}
+      \name{labelname}{1}{}{%
+        {{hash=b52bea77ed67efef839aa58b408a3cfd}{Templin}{T\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b52bea77ed67efef839aa58b408a3cfd}{Templin}{T\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {University of Kansas}%
+      }
+      \strng{namehash}{b52bea77ed67efef839aa58b408a3cfd}
+      \strng{fullhash}{b52bea77ed67efef839aa58b408a3cfd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{Chapter 1 : Linear Regression With One Predictor Variable}
+      \field{day}{24}
+      \field{month}{10}
+      \field{title}{Chapter 1 : Linear Regression With One Predictor Variable}
+      \field{type}{Lecture Notes}
+      \field{urlday}{02}
+      \field{urlmonth}{10}
+      \field{urlyear}{2014}
+      \field{year}{2006}
+      \verb{url}
+      \verb http://jonathantemplin.com/files/glm1/psyc790f06_lecture13.pdf
+      \endverb
+    \endentry
+    \entry{toivola2010dye}{article}{}
+      \true{morelabelname}
+      \name{labelname}{1}{}{%
+        {{hash=9900c4a2c8c9f6b716110afd47011979}{Toivola}{T\bibinitperiod}{Minna}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{1}{}{%
+        {{hash=9900c4a2c8c9f6b716110afd47011979}{Toivola}{T\bibinitperiod}{Minna}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Aalto-yliopiston teknillinen korkeakoulu}%
+      }
+      \strng{namehash}{00aa5c083d3d5f92bda52fb6f3d2feb2}
+      \strng{fullhash}{00aa5c083d3d5f92bda52fb6f3d2feb2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{Dye-sensitized solar cells on alternative substrates}
+      \field{title}{Dye-sensitized solar cells on alternative substrates}
+      \field{year}{2010}
+    \endentry
+    \entry{urayai2011single}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=50a0f69d5240a8ffbd72b954f9ad2075}{Urayai}{U\bibinitperiod}{Caston}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=70770dbd184d9376108a899ae971c80e}{Amaratunga}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=50a0f69d5240a8ffbd72b954f9ad2075}{Urayai}{U\bibinitperiod}{Caston}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=70770dbd184d9376108a899ae971c80e}{Amaratunga}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{aa14e0d9d75bc16fd9453805bd18ea62}
+      \strng{fullhash}{aa14e0d9d75bc16fd9453805bd18ea62}
+      \field{sortinit}{U}
+      \field{sortinithash}{311bb924dfb84a64dcdd01c5b07d40b0}
+      \field{labeltitle}{Single sensor boost converter-based maximum power point tracking algorithms}
+      \field{booktitle}{Applied Power Electronics Conference and Exposition (APEC), 2011 Twenty-Sixth Annual IEEE}
+      \field{title}{Single sensor boost converter-based maximum power point tracking algorithms}
+      \field{year}{2011}
+      \field{pages}{1238\bibrangedash 1243}
+    \endentry
+    \entry{vignati2012solutions}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e434fd1a770086b2ef0f351071281a28}{Vignati}{V\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e434fd1a770086b2ef0f351071281a28}{Vignati}{V\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {KTH-Royal Institute of Technology}%
+      }
+      \strng{namehash}{e434fd1a770086b2ef0f351071281a28}
+      \strng{fullhash}{e434fd1a770086b2ef0f351071281a28}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{Solutions for Indoor Light Energy Harvesting}
+      \field{title}{Solutions for Indoor Light Energy Harvesting}
+      \field{year}{2012}
+    \endentry
+    \entry{wenger2010strategies}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=d380e5ee06dd3a928ec6fa23d84f61b9}{Wenger}{W\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d380e5ee06dd3a928ec6fa23d84f61b9}{Wenger}{W\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {{É}COLE POLYTECHNIQUE F{É}D{É}RALE DE LAUSANNE}%
+      }
+      \strng{namehash}{d380e5ee06dd3a928ec6fa23d84f61b9}
+      \strng{fullhash}{d380e5ee06dd3a928ec6fa23d84f61b9}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labeltitle}{Strategies to optimizing dye-sensitized solar cells: organic sensitizers, tandem device structures, and numerical device modeling}
+      \field{title}{Strategies to optimizing dye-sensitized solar cells: organic sensitizers, tandem device structures, and numerical device modeling}
+      \field{type}{phdthesis}
+      \field{year}{2010}
+    \endentry
+    \entry{yong2008modeling}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=729b8e4804549a7de86b87fa8377a5d8}{Yong}{Y\bibinitperiod}{Virginia}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=63ec796448d6c0be2b14a400ec2dff45}{Ho}{H\bibinitperiod}{Seng-Tiong}{S\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=a4c23f379927290157162ee705ef2ee4}{Chang}{C\bibinitperiod}{Robert\bibnamedelima PH}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=729b8e4804549a7de86b87fa8377a5d8}{Yong}{Y\bibinitperiod}{Virginia}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=63ec796448d6c0be2b14a400ec2dff45}{Ho}{H\bibinitperiod}{Seng-Tiong}{S\bibinithyphendelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=a4c23f379927290157162ee705ef2ee4}{Chang}{C\bibinitperiod}{Robert\bibnamedelima PH}{R\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {AIP}%
+      }
+      \strng{namehash}{8d966a8d7383360f862b9abe6df49ec2}
+      \strng{fullhash}{8d966a8d7383360f862b9abe6df49ec2}
+      \field{sortinit}{Y}
+      \field{sortinithash}{29d12db4e709b19996b4b797fbeec132}
+      \field{labeltitle}{Modeling and simulation for dye-sensitized solar cells}
+      \field{journaltitle}{Applied Physics Letters}
+      \field{number}{14}
+      \field{title}{Modeling and simulation for dye-sensitized solar cells}
+      \field{volume}{92}
+      \field{year}{2008}
+      \field{pages}{143506\bibrangedash 143506}
+    \endentry
+  \endsortlist
+  \missing{messai2011maximu}
+\endrefsection
+\endinput
+

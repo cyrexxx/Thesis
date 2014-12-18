@@ -24,9 +24,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Simplified single diode model for a solar cell \relax }}{12}{figure.caption.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Double diode model for a solar cell \relax }}{13}{figure.caption.29}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Double diode model for a solar cell (adapted from \cite {pv_education_org}) \relax }}{13}{figure.caption.29}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Equivalent circuit for DSCs \relax }}{14}{figure.caption.30}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Equivalent circuit for DSCs (adapted from \cite {yong2008modeling}) \relax }}{14}{figure.caption.30}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.7}{\ignorespaces spread of measured illumination vs Voltage \relax }}{15}{figure.caption.31}
 \defcounter {refsection}{0}\relax 
@@ -40,7 +40,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.12}{\ignorespaces Black box model for the Incremental Conductance Algorithm \relax }}{20}{figure.caption.36}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Flow chart for the fractional open circuit voltage Method Method \relax }}{21}{figure.caption.37}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Flow chart for the fractional open circuit voltage Method (adapted from \cite {reza2013classification})\relax }}{21}{figure.caption.37}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.14}{\ignorespaces Example for linear regression \relax }}{23}{figure.caption.38}
 \defcounter {refsection}{0}\relax 
@@ -70,7 +70,7 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces I\IeC {\textendash }V curves of the solar panel under different irradiation levels and the voltage approximation line. \cite {liu2011fast} \relax }}{39}{figure.caption.52}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces I\IeC {\textendash }V curves of the solar panel under different irradiation levels and the voltage approximation line. \cite {liu2011fast} \relax }}{38}{figure.caption.52}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {5.2}{\ignorespaces Variation of V\textsubscript {MPP} for different illumination observed **in/on** the DSC under test \relax }}{39}{figure.caption.53}
 \defcounter {refsection}{0}\relax 

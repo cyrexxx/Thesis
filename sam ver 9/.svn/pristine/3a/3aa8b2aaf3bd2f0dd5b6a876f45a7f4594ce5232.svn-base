@@ -1,0 +1,64 @@
+\documentclass[a4paper,12pt,openright,english,twoside]{report}
+
+%\usepackage[T1]{fontenc}     			             		% font encoding
+%\usepackage[utf8]{inputenc} 			          		% input encoding
+
+% KTH colors
+% site:
+% {0.435294118,0.647058824,0.831372549}
+% {0.88627451,0.88627451,0.88627451}
+% {0.705882353,0.784313725,0.882352941}
+% {0.666666667,0.717647059,0.8}
+% {0.866666667,0.866666667,0.866666667}
+
+\usepackage[	
+	author={Your Name},						% author
+	title={Thesis title},						% title
+	subtitle={Thesis subtitle},					% subtitle
+	date={\today}
+]{thesis}
+
+\begin{document}
+
+	%\include{chapters/00_title}
+	\makeititle
+
+	\pagenumbering{roman}
+	\pagestyle{begin}		% bug on tocloftpagestyle
+	
+	\include{chapters/01_abstract}
+	\include{chapters/02_ack}
+
+	\clearpage
+	\tableofcontents
+	\clearpage
+	\listoffigures
+	\clearpage
+	\listoftables
+
+	% acronym list
+	\input{chapters/03_acronyms}
+
+	\cleardoublepage
+	\pagenumbering{arabic}
+	\setcounter{page}{1}
+
+	\pagestyle{main}
+
+	\include{chapters/10_intro}
+	\include{chapters/20_related}
+	\include{chapters/30_chapter}
+
+	% you can split in multiple parts
+	\part{One Part}
+	\include{chapters/40_another_chapt}
+
+	\part{Another Part}
+	\include{chapters/50_another_chapt}
+
+	\appendix
+	\include{chapters/60_appendix}
+
+	\printbibliography
+	
+\end{document}

@@ -1,0 +1,273 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{}{}
+    \entry{enrique2010reliable}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=c84418977c766ecd18503287858ed449}{Enrique}{E\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=86d45eaad6e773bcafc3d8c1418b9abd}{And{ú}jar}{A\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b02cd14841801d6bafe6cb039fcd6b8b}{Boh{ó}rquez}{B\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=c84418977c766ecd18503287858ed449}{Enrique}{E\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=86d45eaad6e773bcafc3d8c1418b9abd}{And{ú}jar}{A\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b02cd14841801d6bafe6cb039fcd6b8b}{Boh{ó}rquez}{B\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{21de4b305b043557071b6a5eeda5236a}
+      \strng{fullhash}{21de4b305b043557071b6a5eeda5236a}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{A reliable, fast and low cost maximum power point tracker for photovoltaic applications}
+      \field{journaltitle}{Solar Energy}
+      \field{number}{1}
+      \field{title}{A reliable, fast and low cost maximum power point tracker for photovoltaic applications}
+      \field{volume}{84}
+      \field{year}{2010}
+      \field{pages}{79\bibrangedash 89}
+    \endentry
+    \entry{gratzel2004conversion}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0bd47905e4ba146c53d4c7990000b387}{Gr{ä}tzel}{G\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0bd47905e4ba146c53d4c7990000b387}{Gr{ä}tzel}{G\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0bd47905e4ba146c53d4c7990000b387}
+      \strng{fullhash}{0bd47905e4ba146c53d4c7990000b387}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{Conversion of sunlight to electric power by nanocrystalline dye-sensitized solar cells}
+      \field{journaltitle}{Journal of Photochemistry and Photobiology A: Chemistry}
+      \field{number}{1}
+      \field{title}{Conversion of sunlight to electric power by nanocrystalline dye-sensitized solar cells}
+      \field{volume}{164}
+      \field{year}{2004}
+      \field{pages}{3\bibrangedash 14}
+    \endentry
+    \entry{kalyanasundaram2010dye}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7b8157e22da279fa59d8d2a80ffe006b}{Kalyanasundaram}{K\bibinitperiod}{Kuppuswamy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7b8157e22da279fa59d8d2a80ffe006b}{Kalyanasundaram}{K\bibinitperiod}{Kuppuswamy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {EPFL press}%
+      }
+      \strng{namehash}{7b8157e22da279fa59d8d2a80ffe006b}
+      \strng{fullhash}{7b8157e22da279fa59d8d2a80ffe006b}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Dye-sensitized solar cells}
+      \field{title}{Dye-sensitized solar cells}
+      \field{year}{2010}
+    \endentry
+    \entry{nrel_Research_Cell}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=0555c9ccec3fd2deadd3866f764bed48}{NREL}{N\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0555c9ccec3fd2deadd3866f764bed48}{NREL}{N\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{0555c9ccec3fd2deadd3866f764bed48}
+      \strng{fullhash}{0555c9ccec3fd2deadd3866f764bed48}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labeltitle}{National Center for Photovoltaics, Research Cell Efficiency Records}
+      \field{title}{National Center for Photovoltaics, Research Cell Efficiency Records}
+      \verb{url}
+      \verb http://www.nrel.gov/ncpv/images/efficiency_chart.jpg
+      \endverb
+      \warn{\item Datamodel: Entry 'nrel_Research_Cell' (bibliography.bib): Invalid format '23-09-2014' of date field 'date' - ignoring}
+    \endentry
+    \entry{toivola2010dye}{article}{}
+      \true{morelabelname}
+      \name{labelname}{1}{}{%
+        {{hash=9900c4a2c8c9f6b716110afd47011979}{Toivola}{T\bibinitperiod}{Minna}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{1}{}{%
+        {{hash=9900c4a2c8c9f6b716110afd47011979}{Toivola}{T\bibinitperiod}{Minna}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Aalto-yliopiston teknillinen korkeakoulu}%
+      }
+      \strng{namehash}{00aa5c083d3d5f92bda52fb6f3d2feb2}
+      \strng{fullhash}{00aa5c083d3d5f92bda52fb6f3d2feb2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{Dye-sensitized solar cells on alternative substrates}
+      \field{title}{Dye-sensitized solar cells on alternative substrates}
+      \field{year}{2010}
+    \endentry
+    \entry{wenger2010strategies}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=d380e5ee06dd3a928ec6fa23d84f61b9}{Wenger}{W\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d380e5ee06dd3a928ec6fa23d84f61b9}{Wenger}{W\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {{É}COLE POLYTECHNIQUE F{É}D{É}RALE DE LAUSANNE}%
+      }
+      \strng{namehash}{d380e5ee06dd3a928ec6fa23d84f61b9}
+      \strng{fullhash}{d380e5ee06dd3a928ec6fa23d84f61b9}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labeltitle}{Strategies to optimizing dye-sensitized solar cells: organic sensitizers, tandem device structures, and numerical device modeling}
+      \field{title}{Strategies to optimizing dye-sensitized solar cells: organic sensitizers, tandem device structures, and numerical device modeling}
+      \field{type}{phdthesis}
+      \field{year}{2010}
+    \endentry
+  \endsortlist
+  \sortlist{nty}{nty}
+    \entry{enrique2010reliable}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=c84418977c766ecd18503287858ed449}{Enrique}{E\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=86d45eaad6e773bcafc3d8c1418b9abd}{And{ú}jar}{A\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b02cd14841801d6bafe6cb039fcd6b8b}{Boh{ó}rquez}{B\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=c84418977c766ecd18503287858ed449}{Enrique}{E\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=86d45eaad6e773bcafc3d8c1418b9abd}{And{ú}jar}{A\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=b02cd14841801d6bafe6cb039fcd6b8b}{Boh{ó}rquez}{B\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{21de4b305b043557071b6a5eeda5236a}
+      \strng{fullhash}{21de4b305b043557071b6a5eeda5236a}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{A reliable, fast and low cost maximum power point tracker for photovoltaic applications}
+      \field{journaltitle}{Solar Energy}
+      \field{number}{1}
+      \field{title}{A reliable, fast and low cost maximum power point tracker for photovoltaic applications}
+      \field{volume}{84}
+      \field{year}{2010}
+      \field{pages}{79\bibrangedash 89}
+    \endentry
+    \entry{gratzel2004conversion}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=0bd47905e4ba146c53d4c7990000b387}{Gr{ä}tzel}{G\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0bd47905e4ba146c53d4c7990000b387}{Gr{ä}tzel}{G\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0bd47905e4ba146c53d4c7990000b387}
+      \strng{fullhash}{0bd47905e4ba146c53d4c7990000b387}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{Conversion of sunlight to electric power by nanocrystalline dye-sensitized solar cells}
+      \field{journaltitle}{Journal of Photochemistry and Photobiology A: Chemistry}
+      \field{number}{1}
+      \field{title}{Conversion of sunlight to electric power by nanocrystalline dye-sensitized solar cells}
+      \field{volume}{164}
+      \field{year}{2004}
+      \field{pages}{3\bibrangedash 14}
+    \endentry
+    \entry{kalyanasundaram2010dye}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7b8157e22da279fa59d8d2a80ffe006b}{Kalyanasundaram}{K\bibinitperiod}{Kuppuswamy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7b8157e22da279fa59d8d2a80ffe006b}{Kalyanasundaram}{K\bibinitperiod}{Kuppuswamy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {EPFL press}%
+      }
+      \strng{namehash}{7b8157e22da279fa59d8d2a80ffe006b}
+      \strng{fullhash}{7b8157e22da279fa59d8d2a80ffe006b}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{Dye-sensitized solar cells}
+      \field{title}{Dye-sensitized solar cells}
+      \field{year}{2010}
+    \endentry
+    \entry{nrel_Research_Cell}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=0555c9ccec3fd2deadd3866f764bed48}{NREL}{N\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0555c9ccec3fd2deadd3866f764bed48}{NREL}{N\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{0555c9ccec3fd2deadd3866f764bed48}
+      \strng{fullhash}{0555c9ccec3fd2deadd3866f764bed48}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labeltitle}{National Center for Photovoltaics, Research Cell Efficiency Records}
+      \field{title}{National Center for Photovoltaics, Research Cell Efficiency Records}
+      \verb{url}
+      \verb http://www.nrel.gov/ncpv/images/efficiency_chart.jpg
+      \endverb
+      \warn{\item Datamodel: Entry 'nrel_Research_Cell' (bibliography.bib): Invalid format '23-09-2014' of date field 'date' - ignoring}
+    \endentry
+    \entry{toivola2010dye}{article}{}
+      \true{morelabelname}
+      \name{labelname}{1}{}{%
+        {{hash=9900c4a2c8c9f6b716110afd47011979}{Toivola}{T\bibinitperiod}{Minna}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \true{moreauthor}
+      \name{author}{1}{}{%
+        {{hash=9900c4a2c8c9f6b716110afd47011979}{Toivola}{T\bibinitperiod}{Minna}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Aalto-yliopiston teknillinen korkeakoulu}%
+      }
+      \strng{namehash}{00aa5c083d3d5f92bda52fb6f3d2feb2}
+      \strng{fullhash}{00aa5c083d3d5f92bda52fb6f3d2feb2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{Dye-sensitized solar cells on alternative substrates}
+      \field{title}{Dye-sensitized solar cells on alternative substrates}
+      \field{year}{2010}
+    \endentry
+    \entry{wenger2010strategies}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=d380e5ee06dd3a928ec6fa23d84f61b9}{Wenger}{W\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d380e5ee06dd3a928ec6fa23d84f61b9}{Wenger}{W\bibinitperiod}{Sophie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {{É}COLE POLYTECHNIQUE F{É}D{É}RALE DE LAUSANNE}%
+      }
+      \strng{namehash}{d380e5ee06dd3a928ec6fa23d84f61b9}
+      \strng{fullhash}{d380e5ee06dd3a928ec6fa23d84f61b9}
+      \field{sortinit}{W}
+      \field{sortinithash}{e560dae78a85a037c3da51c61467873a}
+      \field{labeltitle}{Strategies to optimizing dye-sensitized solar cells: organic sensitizers, tandem device structures, and numerical device modeling}
+      \field{title}{Strategies to optimizing dye-sensitized solar cells: organic sensitizers, tandem device structures, and numerical device modeling}
+      \field{type}{phdthesis}
+      \field{year}{2010}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

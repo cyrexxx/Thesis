@@ -1,0 +1,76 @@
+\documentclass[a4paper,11pt,openright,english,twoside]{report}
+%\usepackage[T1]{fontenc}     			             		% font encoding
+%\usepackage[utf8]{inputenc} 			          		% input encoding
+%\usepackage{subcaption}
+% use paper rather more fully
+\usepackage{fullpage}
+%\usepackage{savetrees}  % extreme: for drafts
+
+% use paper rather more fully
+\usepackage{fullpage}
+%\usepackage{savetrees}  % extreme: for drafts
+
+% versatile multi-column environment
+\usepackage{multicol}
+
+% extra general symbols
+\usepackage{latexsym}
+
+% extra maths capabilities
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage{color}
+\usepackage{multirow}
+
+% KTH colors
+% site:
+% {0.435294118,0.647058824,0.831372549}
+% {0.88627451,0.88627451,0.88627451}
+% {0.705882353,0.784313725,0.882352941}
+% {0.666666667,0.717647059,0.8}
+% {0.866666667,0.866666667,0.866666667}
+\usepackage[	
+	author={Samarth Deo},						% author
+	title={Synchronized Phasor Measurement Units},						% title
+	subtitle={Implementation Of Phasor Measurement Unit Function On An HVDC Control Platform},	 % subtitle
+       	date={\today},
+]{thesis}
+
+\begin{document}
+
+	%\include{chapters/00_title}
+	\makeititle
+	
+	\pagenumbering{roman}
+	\pagestyle{begin}		% bug on tocloftpagestyle
+	
+	\include{chapters/01_abstract}
+	\include{chapters/02_ack}
+
+	\clearpage
+	\tableofcontents
+	\clearpage
+	\listoffigures
+	\listoftables
+	
+	% acronym list
+	\input{chapters/03_acronyms}
+
+	\cleardoublepage
+	\pagenumbering{arabic}
+	\setcounter{page}{1}
+
+	\pagestyle{main}
+
+	\include{chapters/10_intro}
+	%\include{chapters/20_related}
+	%\include{chapters/30_chapter}
+         \include{chapters/40_chapter}
+	%\include{chapters/50_chapter}
+         %\include{chapters/60_chapter}
+     
+	\printbibliography
+\end{document}

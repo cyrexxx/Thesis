@@ -7,7 +7,6 @@
   
 \section{Dye-Sensitized Solar Cells(DSCs)}
 
-**Move part of the text and pictures from introduction to here **
 The basic structure of \ac{DSCs} is represented in the Figure ~\ref{fig:DSC_struc} on page ~\pageref{fig:DSC_struc}. 
 
 \begin{figure}[H]
@@ -30,12 +29,10 @@ The most commonly used substrate is glass coated with \ac{FTO}. Attached to the 
 The amount of current that the cell is able to generate is determined by the energetic distance of the \ac{HOMO} and \ac{LUMO} of the dye, which equals the band gap in inorganic semiconductors. The maximum voltage, on the other hand, is defined as the difference between the redox level of the electrolyte and the Fermi level of the \ce{TiO2}.With iodide/triiodide redox couple, this difference is 0.9 V, though slight variation is caused by the electrolyte composition due to species adsorbed on the \ce{TiO2} surface, which may alter the Fermi level position somewhat. Also, there is always some recombination in the cell which lessens the amount of electrons in the TiO2 film, thus lowering the Fermi level and decreasing the cell voltage. \cite{toivola2010dye}.  This operating principle of \ac{DSCs} is depicted in the Figure ~\ref{fig:Cell_Cycle} on page ~\pageref{fig:Cell_Cycle}. \\
 
 
-**Info about single diode model of DSCs Pictures etc** \newline
-
   
   
 \subsection{Single diode model}\label{sec:SDM}
-The simplest equivalent circuit of a generic solar cell is a Single diode model comprising of a current source in parallel with a diode.A sightly more detailed model includes a shunt resistance of the cell which takes into account the parallel resistive losses representing leakage current across the junction in the cell. This model is sometimes referred to as a single exponential five-parameter model\cite{vignati2012solutions}. Like before, the incident photons induces a current in the active area that is proportional to the intensity of the light falling on the cell.
+The simplest equivalent circuit of a generic solar cell is a Single diode model comprising of a current source in parallel with a diode.A sightly more detailed model includes a shunt resistance of the cell which takes into account the parallel resistive losses representing leakage current across the junction in the cell. This model is sometimes referred to as a single exponential five-parameter model\cite{vignati2012solutions}. **Like before, the incident photons induces a current in the active area that is proportional to the intensity of the light falling on the cell.
 
  \begin{figure}[H]
   \begin{center}
@@ -55,8 +52,8 @@ The power conversion efficiency of a solar cell is determined from the current v
    \end{aligned}
    \end{equation}
 
- where \textbf{I\textsubscript{s}} is the diode saturation current, \textbf{V} is the applied bias voltage, \textbf{\textit{m}} is an ideality factor ( \textit{m} = 1 for an ideal cell), \textbf{\textit{k}} is the Boltzmann constant, and \textbf{T} is the device temperature\cite{pointwenger2010strategies}. For small forward bias voltages the numerical value of the exponential is very large and 
-  the thermal voltage very small, therefore the '-1' in the didoe equation can be safely neglected and the forward diode current can be written as\cite{pv_education_org}:
+ where \textbf{I\textsubscript{s}} is the diode saturation current, \textbf{V} is the applied bias voltage, \textbf{\textit{m}} is an ideality factor ( \textit{m} = 1 for an ideal cell), \textbf{\textit{k}} is the Boltzmann constant, and \textbf{T} is the device temperature\cite{wenger2010strategies}. For small forward bias voltages the numerical value of the exponential is very large and 
+  the thermal voltage very small, therefore the '-1' in the diode equation can be safely neglected and the forward diode current can be written as\cite{pv_education_org}:
   \begin{equation}
    \begin{aligned}
     I\textsubscript{dark}= I\textsubscript{s} (e^{\frac{eV}{\textit{mk}T}}) 
@@ -102,7 +99,7 @@ The single diode equation assumes a constant value for the ideality factor n. In
  \begin{figure}[H]
   \begin{center}
   \includegraphics[width=\textwidth]{images/Double_diode_model}
-  \caption{ Double diode model for a solar cell }
+  \caption{ Double diode model for a solar cell (adapted from \cite{pv_education_org}) }
   \label{fig:Double_EQu_cell}
   \end{center}
   \end{figure}
@@ -127,7 +124,7 @@ A standard \ac{DSCs} typically contains three interfaces formed by FTO/TiO\texts
  \begin{figure}[H]
   \begin{center}
 	\includegraphics[width=1.0\linewidth]{images/dsc_eq_ckt}
-	\caption{Equivalent circuit for DSCs  }
+	\caption{Equivalent circuit for DSCs (adapted from \cite{yong2008modeling})  }
 	\label{fig:dsc_eq_ckt}
   \end{center}
   \end{figure}
@@ -253,8 +250,8 @@ To overcome this problem, several methods for extracting the maximum power have 
   
   \begin{figure}[H]
         \begin{center}
-        \includegraphics[width=0.5\textwidth]{images/Frac_Flow}
-        \caption{ Flow chart for the fractional open circuit voltage Method  Method }
+        \includegraphics[width=0.5\textwidth]{images/Vopen_circuit_Flow}       %Frac_Flow}
+        \caption{ Flow chart for the fractional open circuit voltage Method (adapted from \cite{reza2013classification})}
         \label{fig:focflow}
         \end{center}
         \end{figure}
@@ -352,6 +349,8 @@ where ${\phi}$ is the golden ratio whose value is given by:\\
 \end{aligned}
 \end{equation}
 **add more text about Golden search **
+\cite{Gill81MurrayWright}
+
 \begin{figure}[H]
   \begin{center}
   \includegraphics[width=\textwidth]{images/pacehold}

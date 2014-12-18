@@ -1,0 +1,8 @@
+\pdfbookmark{Abstract}{Abstract}
+\chapter*{Abstract}
+\thispagestyle{begin}
+
+% Here the abstract, remove the following command
+\Blindtext
+
+\acresetall

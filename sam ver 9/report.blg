@@ -1,0 +1,22 @@
+[0] Config.pm:320> INFO - This is Biber 1.9
+[0] Config.pm:323> INFO - Logfile is 'report.blg'
+[46] biber-MSWIN:274> INFO - === %a %b %e, %Y, %H:%M:%S
+[46] Biber.pm:333> INFO - Reading 'report.bcf'
+[147] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
+[148] Biber.pm:635> INFO - Found 6 citekeys in bib section 0
+[191] Biber.pm:3051> INFO - Processing section 0
+[241] Biber.pm:3189> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[247] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[251] bibtex.pm:864> INFO - Found BibTeX data source 'bibliography.bib'
+[262] Utils.pm:144> WARN - Datamodel: Entry 'nrel_Research_Cell' (bibliography.bib): Invalid format '23-09-2014' of date field 'date' - ignoring
+[382] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[382] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[382] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
+[382] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[484] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[484] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[484] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale ''
+[484] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[504] bbl.pm:517> INFO - Writing 'report.bbl' with encoding 'UTF-8'
+[507] bbl.pm:606> INFO - Output to report.bbl
+[507] Biber.pm:106> INFO - WARNINGS: 2

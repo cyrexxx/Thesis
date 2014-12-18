@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  25 NOV 2014 15:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  11 DEC 2014 17:39
 entering extended mode
 **report.tex
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.tex
@@ -1817,15 +1817,26 @@ Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'report.bbl' found.
 
-(C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.bbl)
+
+Package biblatex Warning: File 'report.bbl' is wrong format version - expected 
+2.3.
+
+Package biblatex Info: ... file 'report.bbl' found.
+(C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                messai2011maximu
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 43.
 Package biblatex Info: Reference segment=0 on input line 43.
 \AtBeginShipoutBox=\box76
 Package hyperref Info: Link coloring ON on input line 43.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
@@ -1881,7 +1892,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
  []
 
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 8.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 10.
 ) [1
 
 
@@ -1959,15 +1970,10 @@ File: ts1pplx.fd 2004/09/06 font definitions for TS1/pplx.
 ])
 \tf@toc=\write8
  [5]
-(C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.lof
-Overfull \hbox (22.42145pt too wide) in paragraph at lines 21--21
- [][] [][][]\T1/pplx/m/n/10.95 (-20) The struc-ture and op-er-at-ing prin-ci-pl
-e of a DSC (adapted from [[] 
- []
-
-)
+(C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.lof)
 \tf@lof=\write9
- (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.lot)
+
+(C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.lot)
 \tf@lot=\write10
 
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\chapters/03_acronyms.tex
@@ -1991,17 +1997,9 @@ although it is yet undefined on input line 3.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/m/sc/14.4'.
 (microtype)             Ignoring protrusion settings for this character.
-
-LaTeX Warning: Citation 'kalyanasundaram2010dye' on page 1 undefined on input l
-ine 8.
-
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/iwona/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-
-LaTeX Warning: Citation 'gratzel2004conversion' on page 1 undefined on input li
-ne 12.
-
 Package acronym Info: Label `acro:CdTe' newly defined as it shall be overridden
 
 although it is yet undefined on input line 12.
@@ -2014,23 +2012,16 @@ Package acronym Info: Label `acro:a-Si' newly defined as it shall be overridden
 
 although it is yet undefined on input line 12.
 
-LaTeX Warning: Citation 'toivola2010dye' on page 1 undefined on input line 12.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
-
-
-LaTeX Warning: Citation 'wenger2010strategies' on page 1 undefined on input lin
-e 14.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-<images/efficiency_chart.jpg, id=445, 1009.371pt x 591.6504pt>
+<images/efficiency_chart.jpg, id=486, 1009.371pt x 591.6504pt>
 File: images/efficiency_chart.jpg Graphic file (type jpg)
 
 <use images/efficiency_chart.jpg>
@@ -2038,18 +2029,7 @@ Package pdftex.def Info: images/efficiency_chart.jpg used on input line 18.
 (pdftex.def)             Requested size: 418.25368pt x 245.1602pt.
 LaTeX Font Info:    Font shape `T1/iwona/bx/n' in size <10> not available
 (Font)              Font shape `T1/iwona/b/n' tried instead on input line 19.
-
-
-LaTeX Warning: Citation 'nrel_Research_Cell' on page 1 undefined on input line 
-19.
-
-LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <10> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 19.
-
-LaTeX Warning: Citation 'nrel_Research_Cell' on page 1 undefined on input line 
-19.
-
-[1
+ [1
 
 
 
@@ -2063,7 +2043,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
-<images/3rd_gen.png, id=458, 621.07031pt x 353.06906pt>
+<images/3rd_gen.png, id=504, 621.07031pt x 353.06906pt>
 File: images/3rd_gen.png Graphic file (type png)
 
 <use images/3rd_gen.png>
@@ -2078,17 +2058,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--40
 Package acronym Info: Label `acro:MPP' newly defined as it shall be overridden
 although it is yet undefined on input line 44.
 
-LaTeX Warning: Citation 'enrique2010reliable' on page 3 undefined on input line
- 44.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
-
-
-LaTeX Warning: Citation 'enrique2010reliable' on page 3 undefined on input line
- 46.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
@@ -2096,14 +2068,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
  []
 
 [3 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/3rd_gen.png>]
-<images/I-V-lux.png, id=481, 1264.12276pt x 919.0335pt>
+<images/I-V-lux.png, id=530, 1264.12276pt x 919.0335pt>
 File: images/I-V-lux.png Graphic file (type png)
 
 <use images/I-V-lux.png>
 Package pdftex.def Info: images/I-V-lux.png used on input line 54.
 (pdftex.def)             Requested size: 418.25368pt x 304.08131pt.
 
-<images/IV_lux_MPP.png, id=482, 520.21939pt x 317.11577pt>
+<images/IV_lux_MPP.png, id=531, 520.21939pt x 317.11577pt>
 File: images/IV_lux_MPP.png Graphic file (type png)
 
 <use images/IV_lux_MPP.png>
@@ -2111,7 +2083,7 @@ Package pdftex.def Info: images/IV_lux_MPP.png used on input line 62.
 (pdftex.def)             Requested size: 418.25368pt x 254.9704pt.
  [4 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/I-V-lux.png>]
 
-<images/PV_LUX.png, id=487, 520.21939pt x 317.11577pt>
+<images/PV_LUX.png, id=536, 520.21939pt x 317.11577pt>
 File: images/PV_LUX.png Graphic file (type png)
  <use images/PV_LUX.png>
 Package pdftex.def Info: images/PV_LUX.png used on input line 70.
@@ -2154,42 +2126,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
 ]
 Chapter 2.
-<images/DSCs_struc.png, id=524, 605.26125pt x 246.9225pt>
+<images/DSCs_struc.png, id=578, 605.26125pt x 246.9225pt>
 File: images/DSCs_struc.png Graphic file (type png)
 
 <use images/DSCs_struc.png>
-Package pdftex.def Info: images/DSCs_struc.png used on input line 15.
+Package pdftex.def Info: images/DSCs_struc.png used on input line 14.
 (pdftex.def)             Requested size: 418.25368pt x 170.63289pt.
 Package acronym Info: Label `acro:FTO' newly defined as it shall be overridden
-although it is yet undefined on input line 21.
+although it is yet undefined on input line 20.
 Package acronym Info: Label `acro:WE' newly defined as it shall be overridden
-although it is yet undefined on input line 21.
+although it is yet undefined on input line 20.
 Package acronym Info: Label `acro:CE' newly defined as it shall be overridden
-although it is yet undefined on input line 21.
+although it is yet undefined on input line 20.
 
-<images/Cell_Cycle.png, id=528, 594.72188pt x 490.83376pt>
+<images/Cell_Cycle.png, id=582, 594.72188pt x 490.83376pt>
 File: images/Cell_Cycle.png Graphic file (type png)
 
 <use images/Cell_Cycle.png>
-Package pdftex.def Info: images/Cell_Cycle.png used on input line 24.
+Package pdftex.def Info: images/Cell_Cycle.png used on input line 23.
 (pdftex.def)             Requested size: 418.25368pt x 345.19153pt.
 
-
-LaTeX Warning: Citation 'toivola2010dye' on page 9 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'gcell_DSSC_cycle' on page 9 undefined on input line 25
-.
-
-
-LaTeX Warning: Citation 'toivola2010dye' on page 9 undefined on input line 25.
-
-
-LaTeX Warning: Citation 'gcell_DSSC_cycle' on page 9 undefined on input line 25
-.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--28
+Underfull \hbox (badness 10000) in paragraph at lines 20--27
 
  []
 
@@ -2197,263 +2154,191 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--28
 >]
 Package acronym Info: Label `acro:HOMO' newly defined as it shall be overridden
 
-although it is yet undefined on input line 30.
+although it is yet undefined on input line 29.
 Package acronym Info: Label `acro:LUMO' newly defined as it shall be overridden
 
-although it is yet undefined on input line 30.
+although it is yet undefined on input line 29.
 
-
-LaTeX Warning: Citation 'toivola2010dye' on page 10 undefined on input line 30.
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
 [10 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Cell_Cycle.pn
-g>]
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
-
- []
-
-
-LaTeX Warning: Citation 'vignati2012solutions' on page 11 undefined on input li
-ne 38.
-
-<images/simplified_single_diode_model.png, id=544, 1003.75pt x 503.8825pt>
+g>] <images/simplified_single_diode_model.png, id=604, 1003.75pt x 503.8825pt>
 File: images/simplified_single_diode_model.png Graphic file (type png)
 
 <use images/simplified_single_diode_model.png>
 Package pdftex.def Info: images/simplified_single_diode_model.png used on input
- line 42.
+ line 39.
 (pdftex.def)             Requested size: 418.25368pt x 209.96846pt.
-
-
-LaTeX Warning: Citation 'wenger2010strategies' on page 11 undefined on input li
-ne 49.
-
-[11 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/simplified_si
-ngle_diode_model.png>]
 LaTeX Font Info:    Font shape `T1/pplx/bx/n' in size <8> not available
-(Font)              Font shape `T1/pplx/b/n' tried instead on input line 58.
+(Font)              Font shape `T1/pplx/b/n' tried instead on input line 55.
 LaTeX Font Info:    Font shape `T1/pplx/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/pplx/b/it' tried instead on input line 58.
-
-
-LaTeX Warning: Citation 'pointwenger2010strategies' on page 12 undefined on inp
-ut line 58.
-
-
-LaTeX Warning: Citation 'pv_education_org' on page 12 undefined on input line 5
-9.
-
-
-<images/simplified_single_diode_model_simple.png, id=556, 1003.75pt x 503.8825p
+(Font)              Font shape `T1/pplx/b/it' tried instead on input line 55.
+ [11 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/simplified_s
+ingle_diode_model.png>]
+<images/simplified_single_diode_model_simple.png, id=624, 1003.75pt x 503.8825p
 t>
 File: images/simplified_single_diode_model_simple.png Graphic file (type png)
  <use images/simplified_single_diode_model_simple.png>
 Package pdftex.def Info: images/simplified_single_diode_model_simple.png used o
-n input line 79.
+n input line 76.
 (pdftex.def)             Requested size: 418.25368pt x 209.96846pt.
 Package acronym Info: Label `acro:F.F' newly defined as it shall be overridden
-although it is yet undefined on input line 86.
+although it is yet undefined on input line 83.
 
 
-LaTeX Font Warning: Command \relsize invalid in math mode on input line 90.
+LaTeX Font Warning: Command \relsize invalid in math mode on input line 87.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
 
 [12 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/simplified_si
 ngle_diode_model_simple.png>]
-
-LaTeX Warning: Citation 'pv_education_org' on page 13 undefined on input line 1
-00.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
-
- []
-
-<images/Double_diode_model.png, id=571, 1003.75pt x 503.8825pt>
+<images/Double_diode_model.png, id=636, 1003.75pt x 503.8825pt>
 File: images/Double_diode_model.png Graphic file (type png)
 
 <use images/Double_diode_model.png>
-Package pdftex.def Info: images/Double_diode_model.png used on input line 104.
+Package pdftex.def Info: images/Double_diode_model.png used on input line 101.
 (pdftex.def)             Requested size: 418.25368pt x 209.96846pt.
-
-
-LaTeX Warning: Citation 'yong2008modeling' on page 13 undefined on input line 1
-21.
-
-[13 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Double_diode_
-model.png>]
-
-LaTeX Warning: Citation 'yong2008modeling' on page 14 undefined on input line 1
-23.
-
-<images/dsc_eq_ckt.png, id=590, 1003.75pt x 444.66125pt>
+ [13 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Double_diode
+_model.png>]
+<images/dsc_eq_ckt.png, id=659, 1003.75pt x 444.66125pt>
 File: images/dsc_eq_ckt.png Graphic file (type png)
 
 <use images/dsc_eq_ckt.png>
-Package pdftex.def Info: images/dsc_eq_ckt.png used on input line 129.
+Package pdftex.def Info: images/dsc_eq_ckt.png used on input line 126.
 (pdftex.def)             Requested size: 418.25368pt x 185.2909pt.
- [14 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/dsc_eq_ckt.p
-ng>]
 
-LaTeX Warning: Citation 'yong2008modeling' on page 15 undefined on input line 1
-66.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
 
  []
 
-<images/Voltagevlux.png, id=601, 1045.42293pt x 428.01285pt>
+[14 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/dsc_eq_ckt.pn
+g>] <images/Voltagevlux.png, id=675, 1045.42293pt x 428.01285pt>
 File: images/Voltagevlux.png Graphic file (type png)
 
 <use images/Voltagevlux.png>
-Package pdftex.def Info: images/Voltagevlux.png used on input line 170.
+Package pdftex.def Info: images/Voltagevlux.png used on input line 167.
 (pdftex.def)             Requested size: 418.25368pt x 171.24129pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
-
-LaTeX Warning: Citation 'eltawil2013mppt' on page 15 undefined on input line 18
-9.
-
-[15 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Voltagevlux.p
-ng>] <images/PnO_block.png, id=611, 1016.79875pt x 489.83pt>
+<images/PnO_block.png, id=679, 1016.79875pt x 489.83pt>
 File: images/PnO_block.png Graphic file (type png)
 
 <use images/PnO_block.png>
-Package pdftex.def Info: images/PnO_block.png used on input line 198.
+Package pdftex.def Info: images/PnO_block.png used on input line 195.
 (pdftex.def)             Requested size: 167.2989pt x 80.59422pt.
-
-
-LaTeX Warning: Citation 'ngan2011study' on page 16 undefined on input line 204.
-
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+ [15 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Voltagevlux.
+png>]
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
 
-<images/pno_flow.png, id=621, 539.616pt x 499.1448pt>
+<images/pno_flow.png, id=695, 2088.80376pt x 1957.3125pt>
 File: images/pno_flow.png Graphic file (type png)
 
 <use images/pno_flow.png>
-Package pdftex.def Info: images/pno_flow.png used on input line 208.
-(pdftex.def)             Requested size: 418.25368pt x 386.89415pt.
+Package pdftex.def Info: images/pno_flow.png used on input line 205.
+(pdftex.def)             Requested size: 418.25368pt x 391.90356pt.
  [16 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/PnO_block.pn
 g>]
-<images/inC_block.png, id=626, 1016.79875pt x 489.83pt>
+<images/inC_block.png, id=700, 1016.79875pt x 489.83pt>
 File: images/inC_block.png Graphic file (type png)
 
 <use images/inC_block.png>
-Package pdftex.def Info: images/inC_block.png used on input line 218.
+Package pdftex.def Info: images/inC_block.png used on input line 215.
 (pdftex.def)             Requested size: 167.2989pt x 80.59422pt.
 
-
-LaTeX Warning: Citation 'gomathy2012design' on page 17 undefined on input line 
-224.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 [17 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/pno_flow.png>
  <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/inC_block.png>]
-<images/INc_flow.png, id=636, 538.6524pt x 665.8476pt>
+<images/INc_flow.png, id=711, 1970.36125pt x 2672.98625pt>
 File: images/INc_flow.png Graphic file (type png)
 
 <use images/INc_flow.png>
-Package pdftex.def Info: images/INc_flow.png used on input line 228.
-(pdftex.def)             Requested size: 418.25368pt x 517.04256pt.
+Package pdftex.def Info: images/INc_flow.png used on input line 225.
+(pdftex.def)             Requested size: 418.25368pt x 567.38008pt.
  [18]
-<images/Frac_block.png, id=641, 1016.79875pt x 489.83pt>
+<images/Frac_block.png, id=717, 1016.79875pt x 489.83pt>
 File: images/Frac_block.png Graphic file (type png)
 
 <use images/Frac_block.png>
-Package pdftex.def Info: images/Frac_block.png used on input line 238.
+Package pdftex.def Info: images/Frac_block.png used on input line 235.
 (pdftex.def)             Requested size: 167.2989pt x 80.59422pt.
  [19 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/INc_flow.png
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 243--244
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
 
  []
 
+<images/Vopen_circuit_Flow.png, id=732, 1167.36125pt x 1544.77126pt>
+File: images/Vopen_circuit_Flow.png Graphic file (type png)
 
-LaTeX Warning: Citation 'ngan2011study' on page 20 undefined on input line 252.
-
-
-<images/Frac_Flow.png, id=655, 1129.21875pt x 1016.79875pt>
-File: images/Frac_Flow.png Graphic file (type png)
-
-<use images/Frac_Flow.png>
-Package pdftex.def Info: images/Frac_Flow.png used on input line 256.
-(pdftex.def)             Requested size: 209.12683pt x 188.30652pt.
+<use images/Vopen_circuit_Flow.png>
+Package pdftex.def Info: images/Vopen_circuit_Flow.png used on input line 253.
+(pdftex.def)             Requested size: 209.12683pt x 276.72684pt.
  [20 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Frac_block.p
 ng>]
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+[21 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Vopen_circuit
+_Flow.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
 
  []
 
 
-LaTeX Warning: Citation 'messai2011maximu' on page 21 undefined on input line 2
-73.
-
-
-LaTeX Warning: Citation 'lenarreg2006' on page 21 undefined on input line 288.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
-
- []
-
-[21 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Frac_Flow.png
->]
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--317
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
 
  []
 
-<images/Reg_line.png, id=667, 1402.23875pt x 824.07875pt>
+<images/Reg_line.png, id=748, 1402.23875pt x 824.07875pt>
 File: images/Reg_line.png Graphic file (type png)
 
 <use images/Reg_line.png>
-Package pdftex.def Info: images/Reg_line.png used on input line 321.
+Package pdftex.def Info: images/Reg_line.png used on input line 318.
 (pdftex.def)             Requested size: 418.25368pt x 245.80463pt.
  [22]
-Underfull \hbox (badness 10000) in paragraph at lines 333--334
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 335--336
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--347
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
 
  []
 
 [23 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Reg_line.png>
-] <images/pacehold.png, id=680, 722.7pt x 542.025pt>
+] <images/pacehold.png, id=763, 722.7pt x 542.025pt>
 File: images/pacehold.png Graphic file (type png)
  <use images/pacehold.png>
-Package pdftex.def Info: images/pacehold.png used on input line 357.
+Package pdftex.def Info: images/pacehold.png used on input line 356.
 (pdftex.def)             Requested size: 418.25368pt x 313.68825pt.
 ) [24 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/pacehold.pn
 g>]
@@ -2466,7 +2351,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-<images/Light_Box.png, id=695, 712.91344pt x 465.99094pt>
+<images/Light_Box.png, id=779, 712.91344pt x 465.99094pt>
 File: images/Light_Box.png Graphic file (type png)
 
 <use images/Light_Box.png>
@@ -2482,7 +2367,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
 
-<images/Cell_under_test.png, id=705, 669.2503pt x 469.00218pt>
+<images/Cell_under_test.png, id=789, 669.2503pt x 469.00218pt>
 File: images/Cell_under_test.png Graphic file (type png)
 
 <use images/Cell_under_test.png>
@@ -2490,7 +2375,7 @@ Package pdftex.def Info: images/Cell_under_test.png used on input line 25.
 (pdftex.def)             Requested size: 418.25368pt x 293.11848pt.
  [26 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Light_Box.pn
 g>]
-<images/single2500_IV.png, id=711, 1594.92413pt x 813.66052pt>
+<images/single2500_IV.png, id=795, 1594.92413pt x 813.66052pt>
 File: images/single2500_IV.png Graphic file (type png)
 
 <use images/single2500_IV.png>
@@ -2503,7 +2388,7 @@ Package pdftex.def Info: images/I-V-lux.png used on input line 41.
  [27 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Cell_under_t
 est.png> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/single25
 00_IV.png (PNG copy)>]
-<images/PV_block_Model.png, id=717, 1453.43pt x 888.31876pt>
+<images/PV_block_Model.png, id=801, 1453.43pt x 888.31876pt>
 File: images/PV_block_Model.png Graphic file (type png)
 
 <use images/PV_block_Model.png>
@@ -2577,11 +2462,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--35
 
  []
 
-File: images/pacehold.png Graphic file (type png)
-<use images/pacehold.png>
-Package pdftex.def Info: images/pacehold.png used on input line 39.
-(pdftex.def)             Requested size: 418.25368pt x 313.68825pt.
- [33]) [34]
+<images/Proposed_Flow.png, id=825, 559.1289pt x 944.0871pt>
+File: images/Proposed_Flow.png Graphic file (type png)
+
+<use images/Proposed_Flow.png>
+Package pdftex.def Info: images/Proposed_Flow.png used on input line 39.
+(pdftex.def)             Requested size: 376.42575pt x 635.58907pt.
+ [33]
+Overfull \vbox (30.18909pt too high) has occurred while \output is active []
+
+
+[34 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Proposed_Flow
+.png>])
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\chapters/50_chapter.tex
 Chapter 5.
 
@@ -2605,9 +2497,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
  []
 
 
-LaTeX Warning: Citation 'ngan2011study' on page 35 undefined on input line 22.
-
-
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 22.
 
@@ -2627,9 +2516,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
 ]
 
-LaTeX Warning: Citation 'ngan2011study' on page 36 undefined on input line 28.
-
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 28.
 
@@ -2639,91 +2525,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
  []
 
 
-LaTeX Warning: Citation 'esram2007comparison' on page 36 undefined on input lin
-e 34.
-
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 34.
+(hyperref)                removing `\cite' on input line 36.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
 
-LaTeX Warning: Citation 'eltawil2013mppt' on page 36 undefined on input line 42
-.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 42.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\cite' on input line 44.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\cite' on input line 48.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
 
-LaTeX Warning: Citation 'reza2013classification' on page 36 undefined on input 
-line 50.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 50.
-
-
-LaTeX Warning: Citation 'faranda2008energy' on page 36 undefined on input line 
-54.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 54.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
 
  []
 
-[36]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\cite' on input line 56.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
-LaTeX Warning: Citation 'houssamo2013experimental' on page 37 undefined on inpu
-t line 62.
+ []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 62.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
-
-
-LaTeX Warning: Citation 'jain2004new' on page 37 undefined on input line 68.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 68.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-
- []
+(hyperref)                removing `\cite' on input line 69.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 71--72
@@ -2731,74 +2594,54 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
  []
 
 
-LaTeX Warning: Citation 'liu2011fast' on page 37 undefined on input line 75.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 75.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
-
- []
-
-[37]
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
 Package acronym Info: Label `acro:DSP' newly defined as it shall be overridden
-although it is yet undefined on input line 81.
+although it is yet undefined on input line 75.
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
 Package acronym Info: Label `acro:VAL' newly defined as it shall be overridden
-although it is yet undefined on input line 83.
-<images/IVCurve_lui.png, id=774, 467.346pt x 311.9655pt>
+although it is yet undefined on input line 77.
+[37] <images/IVCurve_lui.png, id=868, 467.346pt x 311.9655pt>
 File: images/IVCurve_lui.png Graphic file (type png)
 
 <use images/IVCurve_lui.png>
-Package pdftex.def Info: images/IVCurve_lui.png used on input line 88.
+Package pdftex.def Info: images/IVCurve_lui.png used on input line 82.
 (pdftex.def)             Requested size: 418.25368pt x 279.19548pt.
 
-
-LaTeX Warning: Citation 'liu2011fast' on page 38 undefined on input line 89.
-
-
-LaTeX Warning: Citation 'liu2011fast' on page 38 undefined on input line 89.
-
-[38] <images/IV_50-500.png, id=781, 1275.93932pt x 664.13638pt>
+<images/IV_50-500.png, id=873, 1275.93932pt x 664.13638pt>
 File: images/IV_50-500.png Graphic file (type png)
 
 <use images/IV_50-500.png>
-Package pdftex.def Info: images/IV_50-500.png used on input line 97.
+Package pdftex.def Info: images/IV_50-500.png used on input line 91.
 (pdftex.def)             Requested size: 418.25368pt x 217.70639pt.
-
-<images/IVCurve_lui_2.png, id=782, 417.9615pt x 339.669pt>
+ [38 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVCurve_lui.
+png>]
+<images/IVCurve_lui_2.png, id=878, 417.9615pt x 339.669pt>
 File: images/IVCurve_lui_2.png Graphic file (type png)
 
 <use images/IVCurve_lui_2.png>
-Package pdftex.def Info: images/IVCurve_lui_2.png used on input line 106.
+Package pdftex.def Info: images/IVCurve_lui_2.png used on input line 100.
 (pdftex.def)             Requested size: 418.25368pt x 339.92212pt.
+ [39 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IV_50-500.pn
+g (PNG copy)>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\cite' on input line 112.
 
 
-LaTeX Warning: Citation 'liu2011fast' on page 39 undefined on input line 107.
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 
-
-LaTeX Warning: Citation 'liu2011fast' on page 39 undefined on input line 107.
-
-[39 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVCurve_lui.p
-ng> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IV_50-500.png
- (PNG copy)>]
-
-LaTeX Warning: Citation 'dondi2008modeling' on page 40 undefined on input line 
-118.
+ []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 118.
+(hyperref)                removing `\cite' on input line 119.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 120--121
@@ -2806,57 +2649,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--121
  []
 
 
-LaTeX Warning: Citation 'chu2009robust' on page 40 undefined on input line 125.
-
-
-
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 125.
+(hyperref)                removing `\cite' on input line 122.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
 
  []
 
+[40 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVCurve_lui_2
+.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
-LaTeX Warning: Citation 'urayai2011single' on page 40 undefined on input line 1
-28.
+ []
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\cite' on input line 128.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--130
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
-[40 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVCurve_lui_2
-.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
-
- []
+) [41] [42
 
 
-LaTeX Warning: Citation 'clark2006power' on page 41 undefined on input line 133
-.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cite' on input line 133.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
-
- []
-
-) [41]
-
-LaTeX Warning: Empty bibliography on input line 77.
-
+]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplx/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 77.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [43]
+[44]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
-(C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.aux
+ (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.aux
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\chapters/01_abstract.aux
 ) (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\chapters/02_ack.aux)
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\chapters/10_intro.aux)
@@ -2868,55 +2704,50 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 78.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 107E34251C69B2C9796B4DD1F26B4DD6;8924.
+(rerunfilecheck)             Checksum: 7703C591ABD64159CBA41FE8BBAA5D15;8857.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                report
-(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'report.run.xml'.
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 123 ({)
+### simple group (level 1) entered at line 120 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33117 strings out of 493921
- 550078 string characters out of 3147258
- 1017052 words of memory out of 3000000
- 35131 multiletter control sequences out of 15000+200000
- 122239 words of font info for 362 fonts, out of 3000000 for 9000
+ 33280 strings out of 493921
+ 553639 string characters out of 3147258
+ 1017427 words of memory out of 3000000
+ 35224 multiletter control sequences out of 15000+200000
+ 125539 words of font info for 387 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,15n,55p,1882b,2261s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/iwona/ts1-iwona.en
-c}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program File
-s/MiKTeX 2.9/fonts/enc/dvips/iwona/ec-iwona-sc.enc}{C:/Program Files/MiKTeX 2.9
-/fonts/enc/dvips/iwona/ec-iwona.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/eul
-er/euex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eu
-fm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eufm7.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurb10.pfb><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/nowacki/iwona/iwonab.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/nowacki/iwona/iwonar.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino
-/uplbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on report.pdf (53 pages, 5327245 bytes).
+ 56i,15n,58p,1880b,2295s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-
+t1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program
+ Files/MiKTeX 2.9/fonts/enc/dvips/iwona/ts1-iwona.enc}{C:/Program Files/MiKTeX 
+2.9/fonts/enc/dvips/iwona/ec-iwona-sc.enc}{C:/Program Files/MiKTeX 2.9/fonts/en
+c/dvips/iwona/ec-iwona.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/euex10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eufm10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eufm7.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/nowacki/iwona/iwonab.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/i
+wona/iwonar.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sftt10
+95.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/urw/palatino/uplri8a.pfb>
+Output written on report.pdf (56 pages, 5557440 bytes).
 PDF statistics:
- 889 PDF objects out of 1000 (max. 8388607)
- 197 named destinations out of 1000 (max. 500000)
- 59953 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 1071 PDF objects out of 1200 (max. 8388607)
+ 225 named destinations out of 1000 (max. 500000)
+ 66102 words of extra memory for PDF output out of 74296 (max. 10000000)
 

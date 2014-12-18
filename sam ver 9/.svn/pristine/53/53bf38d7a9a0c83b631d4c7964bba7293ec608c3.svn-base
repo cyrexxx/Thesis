@@ -1,0 +1,30 @@
+\chapter{Introduction}
+
+% an example for using acronyms
+\ac{GNU}
+
+\begin{figure}
+	\begin{center}
+	\includegraphics[width=\textwidth]{images/sample}
+	\caption{A sample image}
+	\end{center}
+\end{figure}
+
+
+% example for introduction, remove the command
+\Blindtext \cite{FakeArticle} \cite{FakeConference} \cite{FakeBook} \cite{FakeTechReport}
+
+\begin{table}[H]
+	\begin{center}
+	\begin{tabularx}{\textwidth}{| l | X |}
+		\hline
+		A & simple \\
+		example & of a table \\ \hline
+	\end{tabularx}
+	\caption{This table shows some data}
+	\label{tab:table}
+	\end{center}
+\end{table}
+
+
+\Blindtext
