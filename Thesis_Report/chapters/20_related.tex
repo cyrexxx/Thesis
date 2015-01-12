@@ -113,7 +113,7 @@ The equation of the double diode model under illumination is given by:
     \end{aligned}
     \end{equation}
   
-\subsection{Equivalent DSCs model}
+\subsection{Equivalent DSCs model}\label{sec:eDDM}
 
 It has normally been found that \ac{DSCs} do not conform to the typical I-V curves obtained from transmission line model and ladder circuit\cite{yong2008modeling}.\ac{DSCs} are often modelled with circuits similar to conventional \textit{pn}-junction solar cell ( Section~\ref{sec:SDM} and ~\ref{sec:DDM}) ,however even these representations fail to correspond to experimentally obtained values.
 
@@ -277,9 +277,11 @@ To overcome this problem, several methods for extracting the maximum power have 
 
 
 
-\section{Machine Learning ???}
-This section discusses about Search optimization in order to lock on the  V\textsubscript{MP} and I\textsubscript{MP} as efficiently as possible.
+\section{Machine Learning }
+This section discusses about Search optimization in order to lock on the  V\textsubscript{MP} and I\textsubscript{MP} as efficiently as possible.\\
 
+** write about supervised learning vs un supervised learning\\
+ 
 \subsection{Regression Modelling }
 
 We use regression analysis when we want to predict one variable from another. The most basic form of regression is called simple regression, where We have 1 independent variable and 1 dependent variable and where we are predicting a linear trend. In regression, we attempt to determine the magnitude of the relationship between a set of independent variables and the dependent variable. Independent variable(X), Also called the predictor variable, that we believe influences our Dependent variable(Y),Also called the response variable\cite{lenarreg2006}.\\
@@ -327,11 +329,10 @@ The linear regression model(for observation i = 1, . . . , N) can we written as:
 
 \subsection{Pattern search}
 
-Seiler, Mary C., and Fritz A. Seiler. "\textit{Numerical recipes in C: the art of scientific computing.- 10.2 Golden Section Search in One dimention}" Risk Analysis 9.3 (1989): 415-416.\\
 
-Finding the Maxima or minima of a first order single variable function can easily be found by equating the derivative of this function to zero. However finding the derivative of certain functions is not always easy or possible.In such conditions Search techniques are used to find the Maxima or minima in a uni-modal((A uni-modal function contains only one minimum or maximum on the specified interval ) continuous function over an interval without using derivatives.  Golden Section search Algorithm is one such search method. The Algorithm derives its name from the Golden ratio(0.61803...)\\
+Finding the maxima or minima (Collectively known as extrema) of a first order single variable function can easily be found by equating the derivative of this function to zero. However finding the derivative of certain functions is not always easy or possible.In such conditions Search techniques are used to find the Maxima or minima in a uni-modal((A uni-modal function contains only one minimum or maximum on the specified interval ) continuous function over an interval without using derivatives \cite{seiler1989numerical}.  Golden Section search Algorithm is one such search method. The Algorithm derives its name from the Golden ratio(0.61803...)\\
 
-Two numbers are said to be in the golden ratio if their ratio is same as the ratio of their sum to the larger of the two quantities.Assuming b > a then this can be expressed as:\\
+Two numbers are said to be in the golden ratio if their ratio is same as the ratio of their sum to the larger of the two quantities.Assuming b > a then this can be expressed as\cite{Gill81MurrayWright}:\\
 
 \begin{equation}
 \begin{aligned}
@@ -348,13 +349,14 @@ where ${\phi}$ is the golden ratio whose value is given by:\\
 \label{eq:golden_ratio}
 \end{aligned}
 \end{equation}
-**add more text about Golden search **
-\cite{Gill81MurrayWright}
 
+** add more about Golden section** 
 \begin{figure}[H]
   \begin{center}
-  \includegraphics[width=\textwidth]{images/pacehold}
-  \caption{ Golden Section search Algorithm }
+  \includegraphics[width=\textwidth]{images/Golden_Search}
+  \caption{ Golden Section search Algorithm (adapted from \cite{van1970fitting})}
   \label{fig:Golden_search}
   \end{center}
   \end{figure}
+  
+ 

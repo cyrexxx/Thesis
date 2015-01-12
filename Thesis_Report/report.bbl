@@ -520,6 +520,28 @@
       \field{year}{2011}
       \field{pages}{1238\bibrangedash 1243}
     \endentry
+    \entry{van1970fitting}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=632ea6ca6eee61421df334d8491b9532}{Van\bibnamedelima Wormer}{V\bibinitperiod\bibinitdelim W\bibinitperiod}{Theodore\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=a0675cfc534a5430886b9e713f01d6f3}{Weiss}{W\bibinitperiod}{Doyle\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=632ea6ca6eee61421df334d8491b9532}{Van\bibnamedelima Wormer}{V\bibinitperiod\bibinitdelim W\bibinitperiod}{Theodore\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=a0675cfc534a5430886b9e713f01d6f3}{Weiss}{W\bibinitperiod}{Doyle\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{847f0f57171739b05873f4431de01323}
+      \strng{fullhash}{847f0f57171739b05873f4431de01323}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{Fitting Parameters to Complex Models by Direct Search}
+      \field{journaltitle}{Journal of Marketing Research}
+      \field{title}{Fitting Parameters to Complex Models by Direct Search}
+      \field{year}{1970}
+      \field{pages}{503\bibrangedash 512}
+    \endentry
     \entry{vignati2012solutions}{article}{}
       \name{labelname}{1}{}{%
         {{hash=e434fd1a770086b2ef0f351071281a28}{Vignati}{V\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
@@ -1085,6 +1107,28 @@
       \field{title}{Single sensor boost converter-based maximum power point tracking algorithms}
       \field{year}{2011}
       \field{pages}{1238\bibrangedash 1243}
+    \endentry
+    \entry{van1970fitting}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=632ea6ca6eee61421df334d8491b9532}{Van\bibnamedelima Wormer}{V\bibinitperiod\bibinitdelim W\bibinitperiod}{Theodore\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=a0675cfc534a5430886b9e713f01d6f3}{Weiss}{W\bibinitperiod}{Doyle\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=632ea6ca6eee61421df334d8491b9532}{Van\bibnamedelima Wormer}{V\bibinitperiod\bibinitdelim W\bibinitperiod}{Theodore\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=a0675cfc534a5430886b9e713f01d6f3}{Weiss}{W\bibinitperiod}{Doyle\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{847f0f57171739b05873f4431de01323}
+      \strng{fullhash}{847f0f57171739b05873f4431de01323}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{Fitting Parameters to Complex Models by Direct Search}
+      \field{journaltitle}{Journal of Marketing Research}
+      \field{title}{Fitting Parameters to Complex Models by Direct Search}
+      \field{year}{1970}
+      \field{pages}{503\bibrangedash 512}
     \endentry
     \entry{vignati2012solutions}{article}{}
       \name{labelname}{1}{}{%

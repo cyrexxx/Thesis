@@ -1,11 +1,11 @@
-\chapter{Methodology and Implementation}
+\chapter{Design and Implementation}
 \begin{quote} 
 \it This chapter covers the implementation details of the concept, the algorithms. All the simulations were first carried out in MATLAB{\textregistered} and Simulink{\textregistered}, testing and verifying; then implementing the same in Hardware.
 \end{quote}
 
 
 \section{Cell Characterisation}
-In this section, Model of two types of cells (\ac{a-Si} and \ac{DSCs}) is discussed.There are several Models that have been analysed in literature which are usually variations of the Single Diode model or the Double Diode model (discussed in section \ref{sec:SDM} and \ref{sec:DDM}).
+In this section, Model of two types of cells (\ac{a-Si} and \ac{DSCs}) is discussed.There are several Models that have been analysed in literature which are usually variations of the Single Diode model or the Double Diode model (discussed in section \ref{sec:SDM},\ref{sec:DDM} and \ref{sec:eDDM}).
  
 \subsection{Test Setup}
 in **furtherance of** creating a working solar cell model and to validate the algorithm several measurements would need to be performed. The Test-rig consisted of a blacked out enclosure to prevent **interference** from ambient light. The Test-rig is fitted with an array of evenly spaced White-\ac{LED}s to provide uniform illumination on the Test subject. The \ac{LED}-array are calibrated and temperature controlled so as to provide white light with a known spectra. A high precision Lux Meter(\textit{GOSSEN Mavolux 5032B}) is used to measure the  intensity of the light, as perceived by the human eye.The Light chamber is also routinely calibrated against a reference cell to factor-in the variations and degradation of the \ac{LED}s. The intensity of light is varied using a High-Voltage power source.A pictorial representation of the above description can be seen is figure  ~\ref{fig:test setup} on page ~\pageref{fig:test setup}. \\
@@ -54,7 +54,13 @@ When the above is repeated for several different light intensities we get a thre
   \end{center}
   \end{figure}
 
-
+\begin{figure}[H]
+  \begin{center}
+ \includegraphics[width=\textwidth]{images/IC_stateflow}
+  \caption{Top Model }
+  \label{fig:Model_top}
+  \end{center}
+  \end{figure}
 
 
 
@@ -62,8 +68,34 @@ When the above is repeated for several different light intensities we get a thre
 
 text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text  \\
 
+
+
 insert text here insert text here insert text here insert text here insert text here
 insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here   \\
 
 insert text here insert text here insert text here insert text here insert text here
 insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here insert text here   \\
+
+
+
+
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=1.1\textwidth]{images/Probability_field}
+  \caption{Probability field }
+  \label{fig:Probability_field}
+  \end{center}
+\end{figure}
+
+  \begin{figure}[H]
+   \begin{center}
+   \includegraphics[width=0.9\textwidth]{images/Proposed_Flow}
+   \caption{ Flow chart for Proposed MPPT Algorithm }
+   \label{fig:cyflow}
+   \end{center}
+  \end{figure}
+
+
+
+
+
