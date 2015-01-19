@@ -2002,26 +2002,27 @@
     <bcf:citekey order="57">reza2013classification</bcf:citekey>
     <bcf:citekey order="58">messai2011maximu</bcf:citekey>
     <bcf:citekey order="59">lenarreg2006</bcf:citekey>
-    <bcf:citekey order="60">seiler1989numerical</bcf:citekey>
-    <bcf:citekey order="61">Gill81MurrayWright</bcf:citekey>
-    <bcf:citekey order="62">van1970fitting</bcf:citekey>
+    <bcf:citekey order="60">Jim_R_squared</bcf:citekey>
+    <bcf:citekey order="61">seiler1989numerical</bcf:citekey>
+    <bcf:citekey order="62">Gill81MurrayWright</bcf:citekey>
     <bcf:citekey order="63">van1970fitting</bcf:citekey>
-    <bcf:citekey order="64">ngan2011study</bcf:citekey>
-    <bcf:citekey order="65">esram2007comparison</bcf:citekey>
-    <bcf:citekey order="66">eltawil2013mppt</bcf:citekey>
-    <bcf:citekey order="67">reza2013classification</bcf:citekey>
-    <bcf:citekey order="68">faranda2008energy</bcf:citekey>
-    <bcf:citekey order="69">houssamo2013experimental</bcf:citekey>
-    <bcf:citekey order="70">jain2004new</bcf:citekey>
-    <bcf:citekey order="71">liu2011fast</bcf:citekey>
+    <bcf:citekey order="64">van1970fitting</bcf:citekey>
+    <bcf:citekey order="65">ngan2011study</bcf:citekey>
+    <bcf:citekey order="66">esram2007comparison</bcf:citekey>
+    <bcf:citekey order="67">eltawil2013mppt</bcf:citekey>
+    <bcf:citekey order="68">reza2013classification</bcf:citekey>
+    <bcf:citekey order="69">faranda2008energy</bcf:citekey>
+    <bcf:citekey order="70">houssamo2013experimental</bcf:citekey>
+    <bcf:citekey order="71">jain2004new</bcf:citekey>
     <bcf:citekey order="72">liu2011fast</bcf:citekey>
     <bcf:citekey order="73">liu2011fast</bcf:citekey>
     <bcf:citekey order="74">liu2011fast</bcf:citekey>
     <bcf:citekey order="75">liu2011fast</bcf:citekey>
-    <bcf:citekey order="76">dondi2008modeling</bcf:citekey>
-    <bcf:citekey order="77">chu2009robust</bcf:citekey>
-    <bcf:citekey order="78">urayai2011single</bcf:citekey>
-    <bcf:citekey order="79">clark2006power</bcf:citekey>
+    <bcf:citekey order="76">liu2011fast</bcf:citekey>
+    <bcf:citekey order="77">dondi2008modeling</bcf:citekey>
+    <bcf:citekey order="78">chu2009robust</bcf:citekey>
+    <bcf:citekey order="79">urayai2011single</bcf:citekey>
+    <bcf:citekey order="80">clark2006power</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>

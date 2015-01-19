@@ -92,4 +92,4 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.0.12}**text**\cite {clark2006power}}{45}{subsection.5.0.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{47}{chapter*.57}
+\contentsline {chapter}{Bibliography}{47}{chapter*.58}

@@ -284,7 +284,7 @@ This section discusses about Search optimization in order to lock on the  V\text
  
 \subsection{Regression Modelling }
 
-We use regression analysis when we want to predict one variable from another. The most basic form of regression is called simple regression, where We have 1 independent variable and 1 dependent variable and where we are predicting a linear trend. In regression, we attempt to determine the magnitude of the relationship between a set of independent variables and the dependent variable. Independent variable(X), Also called the predictor variable, that we believe influences our Dependent variable(Y),Also called the response variable\cite{lenarreg2006}.\\
+We use regression analysis when we want to predict one variable from another. The most basic form of regression is called simple regression, where We have one independent variable and one dependent variable and where we are predicting a linear trend. In regression, we attempt to determine the magnitude of the relationship between a set of independent variables and the dependent variable. Independent variable(X), Also called the predictor variable, that we believe influences our Dependent variable(Y),Also called the response variable\cite{lenarreg2006}.\\
 
 A regression model is a formal way of stating:
 \begin{itemize}
@@ -311,10 +311,27 @@ The linear regression model(for observation i = 1, . . . , N) can we written as:
 \end{equation}
 
 \begin{itemize}
-\item $\beta\textsubscript{0}$ is the mean of the population when X is zero -the Y intercept.\\
-\item $\beta\textsubscript{1}$ is the slope of the line, the amount of increase in Y brought about by a unit increase $(X^{'}= X + 1)$ in X.\\
+\item $\beta\textsubscript{0}$ is the mean of the population when X is zero -the Y intercept.
+\item $\beta\textsubscript{1}$ is the slope of the line, the amount of increase in Y brought about by a unit increase $(X^{'}= X + 1)$ in X.
 \item \textbf{$\epsilon\textsubscript{i}$} is the random error, specific to each observation.
+\item the goal is to find $\beta\textsubscript{0}$ and $\beta\textsubscript{1}$ such that $\sum\limits_{i=1}^n \epsilon\textsubscript{i}^2$ is minimised.
 \end {itemize}
+A large number of methods and procedure have been developed to estimate the parameters of a model, the simplest being :\\
+
+\begin{equation}
+	\begin{aligned}
+		\beta\textsubscript{1}= \dfrac{\sum (X\textsubscript{i} - \bar{X})(Y\textsubscript{i} - \bar{Y})}{\sum (X\textsubscript{i} - \bar{X})^2} 
+	\label{eq:B1_calculus}
+	\end{aligned}
+\end{equation}
+
+\begin{equation}
+	\begin{aligned}
+		\beta\textsubscript{0}= \bar{Y}-\beta\textsubscript{1}\bar{X} 
+	\label{eq:B0_calculus}
+	\end{aligned}
+\end{equation}
+
 \begin{figure}[H]
   \begin{center}
   \includegraphics[width=\textwidth]{images/Reg_line}
@@ -324,13 +341,13 @@ The linear regression model(for observation i = 1, . . . , N) can we written as:
   \end{figure}
 
 
-**add more text about line Linear Regression **
+In Figure ~\ref{fig:linear_regression} the points in red represent $V_{MPP}$ for a given $V_{OC}$.The trend line in black (obtained via Regression Modelling) tells us about the slope of the line ($\beta\textsubscript{1}$) and the Y intercept. It also provides the $R^{2}$ value of the Fit equal to 0.9976 , indicating the Goodness of fit. $R^{2}$ is a measure of how close the regression line is to the data points, with $R^{2} = 1 $ signifying that the model/regression-line perfectly fits the data \cite{Jim_R_squared}.
 
 
 \subsection{Pattern search}
 
 
-Finding the maxima or minima (Collectively known as extrema) of a first order single variable function can easily be found by equating the derivative of this function to zero. However finding the derivative of certain functions is not always easy or possible.In such conditions Search techniques are used to find the Maxima or minima in a uni-modal((A uni-modal function contains only one minimum or maximum on the specified interval ) continuous function over an interval without using derivatives \cite{seiler1989numerical}.  Golden Section search Algorithm is one such search method. The Algorithm derives its name from the Golden ratio(0.61803...)\\
+Finding the maxima or minima (Collectively known as extrema) of a first order single variable function can easily be found by equating the derivative of this function to zero. However finding the derivative of certain functions is not always easy or possible.In such conditions Search techniques are used to find the Maxima or minima in a uni-modal(A uni-modal function contains only one minimum or maximum on the specified interval ) continuous function over an interval without using derivatives \cite{seiler1989numerical}.  Golden Section search Algorithm is one such search method. The Algorithm derives its name from the Golden ratio (0.61803...)\\
 
 Two numbers are said to be in the golden ratio if their ratio is same as the ratio of their sum to the larger of the two quantities.Assuming b > a then this can be expressed as\cite{Gill81MurrayWright}:\\
 
@@ -350,11 +367,19 @@ where ${\phi}$ is the golden ratio whose value is given by:\\
 \end{aligned}
 \end{equation}
 
+\begin{figure}[H]
+  \begin{center}
+  \includegraphics[width=\textwidth]{images/Golden_search_curve}
+  \caption{ Golden Section search Algorithm }
+  \label{fig:Golden_search_curve}
+  \end{center}
+  \end{figure}
+  
 ** add more about Golden section** 
 \begin{figure}[H]
   \begin{center}
   \includegraphics[width=\textwidth]{images/Golden_Search}
-  \caption{ Golden Section search Algorithm (adapted from \cite{van1970fitting})}
+  \caption{ Golden Section search Algorithm (modified from \cite{van1970fitting})}
   \label{fig:Golden_search}
   \end{center}
   \end{figure}
