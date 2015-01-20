@@ -189,7 +189,7 @@ To overcome this problem, several methods for extracting the maximum power have 
        \end{center}
        \end{figure}
        
-  The \ac{PnO} Method is most widely used in \ac{MPPT} because of  its simple structure and it requires only few parameters. Figure ~\ref{fig:PnO_flow}  shows the flow chart of \ac{PnO} method. It perturbs the PV array's terminal voltage periodically, and then it compares the PV output power with that of the previous cycle of perturbation. When PV power and PV voltage increase at the same time and vice versa, a perturbation step size, ${\Delta}$D will be added to the duty cycle, D to generate the next cycle of   perturbation in order to force the operating point moving towards the \ac{MPP}. When PV power increases and PV voltage decreases and vice versa, the perturbation step will be subtracted for the next cycle of perturbation.This process will be carried on continuously until \ac{MPP} is reached.However, the system will oscillate around the \ac{MPP} throughout this process, and this will result in loss of energy. These oscillations can be minimized by reducing the perturbation step size but it significantly slows down the \ac{MPP} tracking system also leading to loss of energy.\cite{ngan2011study}.\ac{PnO} is also not suable when the light intensity changes rapidly. \\
+  The \ac{PnO} Method is most widely used in \ac{MPPT} because of  its simple structure and it requires only few parameters. Figure ~\ref{fig:PnO_flow}  shows the flow chart of \ac{PnO} method. It perturbs the PV array's terminal voltage periodically, and then it compares the PV output power with that of the previous cycle of perturbation. When PV power and PV voltage increase at the same time and vice versa, a perturbation step size, ${\Delta}$D will be added to the duty cycle, D to generate the next cycle of   perturbation in order to force the operating point moving towards the \ac{MPP}. When PV power increases and PV voltage decreases and vice versa, the perturbation step will be subtracted for the next cycle of perturbation.This process will be carried on continuously until \ac{MPP} is reached.However, the system will oscillate around the \ac{MPP} throughout this process, and this will result in loss of energy. These oscillations can be minimized by reducing the perturbation step size but it significantly slows down the \ac{MPP} tracking system also leading to loss of energy \cite{ngan2011study}.\ac{PnO} is also not suable when the light intensity changes rapidly. \\
   
   \begin{figure}[H]
     \begin{center}
@@ -209,7 +209,7 @@ To overcome this problem, several methods for extracting the maximum power have 
     \end{center}
   \end{figure}
   
-  The  solar array terminal  voltage  can  be  adjusted relative to the MPP voltage by measuring the incremental and instantaneous  array  conductance (dI/dV and I/V ,   respectively). The Algorithm is based on the fact that at the \ac{MPP} the derivative of the cell's power is zero. Although  the  incremental  conductance method offers good performance under rapidly changing atmospheric  conditions,  four  sensors  are  required to   perform the  computations. The  drawback is that sensor devices require  more  conversion  time  thus  result in a large amount of power loss\cite{gomathy2012design}.In addition to the above drawback, the \ac{ICM} suffers the same limitations as \ac{PnO} method namely,for rapid tracking larger step sized must be utilized which results in the oscillation around the \ac{MPP}. \\
+  The  solar array terminal  voltage  can  be  adjusted relative to the MPP voltage by measuring the incremental and instantaneous  array  conductance (dI/dV and I/V, respectively). The Algorithm is based on the fact that at the \ac{MPP} the derivative of the cell's power is zero. Although  the  incremental  conductance method offers good performance under rapidly changing atmospheric  conditions,  four  sensors  are  required to perform the computations. The  drawback is that sensor devices require  more  conversion  time  thus  result in a large amount of power loss \cite{gomathy2012design}.In addition to the above drawback, the \ac{ICM} suffers the same limitations as \ac{PnO} method namely,for rapid tracking larger step sized must be utilized which results in the oscillation around the \ac{MPP}. \\
   
    \begin{figure}[H]
       \begin{center}
@@ -271,8 +271,9 @@ To overcome this problem, several methods for extracting the maximum power have 
 \section{Machine Learning }
 This section discusses about Search optimization in order to lock on the  V\textsubscript{MP} and I\textsubscript{MP} as efficiently as possible.\\
 
+Much like Embedded systems, Machine Learning in compasses various disciplines, predominantly Computer science but also statistics, mathematics, finance etc. \cite{marsland2011machine}. With applications ranging from predicting emergency-room wait times \cite{connelly2004discrete} to High frequency stock-trading.Simply put, machine Learning is about Algorithms that build models that adapt or modify their response in order to get closer to the correct output. These models are automatically created and constantly evolve based on input vectors, as opposed to having a hard codded decision tree.\\
 
-** write about supervised learning vs un supervised learning\\
+If the Input vectors provided to the algorithm in its training set are 'labelled' , then this kind of learning is called \textbf{Supervised learning}. Where correct or expected responses are provided based on this the algorithm is able to generalise the out put for all possible outputs. the other end of the spectrum is \textbf{Unsupervised learning} in which the algorithm is left to find hidden structures in a set of data that doesn't have any labels or that all have the same label.In out application we know the Input is V\textsubscript{OC} and what the expected Output (V\textsubscript{MPP}) this constitutes as a labelling and hence Supervised learning.
  
 \subsection{Regression Modelling }
 
@@ -339,26 +340,54 @@ In Figure ~\ref{fig:linear_regression} the points in red represent $V_{MPP}$ for
 \subsection{Pattern search}
 
 
-Finding the maxima or minima (Collectively known as extrema) of a first order single variable function can easily be found by equating the derivative of this function to zero. However finding the derivative of certain functions is not always easy or possible.In such conditions Search techniques are used to find the Maxima or minima in a uni-modal(A uni-modal function contains only one minimum or maximum on the specified interval ) continuous function over an interval without using derivatives \cite{seiler1989numerical}.  Golden Section search Algorithm is one such search method. The Algorithm derives its name from the Golden ratio (0.61803...)\\
+Finding the maxima or minima (Collectively known as extrema) of a first order single variable function can easily be found by equating the derivative of this function to zero. However finding the derivative of certain functions is not always easy or possible.In such conditions ** search techniques are used to find the Maxima or minima in a uni-modal(A uni-modal function contains only one minimum or maximum on the specified interval ) continuous function over an interval without using derivatives \cite{seiler1989numerical}.  Golden Section search Algorithm is one such search method. The Algorithm derives its name from the Golden ratio (0.61803...)\\
 
-Two numbers are said to be in the golden ratio if their ratio is same as the ratio of their sum to the larger of the two quantities.Assuming b > a then this can be expressed as\cite{Gill81MurrayWright}:\\
+Two numbers are said to be in the golden ratio if their ratio is same as the ratio of their sum to the larger of the two quantities.Assuming $\beta > \alpha$ then this can be expressed as\cite{Gill81MurrayWright}:\\
 
 \begin{equation}
-\begin{aligned}
- \dfrac{a+b}{b}=\dfrac{b}{a}=\phi
-\label{eq:golden_ratio1}
-\end{aligned}
+	\begin{aligned}
+		\dfrac{\alpha+\beta}{\beta}=\dfrac{\beta}{\alpha}=\phi
+		\label{eq:golden_ratio1}
+	\end{aligned}
 \end{equation}
 
 where ${\phi}$ is the golden ratio whose value is given by:\\
 
 \begin{equation}
-\begin{aligned}
- \phi=\dfrac{\sqrt{5}-1}{2}= 0.61803398874989......
-\label{eq:golden_ratio}
-\end{aligned}
+	\begin{aligned}
+		 \phi=\dfrac{\sqrt{5}-1}{2}= 0.61803398874989......
+		\label{eq:golden_ratio}
+	\end{aligned}
+\end{equation}
+ 
+ Assuming \textit{f(x)} to be an uni-modal function in the intervals between  \textit{a} and \textit{b}. The maxima is represented by $\textit{f}(P_{\textit{max}})$ such that $a\leq P_{\textit{max}} \leq b $.
+ \begin{itemize}
+ 
+ \item Points $P_{1} \& P_{2}$ are chosen such that they satisfy:
+ 
+\begin{equation}
+	\begin{aligned}
+		 P_{1}=a+(1-\phi)(b-a)
+		\label{eq:golden_ratio_p1}
+	\end{aligned}
 \end{equation}
 
+\begin{equation}
+	\begin{aligned}
+		 P_{2}=a+\phi(b-a)
+		\label{eq:golden_ratio_p2}
+	\end{aligned}
+\end{equation}
+
+
+	\item $\textit{f}(a),\textit{f}(P_{1}),\textit{f}(P_{2})$ and $\textit{f}(b)$ is computed.
+	\item If $\textit{f}(P_{1}) > \textit{f}(P_{2})$ then the outer bound is discarded and replaced by $ P_{2} $ and $ P_{2}$ replaced $ P_{1}$; a new $ P_{1}$ is calculated using equation ~\ref{eq:golden_ratio_p1}.
+	\item Else the lower bound is cast-off to be replaced with $ P_{1}$ and $ P_{1}$ is swapped with $ P_{2}$; with $ P_{2}$ found afresh using equation ~\ref{eq:golden_ratio_p2}.
+	\item New values of either $\textit{f}(P_{1})$ or $\textit{f}(P_{2})$ are found out depending on the branch taken.
+	\item  The process repeated over and over again only stopping when either the iteration count has run out or if the lower and upper bounds are close enough to be acceptable. 
+\end{itemize}
+
+ 
 \begin{figure}[H]
   \begin{center}
   \includegraphics[width=\textwidth]{images/Golden_search_curve}
@@ -367,7 +396,8 @@ where ${\phi}$ is the golden ratio whose value is given by:\\
   \end{center}
   \end{figure}
   
-** add more about Golden section** 
+The advantage of using Golden search over other search methods is that the extrema is found in the least number of steps and every iteration requires only one additional data point. Thereby greatly reducing the complexity of the algorithm and hence the computation power and/or Time required to lock-in onto the extrema.
+ 
 \begin{figure}[H]
   \begin{center}
   \includegraphics[width=\textwidth]{images/Golden_Search}

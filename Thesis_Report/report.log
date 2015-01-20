@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  20 JAN 2015 09:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  20 JAN 2015 15:00
 entering extended mode
 **report.tex
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.tex
@@ -2280,55 +2280,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
 [20 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Vopen_circuit
 _Flow.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 275--276
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--280
+Underfull \hbox (badness 10000) in paragraph at lines 280--281
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 311--312
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
 
  []
 
-<images/Reg_line.png, id=725, 1402.23875pt x 824.07875pt>
+<images/Reg_line.png, id=736, 1402.23875pt x 824.07875pt>
 File: images/Reg_line.png Graphic file (type png)
 
 <use images/Reg_line.png>
-Package pdftex.def Info: images/Reg_line.png used on input line 329.
+Package pdftex.def Info: images/Reg_line.png used on input line 330.
 (pdftex.def)             Requested size: 418.25368pt x 245.80463pt.
- [21]
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 343--344
 
  []
 
 [22 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Reg_line.png>
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 353--354
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
 
  []
 
-<images/Golden_search_curve.png, id=749, 441.90094pt x 523.20468pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
+ []
+
+<images/Golden_search_curve.png, id=754, 441.90094pt x 523.20468pt>
 File: images/Golden_search_curve.png Graphic file (type png)
 
 <use images/Golden_search_curve.png>
-Package pdftex.def Info: images/Golden_search_curve.png used on input line 364.
+Package pdftex.def Info: images/Golden_search_curve.png used on input line 393.
 
 (pdftex.def)             Requested size: 418.25368pt x 495.22939pt.
  [23]
-<images/Golden_Search.png, id=757, 587.3142pt x 929.1513pt>
+<images/Golden_Search.png, id=766, 587.3142pt x 929.1513pt>
 File: images/Golden_Search.png Graphic file (type png)
 
 <use images/Golden_Search.png>
-Package pdftex.def Info: images/Golden_Search.png used on input line 373.
+Package pdftex.def Info: images/Golden_Search.png used on input line 403.
 (pdftex.def)             Requested size: 418.25368pt x 661.68692pt.
  [24 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Golden_searc
 h_curve.png>]
@@ -2352,7 +2352,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--12
 
  []
 
-<images/Light_Box.png, id=785, 712.91344pt x 465.99094pt>
+<images/Light_Box.png, id=794, 712.91344pt x 465.99094pt>
 File: images/Light_Box.png Graphic file (type png)
 
 <use images/Light_Box.png>
@@ -2363,7 +2363,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--22
 
  []
 
-<images/Cell_under_test.png, id=794, 669.2503pt x 469.00218pt>
+<images/Cell_under_test.png, id=803, 669.2503pt x 469.00218pt>
 File: images/Cell_under_test.png Graphic file (type png)
 
 <use images/Cell_under_test.png>
@@ -2371,7 +2371,7 @@ Package pdftex.def Info: images/Cell_under_test.png used on input line 25.
 (pdftex.def)             Requested size: 418.25368pt x 293.11848pt.
  [28 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Light_Box.pn
 g>]
-<images/single2500_IV.png, id=800, 1594.92413pt x 813.66052pt>
+<images/single2500_IV.png, id=809, 1594.92413pt x 813.66052pt>
 File: images/single2500_IV.png Graphic file (type png)
 
 <use images/single2500_IV.png>
@@ -2384,14 +2384,14 @@ Package pdftex.def Info: images/I-V-lux.png used on input line 41.
  [29 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Cell_under_t
 est.png> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/single25
 00_IV.png (PNG copy)>]
-<images/PV_block_Model.png, id=806, 1453.43pt x 888.31876pt>
+<images/PV_block_Model.png, id=815, 1453.43pt x 888.31876pt>
 File: images/PV_block_Model.png Graphic file (type png)
 
 <use images/PV_block_Model.png>
 Package pdftex.def Info: images/PV_block_Model.png used on input line 51.
 (pdftex.def)             Requested size: 418.25368pt x 255.62686pt.
  [30]
-<images/IC_stateflow.pdf, id=811, 340.2722pt x 206.77246pt>
+<images/IC_stateflow.pdf, id=820, 340.2722pt x 206.77246pt>
 File: images/IC_stateflow.pdf Graphic file (type pdf)
 
 <use images/IC_stateflow.pdf>
@@ -2399,7 +2399,7 @@ Package pdftex.def Info: images/IC_stateflow.pdf used on input line 59.
 (pdftex.def)             Requested size: 418.25368pt x 254.174pt.
  [31 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/PV_block_Mod
 el.png>]
-<images/Voltagevlux.png, id=818, 1045.42293pt x 428.01285pt>
+<images/Voltagevlux.png, id=827, 1045.42293pt x 428.01285pt>
 File: images/Voltagevlux.png Graphic file (type png)
 
 <use images/Voltagevlux.png>
@@ -2442,7 +2442,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--87
 pdfTeX warning: pdflatex.exe (file C:/Users/Kartik.Karuna/Documents/Exjobb/Thes
 is_Report/images/Probability_field.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
-<images/Probability_field.pdf, id=841, 1195.01572pt x 845.04686pt>
+<images/Probability_field.pdf, id=850, 1195.01572pt x 845.04686pt>
 File: images/Probability_field.pdf Graphic file (type pdf)
 
 <use images/Probability_field.pdf>
@@ -2453,7 +2453,7 @@ Overfull \hbox (41.82791pt too wide) in paragraph at lines 93--94
  [] 
  []
 
-[33] <images/Proposed_Flow.png, id=847, 559.1289pt x 944.0871pt>
+[33] <images/Proposed_Flow.png, id=856, 559.1289pt x 944.0871pt>
 File: images/Proposed_Flow.png Graphic file (type png)
 
 <use images/Proposed_Flow.png>
@@ -2474,7 +2474,7 @@ Overfull \vbox (30.18909pt too high) has occurred while \output is active []
 
 ]
 Chapter 4.
-<images/pacehold.png, id=881, 722.7pt x 542.025pt>
+<images/pacehold.png, id=890, 722.7pt x 542.025pt>
 File: images/pacehold.png Graphic file (type png)
  <use images/pacehold.png>
 Package pdftex.def Info: images/pacehold.png used on input line 7.
@@ -2593,14 +2593,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
 Package acronym Info: Label `acro:VAL' newly defined as it shall be overridden
 although it is yet undefined on input line 72.
-[42] <images/IVCurve_lui.png, id=922, 467.346pt x 311.9655pt>
+[42] <images/IVCurve_lui.png, id=931, 467.346pt x 311.9655pt>
 File: images/IVCurve_lui.png Graphic file (type png)
 
 <use images/IVCurve_lui.png>
 Package pdftex.def Info: images/IVCurve_lui.png used on input line 77.
 (pdftex.def)             Requested size: 418.25368pt x 279.19548pt.
 
-<images/IV_50-500.png, id=927, 1275.93932pt x 664.13638pt>
+<images/IV_50-500.png, id=936, 1275.93932pt x 664.13638pt>
 File: images/IV_50-500.png Graphic file (type png)
 
 <use images/IV_50-500.png>
@@ -2608,7 +2608,7 @@ Package pdftex.def Info: images/IV_50-500.png used on input line 86.
 (pdftex.def)             Requested size: 418.25368pt x 217.70639pt.
  [43 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVCurve_lui.
 png>]
-<images/IVCurve_lui_2.png, id=933, 417.9615pt x 339.669pt>
+<images/IVCurve_lui_2.png, id=942, 417.9615pt x 339.669pt>
 File: images/IVCurve_lui_2.png Graphic file (type png)
 
 <use images/IVCurve_lui_2.png>
@@ -2705,13 +2705,13 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 ### simple group (level 1) entered at line 120 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33334 strings out of 493921
- 554791 string characters out of 3147258
- 1018891 words of memory out of 3000000
- 35260 multiletter control sequences out of 15000+200000
- 125811 words of font info for 391 fonts, out of 3000000 for 9000
+ 33350 strings out of 493921
+ 555111 string characters out of 3147258
+ 1019042 words of memory out of 3000000
+ 35268 multiletter control sequences out of 15000+200000
+ 126021 words of font info for 394 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,15n,58p,1880b,2679s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,58p,1880b,2683s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-
 t1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program
  Files/MiKTeX 2.9/fonts/enc/dvips/iwona/ts1-iwona.enc}{C:/Program Files/MiKTeX 
@@ -2726,14 +2726,15 @@ ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurb10.pfb><C:/Program
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/euler/eurm7.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/nowacki/iwona/iwonab.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/nowacki/i
-wona/iwonar.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sftt10
-95.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/Mi
-KTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/urw/palatino/uplri8a.pfb>
-Output written on report.pdf (61 pages, 5948683 bytes).
+wona/iwonar.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbol
+s/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cm-super/sftt1095.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/urw/palatino/uplri8a.pfb>
+Output written on report.pdf (61 pages, 5962396 bytes).
 PDF statistics:
- 1137 PDF objects out of 1200 (max. 8388607)
- 234 named destinations out of 1000 (max. 500000)
+ 1152 PDF objects out of 1200 (max. 8388607)
+ 238 named destinations out of 1000 (max. 500000)
  66082 words of extra memory for PDF output out of 74296 (max. 10000000)
 

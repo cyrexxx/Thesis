@@ -61,6 +61,30 @@
       \field{title}{Power system challenges for small satellite missions}
       \field{year}{2006}
     \endentry
+    \entry{connelly2004discrete}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=b75a6119569098f0ca13b108eeb46932}{Connelly}{C\bibinitperiod}{Lloyd\bibnamedelima G}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=58fed52c097932b3f0f3059152e46866}{Bair}{B\bibinitperiod}{Aaron\bibnamedelima E}{A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b75a6119569098f0ca13b108eeb46932}{Connelly}{C\bibinitperiod}{Lloyd\bibnamedelima G}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=58fed52c097932b3f0f3059152e46866}{Bair}{B\bibinitperiod}{Aaron\bibnamedelima E}{A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{7c849dcbaeedd54a0650e45e8e4e98ab}
+      \strng{fullhash}{7c849dcbaeedd54a0650e45e8e4e98ab}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{Discrete Event Simulation of Emergency Department Activity: A Platform for System-level Operations Research}
+      \field{journaltitle}{Academic Emergency Medicine}
+      \field{number}{11}
+      \field{title}{Discrete Event Simulation of Emergency Department Activity: A Platform for System-level Operations Research}
+      \field{volume}{11}
+      \field{year}{2004}
+      \field{pages}{1177\bibrangedash 1185}
+    \endentry
     \entry{dondi2008modeling}{article}{}
       \name{labelname}{5}{}{%
         {{hash=65f754d36f961f8a06a0d328dc11b8cb}{Dondi}{D\bibinitperiod}{Denis}{D\bibinitperiod}{}{}{}{}}%
@@ -406,6 +430,24 @@
       \field{volume}{85}
       \field{year}{2011}
       \field{pages}{2771\bibrangedash 2780}
+    \endentry
+    \entry{marsland2011machine}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=f16d5e4c04b4b4bc85402a8d3e3d2725}{Marsland}{M\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f16d5e4c04b4b4bc85402a8d3e3d2725}{Marsland}{M\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{f16d5e4c04b4b4bc85402a8d3e3d2725}
+      \strng{fullhash}{f16d5e4c04b4b4bc85402a8d3e3d2725}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{Machine learning: an algorithmic perspective}
+      \field{title}{Machine learning: an algorithmic perspective}
+      \field{year}{2011}
     \endentry
     \entry{messai2011maximum}{article}{}
       \name{labelname}{4}{}{%
@@ -731,6 +773,30 @@
       \field{title}{Power system challenges for small satellite missions}
       \field{year}{2006}
     \endentry
+    \entry{connelly2004discrete}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=b75a6119569098f0ca13b108eeb46932}{Connelly}{C\bibinitperiod}{Lloyd\bibnamedelima G}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=58fed52c097932b3f0f3059152e46866}{Bair}{B\bibinitperiod}{Aaron\bibnamedelima E}{A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b75a6119569098f0ca13b108eeb46932}{Connelly}{C\bibinitperiod}{Lloyd\bibnamedelima G}{L\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=58fed52c097932b3f0f3059152e46866}{Bair}{B\bibinitperiod}{Aaron\bibnamedelima E}{A\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{7c849dcbaeedd54a0650e45e8e4e98ab}
+      \strng{fullhash}{7c849dcbaeedd54a0650e45e8e4e98ab}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{Discrete Event Simulation of Emergency Department Activity: A Platform for System-level Operations Research}
+      \field{journaltitle}{Academic Emergency Medicine}
+      \field{number}{11}
+      \field{title}{Discrete Event Simulation of Emergency Department Activity: A Platform for System-level Operations Research}
+      \field{volume}{11}
+      \field{year}{2004}
+      \field{pages}{1177\bibrangedash 1185}
+    \endentry
     \entry{dondi2008modeling}{article}{}
       \name{labelname}{5}{}{%
         {{hash=65f754d36f961f8a06a0d328dc11b8cb}{Dondi}{D\bibinitperiod}{Denis}{D\bibinitperiod}{}{}{}{}}%
@@ -1076,6 +1142,24 @@
       \field{volume}{85}
       \field{year}{2011}
       \field{pages}{2771\bibrangedash 2780}
+    \endentry
+    \entry{marsland2011machine}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=f16d5e4c04b4b4bc85402a8d3e3d2725}{Marsland}{M\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f16d5e4c04b4b4bc85402a8d3e3d2725}{Marsland}{M\bibinitperiod}{Stephen}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {CRC Press}%
+      }
+      \strng{namehash}{f16d5e4c04b4b4bc85402a8d3e3d2725}
+      \strng{fullhash}{f16d5e4c04b4b4bc85402a8d3e3d2725}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{Machine learning: an algorithmic perspective}
+      \field{title}{Machine learning: an algorithmic perspective}
+      \field{year}{2011}
     \endentry
     \entry{messai2011maximum}{article}{}
       \name{labelname}{4}{}{%

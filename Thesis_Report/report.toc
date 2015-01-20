@@ -44,7 +44,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3.1}Regression Modelling }{21}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Pattern search}{22}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}Pattern search}{23}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Design and Implementation}{27}{chapter.3}
 \defcounter {refsection}{0}\relax 
