@@ -407,6 +407,34 @@
       \field{year}{2011}
       \field{pages}{2771\bibrangedash 2780}
     \endentry
+    \entry{messai2011maximum}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=35fed9605aac90159fb4a17b3c45ade5}{Messai}{M\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6a2f238cb606a9c4164af28e46fe586b}{Mellit}{M\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b71db2437139f9630e72fb7aecb00e37}{Guessoum}{G\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=354867ea355a5f2c3cf9a5eb2ddbc74a}{Kalogirou}{K\bibinitperiod}{SA}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=35fed9605aac90159fb4a17b3c45ade5}{Messai}{M\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6a2f238cb606a9c4164af28e46fe586b}{Mellit}{M\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b71db2437139f9630e72fb7aecb00e37}{Guessoum}{G\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=354867ea355a5f2c3cf9a5eb2ddbc74a}{Kalogirou}{K\bibinitperiod}{SA}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{597a6dbcb3f27d2b73f22fc2f8480690}
+      \strng{fullhash}{597a6dbcb3f27d2b73f22fc2f8480690}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{Maximum power point tracking using a GA optimized fuzzy logic controller and its FPGA implementation}
+      \field{journaltitle}{Solar energy}
+      \field{number}{2}
+      \field{title}{Maximum power point tracking using a GA optimized fuzzy logic controller and its FPGA implementation}
+      \field{volume}{85}
+      \field{year}{2011}
+      \field{pages}{265\bibrangedash 277}
+    \endentry
     \entry{ngan2011study}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=de143eec0bd7e0edee82ccdae3d6accd}{Ngan}{N\bibinitperiod}{Mei\bibnamedelima Shan}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -1049,6 +1077,34 @@
       \field{year}{2011}
       \field{pages}{2771\bibrangedash 2780}
     \endentry
+    \entry{messai2011maximum}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=35fed9605aac90159fb4a17b3c45ade5}{Messai}{M\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6a2f238cb606a9c4164af28e46fe586b}{Mellit}{M\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b71db2437139f9630e72fb7aecb00e37}{Guessoum}{G\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=354867ea355a5f2c3cf9a5eb2ddbc74a}{Kalogirou}{K\bibinitperiod}{SA}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=35fed9605aac90159fb4a17b3c45ade5}{Messai}{M\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=6a2f238cb606a9c4164af28e46fe586b}{Mellit}{M\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=b71db2437139f9630e72fb7aecb00e37}{Guessoum}{G\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=354867ea355a5f2c3cf9a5eb2ddbc74a}{Kalogirou}{K\bibinitperiod}{SA}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{597a6dbcb3f27d2b73f22fc2f8480690}
+      \strng{fullhash}{597a6dbcb3f27d2b73f22fc2f8480690}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{Maximum power point tracking using a GA optimized fuzzy logic controller and its FPGA implementation}
+      \field{journaltitle}{Solar energy}
+      \field{number}{2}
+      \field{title}{Maximum power point tracking using a GA optimized fuzzy logic controller and its FPGA implementation}
+      \field{volume}{85}
+      \field{year}{2011}
+      \field{pages}{265\bibrangedash 277}
+    \endentry
     \entry{ngan2011study}{inproceedings}{}
       \name{labelname}{2}{}{%
         {{hash=de143eec0bd7e0edee82ccdae3d6accd}{Ngan}{N\bibinitperiod}{Mei\bibnamedelima Shan}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
@@ -1302,7 +1358,6 @@
       \field{pages}{143506\bibrangedash 143506}
     \endentry
   \endsortlist
-  \missing{messai2011maximu}
 \endrefsection
 \endinput
 

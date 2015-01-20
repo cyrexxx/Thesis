@@ -162,15 +162,7 @@ A standard \ac{DSCs} typically contains three interfaces formed by FTO/TiO\texts
     
 Where T is the absolute temperature, $\omega$ is the angular frequency, $\sigma$ is the Warburg coefficient, $F(\lambda)$ and  $IPCE(\lambda)$ are the incident photon flux density and the incident photon-to-current conversion efficiency at wavelength $\lambda$ respectively, $r(\lambda)$ is the incident light losses due to the light absorption and reflection by the FTO glass, and $\Phi(\lambda)$ is the quantum yield \cite{yong2008modeling}.\newline
 
- \begin{figure}[H]
-  \begin{center}
-	\includegraphics[width=\linewidth]{images/Voltagevlux}
-	\caption{spread of measured illumination vs Voltage  }
-	\label{fig:Voltagevlux}
-  \end{center}
- \end{figure}
- 
-However due to the near impossibility of accurately measuring all the variables of a unknown cell for this research work,a model was constructed by placing a the test cell under a battery of varied illuminations (0 Lux - 5050 Lux) shown in figure ~\ref{fig:Voltagevlux} . Which resulted in a surface that closely resembles the cell's operation in real world conditions. particular attention was paid to low light conditions which is to be expected for indoor illuminations ( < 2000 Lux).As \ac{DSCs} display are very stable output across a large temperature range, the above model was made independent of temperature variations.   
+  
 
 
 
@@ -181,13 +173,12 @@ However due to the near impossibility of accurately measuring all the variables 
 
 \section{Maximum power Point Tracking(MPPT)}
 
-**some points form the Introduction can be moved here like the methods of MPP control Algo etc ** \\
 
-Despite all the advantages presented by the generation of energy through the use of PVs, the efficiency of energy conversion is currently low and the initial cost for its implementation is still considered high, and thus it becomes necessary to use techniques to extract the maximum power from these panels, in order to achieve maximum efficiency in operation. It should be noted that there is only one maximum power point (MPP), and this varies according to climatic and irradiation conditions\cite{eltawil2013mppt}.
+Despite all the advantages presented by the generation of energy through the use of Solar cells, the efficiency of energy conversion is currently low (the best commercial solar module is only 21.5\% efficient) and the initial cost for its implementation is still considered high, and thus it becomes pertinent to use various techniques to extract the maximum power from these cells, in order to achieve maximum efficiency in operation. It should be noted that there is only one maximum power point (MPP) for a given panel , and this varies according to climatic and irradiation conditions\cite{eltawil2013mppt}.
 
-To overcome this problem, several methods for extracting the maximum power have been proposed in literature **citations **
+To overcome this problem, several methods for extracting the maximum power have been proposed and many comparative studies have been published in literature \cite{ngan2011study},\cite{esram2007comparison},\cite{eltawil2013mppt},\cite{reza2013classification}and \cite{faranda2008energy}. 
 
-\subsection{Perturb and Observe Method }
+\subsection{Perturb and Observe (PnO) Method }
 
 
     \begin{figure}[H]
@@ -208,7 +199,7 @@ To overcome this problem, several methods for extracting the maximum power have 
     \end{center}
     \end{figure}
   
-  \subsection{Incremental Conductance Method }
+  \subsection{Incremental Conductance Method (ICM) }
   
   \begin{figure}[H]
          \begin{center}
@@ -228,7 +219,7 @@ To overcome this problem, several methods for extracting the maximum power have 
       \end{center}
       \end{figure}
       
-  \subsection{fractional open circuit voltage Method }
+  \subsection{fractional open circuit voltage (FOCV) Method  }
   
    \begin{figure}[H]
            \begin{center}
@@ -267,7 +258,7 @@ To overcome this problem, several methods for extracting the maximum power have 
     \label{eq:equ_fracoc}
     \end{aligned}
     \end{equation}
-   \item {\bf Fuzzy logic controller} (FLC) have the advantages of working with imprecise inputs, it does not need an accurate mathematical model and it can handle non-linearity as well \cite{messai2011maximu}.However their effectiveness depends a lot on the presence of an expert knowledge; conversely, in the absence of such knowledge, their design is usually slow and not optimized. 
+   \item {\bf Fuzzy logic controller} (FLC) have the advantages of working with imprecise inputs, it does not need an accurate mathematical model and it can handle non-linearity as well \cite{messai2011maximum}.However their effectiveness depends a lot on the presence of an expert knowledge; conversely, in the absence of such knowledge, their design is usually slow and not optimized. 
   \end{itemize} 
   
 
@@ -279,6 +270,7 @@ To overcome this problem, several methods for extracting the maximum power have 
 
 \section{Machine Learning }
 This section discusses about Search optimization in order to lock on the  V\textsubscript{MP} and I\textsubscript{MP} as efficiently as possible.\\
+
 
 ** write about supervised learning vs un supervised learning\\
  
@@ -341,7 +333,7 @@ A large number of methods and procedure have been developed to estimate the para
   \end{figure}
 
 
-In Figure ~\ref{fig:linear_regression} the points in red represent $V_{MPP}$ for a given $V_{OC}$.The trend line in black (obtained via Regression Modelling) tells us about the slope of the line ($\beta\textsubscript{1}$) and the Y intercept. It also provides the $R^{2}$ value of the Fit equal to 0.9976 , indicating the Goodness of fit. $R^{2}$ is a measure of how close the regression line is to the data points, with $R^{2} = 1 $ signifying that the model/regression-line perfectly fits the data \cite{Jim_R_squared}.
+In Figure ~\ref{fig:linear_regression} the points in red represent $V_{MPP}$ for a given $V_{OC}$.It is Clear from the Graph that the relationship between $V_{MPP}$ and $V_{OC}$ is linear, this is also supported in various literature (\cite{reza2013classification},\cite{esram2007comparison},etc.) and forms the basis of \ac{FOCV} method.  The trend line in black (obtained via Regression Modelling) tells us about the slope of the line ($\beta\textsubscript{1}$) and the Y intercept. It also provides the $R^{2}$ value of the Fit equal to 0.9976 , indicating the Goodness of fit. $R^{2}$ is a measure of how close the regression line is to the data points, with $R^{2} = 1 $ signifying that the model/regression-line perfectly fits the data \cite{Jim_R_squared}.
 
 
 \subsection{Pattern search}

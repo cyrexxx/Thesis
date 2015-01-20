@@ -1,22 +1,21 @@
 [0] Config.pm:320> INFO - This is Biber 1.9
 [0] Config.pm:323> INFO - Logfile is 'report.blg'
-[60] biber-MSWIN:274> INFO - === %a %b %e, %Y, %H:%M:%S
-[60] Biber.pm:333> INFO - Reading 'report.bcf'
-[146] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
-[147] Biber.pm:635> INFO - Found 29 citekeys in bib section 0
-[202] Biber.pm:3051> INFO - Processing section 0
-[237] Biber.pm:3189> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[286] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
-[300] bibtex.pm:864> INFO - Found BibTeX data source 'bibliography.bib'
-[356] Utils.pm:144> WARN - I didn't find a database entry for 'messai2011maximu' (section 0)
-[694] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[695] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[695] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
-[695] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[1066] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1067] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1070] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale ''
-[1074] Biber.pm:2932> INFO - No sort tailoring available for locale ''
-[1189] bbl.pm:517> INFO - Writing 'report.bbl' with encoding 'UTF-8'
-[1197] bbl.pm:606> INFO - Output to report.bbl
-[1198] Biber.pm:106> INFO - WARNINGS: 2
+[62] biber-MSWIN:274> INFO - === %a %b %e, %Y, %H:%M:%S
+[63] Biber.pm:333> INFO - Reading 'report.bcf'
+[160] Utils.pm:144> WARN - Warning: Found biblatex control file version 2.5, expected version 2.6
+[161] Biber.pm:635> INFO - Found 29 citekeys in bib section 0
+[221] Biber.pm:3051> INFO - Processing section 0
+[257] Biber.pm:3189> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[311] bibtex.pm:990> INFO - Decoding LaTeX character macros into UTF-8
+[325] bibtex.pm:864> INFO - Found BibTeX data source 'bibliography.bib'
+[783] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[784] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[784] Biber.pm:2928> INFO - Sorting list '' of type 'entry' with scheme '' and locale ''
+[784] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[1212] UCollate.pm:66> INFO - Overriding locale '' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1213] UCollate.pm:66> INFO - Overriding locale '' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1213] Biber.pm:2928> INFO - Sorting list 'nty' of type 'entry' with scheme 'nty' and locale ''
+[1213] Biber.pm:2932> INFO - No sort tailoring available for locale ''
+[1339] bbl.pm:517> INFO - Writing 'report.bbl' with encoding 'UTF-8'
+[1349] bbl.pm:606> INFO - Output to report.bbl
+[1349] Biber.pm:106> INFO - WARNINGS: 1

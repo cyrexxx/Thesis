@@ -32,19 +32,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Maximum power Point Tracking(MPPT)}{15}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Perturb and Observe Method }{16}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}Perturb and Observe (PnO) Method }{15}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Incremental Conductance Method }{17}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.2}Incremental Conductance Method (ICM) }{17}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}fractional open circuit voltage Method }{20}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}fractional open circuit voltage (FOCV) Method }{19}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}Other Algorithms}{21}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.4}Other Algorithms}{20}{subsection.2.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Machine Learning }{22}{section.2.3}
+\contentsline {section}{\numberline {2.3}Machine Learning }{21}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Regression Modelling }{22}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}Regression Modelling }{21}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Pattern search}{23}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}Pattern search}{22}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Design and Implementation}{27}{chapter.3}
 \defcounter {refsection}{0}\relax 
@@ -54,42 +54,32 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Modelling and Simulations}{31}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Validation in Matlab{\textregistered }}{32}{section.3.3}
+\contentsline {section}{\numberline {3.3}Validation in Matlab{\textregistered }}{33}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Result Discussion}{35}{chapter.4}
+\contentsline {chapter}{\numberline {4}Result Discussion}{37}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Perturb and Observe Method }{35}{section.4.1}
+\contentsline {section}{\numberline {4.1}Perturb and Observe Method }{37}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Incremental Conductance Method }{36}{section.4.2}
+\contentsline {section}{\numberline {4.2}Incremental Conductance Method }{38}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}fractional open circuit voltage Method }{36}{section.4.3}
+\contentsline {section}{\numberline {4.3}fractional open circuit voltage Method }{38}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Proposed Method }{37}{section.4.4}
+\contentsline {section}{\numberline {4.4}Proposed Method }{39}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{39}{chapter.5}
+\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{41}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.1}**text**\cite {ngan2011study}}{39}{subsection.5.0.1}
+\contentsline {subsection}{\numberline {5.0.1}**text**\cite {houssamo2013experimental}}{41}{subsection.5.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.2}**text**\cite {esram2007comparison}}{40}{subsection.5.0.2}
+\contentsline {subsection}{\numberline {5.0.2}**text**\cite {jain2004new}}{42}{subsection.5.0.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.3}**text**\cite {eltawil2013mppt}}{40}{subsection.5.0.3}
+\contentsline {subsection}{\numberline {5.0.3}**text**\cite {liu2011fast}}{42}{subsection.5.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.4}**text**\cite {reza2013classification}}{40}{subsection.5.0.4}
+\contentsline {subsection}{\numberline {5.0.4}**text**\cite {dondi2008modeling}}{45}{subsection.5.0.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.5}**text**\cite {faranda2008energy}}{40}{subsection.5.0.5}
+\contentsline {subsection}{\numberline {5.0.5}**text**\cite {chu2009robust}}{45}{subsection.5.0.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.6}**text**\cite {houssamo2013experimental}}{41}{subsection.5.0.6}
+\contentsline {subsection}{\numberline {5.0.6}**text**\cite {urayai2011single}}{46}{subsection.5.0.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.7}**text**\cite {jain2004new}}{41}{subsection.5.0.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.8}**text**\cite {liu2011fast}}{41}{subsection.5.0.8}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.9}**text**\cite {dondi2008modeling}}{44}{subsection.5.0.9}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.10}**text**\cite {chu2009robust}}{44}{subsection.5.0.10}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.11}**text**\cite {urayai2011single}}{45}{subsection.5.0.11}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.12}**text**\cite {clark2006power}}{45}{subsection.5.0.12}
+\contentsline {subsection}{\numberline {5.0.7}**text**\cite {clark2006power}}{46}{subsection.5.0.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Bibliography}{47}{chapter*.58}
