@@ -1,14 +1,41 @@
 \pdfbookmark{Abstract}{Abstract}
-\chapter*{Abstract}
-\thispagestyle{begin}
 
+\chapter*{Abstract}
+
+
+\begin{tabular}{ | p{\dimexpr \linewidth-2\tabcolsep} |} \hline
+ \begin{figure}[H]
+        
+        \includegraphics[width=0.2\textwidth]{images/indust} 
+             \end{figure}  \\\hline
+\end{tabular}   
+\begin{tabular}{ | p{\dimexpr 0.3424\linewidth-2\tabcolsep} |
+                  p{\dimexpr 0.3424\linewidth-2\tabcolsep} |
+                  p{\dimexpr 0.3424\linewidth-2\tabcolsep} |} \hline
+                 Approved & Examiner & Supervisor \\
+                  \textbf{2015-MM-DD}  & \textbf{Martin Törngren} & \textbf{Baha Hasan} \\\hline
+                   & Commissioner & Contact person \\
+                    & \textbf{EXEGER Sweden AB} & \textbf{Camila Niva}\\ \hline
+\end{tabular} \\
+
+\begin{textblock}{8}(3,-3.3)
+\begin{center}
+\textbf{Master of Science Thesis MMK 2014: MF212X }
+\end{center}
+\end{textblock}
+\begin{textblock}{8}[0.5,0.5](7,-2.3)
+\begin{center}
+\textbf{Optimized MPPT implementation for Dye-sensitized Solar cells}
+\end{center}
+\end{textblock}
+\begin{textblock}{5}(8,-1.5)
+Kartik Karuna
+\end{textblock}
 % Here the abstract, remove the following command
 
+ European Commission's roadmap for moving to a low-carbon economy calls for a drastic reduction in the use of carbon based fuels. A low-carbon economy would have a much greater need for renewable sources of energy, energy-efficient building materials and other related technologies in order to reach its goals by 2050. More locally produced energy would be used, mostly from renewable sources with solar and wind playing an every increasing role.Energy efficiency will be a key driver of this transition. Designing self-powered devices could offset a huge portion of the carbon budget, freeing devices from charging and making them truly wireless. \\
+ 
+  Dye-Sensitized Solar Cells (DSCs)owing to their low-cost manufacturing technique among other advantages could well be the missing piece in this puzzle.Lower efficiency vis-à-vis its Silicon based counterparts have dithered large scale implementation however with continued research that is soon to change. In order to  maximize the produced energy, several maximum power point tracking (MPPT) algorithms have been proposed and developed over the years. They vary in implementation, energy efficiency, convergence speed, sensors required, cost effectiveness etc. Although comparative studies, based on widely-adopted MPPT algorithms have been presented before, have focused on commercially available Silicon based Solar-cells; none have applied their findings to DSCs in indoor conditions. This work presents an experimental comparison, under simulated indoor irradiation, of three most used MPPT methods for PV power systems in an attempt to find one most suitable for DSCs. Subsequent experiments showed the existing MPPT methods to be unsuitable for DSCs leading to a new hybrid Algorithm being proposed.\\       
 
-
-(Filler text not actual text) During recent years, for photovoltaic (PV) systems, many maximum power point tracking (MPPT) algorithms have been proposed and developed to maximize the produced energy. Regarding the design manner, these methods vary in many aspects as: implementation simplicity, power or energy efficiency, convergence speed, sensors required, cost effectiveness. Some comparative studies, based on widely-adopted MPPT algorithms, presented in the literature give results obtained either from simulation tool, which provide simultaneous operating systems, or using real PV test bench under solar simulator in order to reproduce the same operating solar conditions. This work presents an experimental comparison, under real solar irradiation, of four most used MPPT methods for PV power systems: Perturb and Observe (P\&O) and Incremental Conductance, as tracking step constant, and improved P\&O and Fuzzy Logic based MPPT, as variable tracking step. Using four identical PV, under strictly the same set of technical and meteorological conditions, an experimental comparison of these four algorithms is done. Following two criteria, energy efficiency and cost effectiveness, this comparison shows the advantage of use of a MPPT with a variable tracking step. The extracted energies by all four methods are almost identical with a slight advantage for improved P\&O algorithm. \newline
-
-**which can provide a convenient reference for future work in PV power generation, is based on the manner in which the control signal is generated and the PV power system behaviour as it approaches steady state conditions**re write **
-
-{\bf Keywords:} DSC, MPPT, PnO, INC, Golden Search Algorithm, Machine Learning. 
+{\bf Keywords:} DSCs, MPPT, PnO, INC, Golden Search Algorithm, Machine Learning. 
 \acresetall

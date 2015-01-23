@@ -12,6 +12,9 @@
 
 % versatile multi-column environment
 \usepackage{multicol}
+\usepackage{multirow} % for making tables 
+\usepackage{textpos}
+
 %chem package
 \usepackage[version=3]{mhchem}
 % extra general symbols
@@ -48,6 +51,7 @@
 	\pagenumbering{roman}
 	\pagestyle{begin}		% bug on tocloftpagestyle
 	
+	\include{chapters/01_abstract_sw}
 	\include{chapters/01_abstract}
 	\include{chapters/02_ack}
 
@@ -55,7 +59,7 @@
 	\tableofcontents
 	\clearpage
 	\listoffigures
-	\listoftables
+	%\listoftables
 	
 	% acronym list
 	\input{chapters/03_acronyms}
