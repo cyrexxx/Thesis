@@ -2016,17 +2016,24 @@
     <bcf:citekey order="66">Gill81MurrayWright</bcf:citekey>
     <bcf:citekey order="67">van1970fitting</bcf:citekey>
     <bcf:citekey order="68">van1970fitting</bcf:citekey>
-    <bcf:citekey order="69">houssamo2013experimental</bcf:citekey>
-    <bcf:citekey order="70">jain2004new</bcf:citekey>
-    <bcf:citekey order="71">liu2011fast</bcf:citekey>
-    <bcf:citekey order="72">liu2011fast</bcf:citekey>
-    <bcf:citekey order="73">liu2011fast</bcf:citekey>
-    <bcf:citekey order="74">liu2011fast</bcf:citekey>
+    <bcf:citekey order="69">vignati2012solutions</bcf:citekey>
+    <bcf:citekey order="70">yong2008modeling</bcf:citekey>
+    <bcf:citekey order="71">lee2010high</bcf:citekey>
+    <bcf:citekey order="72">NI_SMU</bcf:citekey>
+    <bcf:citekey order="73">houssamo2013experimental</bcf:citekey>
+    <bcf:citekey order="74">jain2004new</bcf:citekey>
     <bcf:citekey order="75">liu2011fast</bcf:citekey>
-    <bcf:citekey order="76">dondi2008modeling</bcf:citekey>
-    <bcf:citekey order="77">chu2009robust</bcf:citekey>
-    <bcf:citekey order="78">urayai2011single</bcf:citekey>
-    <bcf:citekey order="79">clark2006power</bcf:citekey>
+    <bcf:citekey order="76">houssamo2013experimental</bcf:citekey>
+    <bcf:citekey order="77">jain2004new</bcf:citekey>
+    <bcf:citekey order="78">liu2011fast</bcf:citekey>
+    <bcf:citekey order="79">liu2011fast</bcf:citekey>
+    <bcf:citekey order="80">liu2011fast</bcf:citekey>
+    <bcf:citekey order="81">liu2011fast</bcf:citekey>
+    <bcf:citekey order="82">liu2011fast</bcf:citekey>
+    <bcf:citekey order="83">dondi2008modeling</bcf:citekey>
+    <bcf:citekey order="84">chu2009robust</bcf:citekey>
+    <bcf:citekey order="85">urayai2011single</bcf:citekey>
+    <bcf:citekey order="86">clark2006power</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" type="entry" label="nty">
   <bcf:sorting>

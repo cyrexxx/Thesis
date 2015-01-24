@@ -365,6 +365,29 @@
       \field{year}{2013}
       \field{pages}{98\bibrangedash 107}
     \endentry
+    \entry{NI_SMU}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=e07a8a16139f25a4c05b0e1e9aedfa3a}{Instruments}{I\bibinitperiod}{National}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e07a8a16139f25a4c05b0e1e9aedfa3a}{Instruments}{I\bibinitperiod}{National}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e07a8a16139f25a4c05b0e1e9aedfa3a}
+      \strng{fullhash}{e07a8a16139f25a4c05b0e1e9aedfa3a}
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labeltitle}{What Is a Source Measure Unit}
+      \field{day}{19}
+      \field{month}{02}
+      \field{title}{What Is a Source Measure Unit}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2014}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.ni.com/white-paper/6850/en/
+      \endverb
+    \endentry
     \entry{jain2004new}{article}{}
       \name{labelname}{2}{}{%
         {{hash=b7157f21b1e6dfd4d0da8622e55efaf7}{Jain}{J\bibinitperiod}{Sachin}{S\bibinitperiod}{}{}{}{}}%
@@ -406,6 +429,38 @@
       \field{labeltitle}{Dye-sensitized solar cells}
       \field{title}{Dye-sensitized solar cells}
       \field{year}{2010}
+    \endentry
+    \entry{lee2010high}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=acc7eac3fd43200bbe5ff3f872c9ffb1}{Lee}{L\bibinitperiod}{Hak-Soo}{H\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=9d9771b098b0d61f2b0b3955be97c4ac}{Bae}{B\bibinitperiod}{Sang-Hoon}{S\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=e99a1ef7e904b509ee4408945fbf02f0}{Jo}{J\bibinitperiod}{Yimhyun}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ad26c9ca2f11b48e3d448b43ab2fb2e2}{Kim}{K\bibinitperiod}{Kang-Jin}{K\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=163b65581e3d7c7c2453927f0a63f6c0}{Jun}{J\bibinitperiod}{Yongseok}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=c2e79e70b417cbe29e1ab0f0c8ce88c5}{Han}{H\bibinitperiod}{Chi-Hwan}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=acc7eac3fd43200bbe5ff3f872c9ffb1}{Lee}{L\bibinitperiod}{Hak-Soo}{H\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=9d9771b098b0d61f2b0b3955be97c4ac}{Bae}{B\bibinitperiod}{Sang-Hoon}{S\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=e99a1ef7e904b509ee4408945fbf02f0}{Jo}{J\bibinitperiod}{Yimhyun}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ad26c9ca2f11b48e3d448b43ab2fb2e2}{Kim}{K\bibinitperiod}{Kang-Jin}{K\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=163b65581e3d7c7c2453927f0a63f6c0}{Jun}{J\bibinitperiod}{Yongseok}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=c2e79e70b417cbe29e1ab0f0c8ce88c5}{Han}{H\bibinitperiod}{Chi-Hwan}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{33b750b229014a1858cb4880faf0d3f0}
+      \strng{fullhash}{dcd8422b2319ac07eb025c0d6e3cdd1b}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{A high temperature stable electrolyte system for dye-sensitized solar cells}
+      \field{journaltitle}{Electrochimica Acta}
+      \field{number}{24}
+      \field{title}{A high temperature stable electrolyte system for dye-sensitized solar cells}
+      \field{volume}{55}
+      \field{year}{2010}
+      \field{pages}{7159\bibrangedash 7165}
     \endentry
     \entry{liu2011fast}{article}{}
       \name{labelname}{2}{}{%
@@ -1077,6 +1132,29 @@
       \field{year}{2013}
       \field{pages}{98\bibrangedash 107}
     \endentry
+    \entry{NI_SMU}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=e07a8a16139f25a4c05b0e1e9aedfa3a}{Instruments}{I\bibinitperiod}{National}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e07a8a16139f25a4c05b0e1e9aedfa3a}{Instruments}{I\bibinitperiod}{National}{N\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e07a8a16139f25a4c05b0e1e9aedfa3a}
+      \strng{fullhash}{e07a8a16139f25a4c05b0e1e9aedfa3a}
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labeltitle}{What Is a Source Measure Unit}
+      \field{day}{19}
+      \field{month}{02}
+      \field{title}{What Is a Source Measure Unit}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2014}
+      \field{year}{2014}
+      \verb{url}
+      \verb http://www.ni.com/white-paper/6850/en/
+      \endverb
+    \endentry
     \entry{jain2004new}{article}{}
       \name{labelname}{2}{}{%
         {{hash=b7157f21b1e6dfd4d0da8622e55efaf7}{Jain}{J\bibinitperiod}{Sachin}{S\bibinitperiod}{}{}{}{}}%
@@ -1118,6 +1196,38 @@
       \field{labeltitle}{Dye-sensitized solar cells}
       \field{title}{Dye-sensitized solar cells}
       \field{year}{2010}
+    \endentry
+    \entry{lee2010high}{article}{}
+      \name{labelname}{6}{}{%
+        {{hash=acc7eac3fd43200bbe5ff3f872c9ffb1}{Lee}{L\bibinitperiod}{Hak-Soo}{H\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=9d9771b098b0d61f2b0b3955be97c4ac}{Bae}{B\bibinitperiod}{Sang-Hoon}{S\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=e99a1ef7e904b509ee4408945fbf02f0}{Jo}{J\bibinitperiod}{Yimhyun}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ad26c9ca2f11b48e3d448b43ab2fb2e2}{Kim}{K\bibinitperiod}{Kang-Jin}{K\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=163b65581e3d7c7c2453927f0a63f6c0}{Jun}{J\bibinitperiod}{Yongseok}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=c2e79e70b417cbe29e1ab0f0c8ce88c5}{Han}{H\bibinitperiod}{Chi-Hwan}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{6}{}{%
+        {{hash=acc7eac3fd43200bbe5ff3f872c9ffb1}{Lee}{L\bibinitperiod}{Hak-Soo}{H\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=9d9771b098b0d61f2b0b3955be97c4ac}{Bae}{B\bibinitperiod}{Sang-Hoon}{S\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=e99a1ef7e904b509ee4408945fbf02f0}{Jo}{J\bibinitperiod}{Yimhyun}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=ad26c9ca2f11b48e3d448b43ab2fb2e2}{Kim}{K\bibinitperiod}{Kang-Jin}{K\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=163b65581e3d7c7c2453927f0a63f6c0}{Jun}{J\bibinitperiod}{Yongseok}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=c2e79e70b417cbe29e1ab0f0c8ce88c5}{Han}{H\bibinitperiod}{Chi-Hwan}{C\bibinithyphendelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{33b750b229014a1858cb4880faf0d3f0}
+      \strng{fullhash}{dcd8422b2319ac07eb025c0d6e3cdd1b}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{A high temperature stable electrolyte system for dye-sensitized solar cells}
+      \field{journaltitle}{Electrochimica Acta}
+      \field{number}{24}
+      \field{title}{A high temperature stable electrolyte system for dye-sensitized solar cells}
+      \field{volume}{55}
+      \field{year}{2010}
+      \field{pages}{7159\bibrangedash 7165}
     \endentry
     \entry{liu2011fast}{article}{}
       \name{labelname}{2}{}{%
