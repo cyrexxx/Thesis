@@ -59,9 +59,11 @@ Electrical models for solar cells are frequently found in literature \cite{vigna
 
 \section{Modelling and Simulations} 
 
+the three-dimensional surface thus created in the section above acts as a function , a look-up table of sorts. For a given illumination and voltage the function computes a appropriate current value. ** to convert continuous voltage values to discreet values**,a transfer functions are used. Capacitor and diode are added in order to accurately mimic the response of \ac{DSCs} under test as discussed in \ref{sec:SDM} . the \ac{DSCs} subsystem is represented in the figure ~\ref{fig:PV_block_Model} below. This sub-system is placed under a mask in the abstract view shown in figure ~\ref{fig:Model_top} on page ~\pageref{fig:Model_top} in order to simplify operation and for ** ascetic ** reasons. The validation of the said model is discussed in section \ref{sec:Validation}.\\
 
-Validation \ref{sec:Validation}
+The \textit{Scopes and Outputs} subsection is used to plot data on to graphs and to push data onto Matlab for further analysis.\\
 
+\textit{\ac{MPPT} Controller Block}
 
 \begin{figure}[H]
 	  \begin{center}
@@ -82,7 +84,7 @@ Validation \ref{sec:Validation}
 \begin{figure}[H]
   \begin{center}
 	  \includegraphics[width=\textwidth]{images/controller_mod}
-	  \caption{Top Model }
+	  \caption{MPPT controller }
 	  \label{fig:Controller_mod}
   \end{center}
 \end{figure}
@@ -90,7 +92,7 @@ Validation \ref{sec:Validation}
 
 
 
-\section {Validation in Matlab{\textregistered}}\label{sec:Validation} 
+\section {Validation of the model in Matlab{\textregistered}}\label{sec:Validation} 
 
 \begin{figure}[H]
 	  \begin{center}

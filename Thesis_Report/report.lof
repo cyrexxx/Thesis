@@ -60,34 +60,34 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {3.6}{\ignorespaces Modelling of the DSC Subsystem \relax }}{32}{figure.caption.50}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Top Model \relax }}{33}{figure.caption.51}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Top Model \relax }}{32}{figure.caption.51}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Top Model \relax }}{34}{figure.caption.52}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces MPPT controller \relax }}{33}{figure.caption.52}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Modelling of the DSC Subsystem \relax }}{35}{figure.caption.53}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Modelling of the DSC Subsystem \relax }}{34}{figure.caption.53}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Top Model \relax }}{35}{figure.caption.54}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Top Model \relax }}{34}{figure.caption.54}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Top Model \relax }}{36}{figure.caption.55}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Top Model \relax }}{35}{figure.caption.55}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Top Model \relax }}{37}{figure.caption.56}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Top Model \relax }}{36}{figure.caption.56}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Probability field \relax }}{38}{figure.caption.57}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Probability field \relax }}{37}{figure.caption.57}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Flow chart for Proposed MPPT Algorithm \relax }}{39}{figure.caption.58}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Perturb and Observe Method on implementation \relax }}{41}{figure.caption.59}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Incremental Conductance Method on implementation \relax }}{42}{figure.caption.60}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces fractional open circuit voltage on implementation\relax }}{43}{figure.caption.61}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Flow chart for Proposed MPPT Algorithm \relax }}{38}{figure.caption.58}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces I\IeC {\textendash }V curves of the solar panel under different irradiation levels and the voltage approximation line. \cite {liu2011fast} \relax }}{47}{figure.caption.64}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Perturb and Observe Method on implementation \relax }}{39}{figure.caption.59}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Variation of V\textsubscript {MPP} for different illumination observed **in/on** the DSC under test \relax }}{48}{figure.caption.65}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Incremental Conductance Method on implementation \relax }}{40}{figure.caption.60}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Research Cell Efficiency Records \cite {liu2011fast} \relax }}{49}{figure.caption.66}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces fractional open circuit voltage on implementation\relax }}{41}{figure.caption.61}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.1}{\ignorespaces I\IeC {\textendash }V curves of the solar panel under different irradiation levels and the voltage approximation line. \cite {liu2011fast} \relax }}{45}{figure.caption.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Variation of V\textsubscript {MPP} for different illumination observed **in/on** the DSC under test \relax }}{46}{figure.caption.65}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Research Cell Efficiency Records \cite {liu2011fast} \relax }}{47}{figure.caption.66}
