@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  25 JAN 2015 03:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  13 FEB 2015 10:58
 entering extended mode
 **report.tex
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.tex
@@ -2493,26 +2493,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-<images/PV_block_Model.png, id=888, 1453.43pt x 888.31876pt>
+<images/PV_block_Model.png, id=891, 1091.277pt x 639.5895pt>
 File: images/PV_block_Model.png Graphic file (type png)
 
 <use images/PV_block_Model.png>
 Package pdftex.def Info: images/PV_block_Model.png used on input line 70.
-(pdftex.def)             Requested size: 418.25368pt x 255.62686pt.
+(pdftex.def)             Requested size: 418.25368pt x 245.13503pt.
  [31]
-<images/Top_level_mod.png, id=893, 1441.7865pt x 761.244pt>
+<images/Top_level_mod.png, id=896, 1441.7865pt x 761.244pt>
 File: images/Top_level_mod.png Graphic file (type png)
 
 <use images/Top_level_mod.png>
 Package pdftex.def Info: images/Top_level_mod.png used on input line 78.
-(pdftex.def)             Requested size: 334.60422pt x 176.66216pt.
+(pdftex.def)             Requested size: 418.25368pt x 220.8248pt.
 
-<images/controller_mod.png, id=894, 357.7365pt x 489.62926pt>
+<images/controller_mod.png, id=897, 353.52075pt x 437.2335pt>
 File: images/controller_mod.png Graphic file (type png)
 
 <use images/controller_mod.png>
 Package pdftex.def Info: images/controller_mod.png used on input line 86.
-(pdftex.def)             Requested size: 418.25368pt x 572.4829pt.
+(pdftex.def)             Requested size: 376.42575pt x 465.58687pt.
  [32 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/PV_block_Mod
 el.png> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Top_level
 _mod.png>]
@@ -2531,7 +2531,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `iwona' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<images/IVLUX_LAB_measured.png, id=900, 1029.22449pt x 766.93422pt>
+<images/IVLUX_LAB_measured.png, id=902, 1029.22449pt x 766.93422pt>
 File: images/IVLUX_LAB_measured.png Graphic file (type png)
 
 <use images/IVLUX_LAB_measured.png>
@@ -2539,14 +2539,14 @@ Package pdftex.def Info: images/IVLUX_LAB_measured.png used on input line 99.
 (pdftex.def)             Requested size: 334.60422pt x 249.33258pt.
  [33 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/controller_m
 od.png>]
-<images/IVLUX_MOD_gen.png, id=906, 1029.22449pt x 766.93422pt>
+<images/IVLUX_MOD_gen.png, id=908, 1029.22449pt x 766.93422pt>
 File: images/IVLUX_MOD_gen.png Graphic file (type png)
 
 <use images/IVLUX_MOD_gen.png>
 Package pdftex.def Info: images/IVLUX_MOD_gen.png used on input line 107.
 (pdftex.def)             Requested size: 334.60422pt x 249.33258pt.
 
-<images/Diff_Contour.png, id=907, 1022.99431pt x 767.55724pt>
+<images/Diff_Contour.png, id=909, 1022.99431pt x 767.55724pt>
 File: images/Diff_Contour.png Graphic file (type png)
 
 <use images/Diff_Contour.png>
@@ -2555,7 +2555,7 @@ Package pdftex.def Info: images/Diff_Contour.png used on input line 115.
  [34 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVLUX_LAB_me
 asured.png (PNG copy)> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/i
 mages/IVLUX_MOD_gen.png (PNG copy)>]
-<images/Contour_map.png, id=913, 1029.22449pt x 766.93422pt>
+<images/Contour_map.png, id=915, 1029.22449pt x 766.93422pt>
 File: images/Contour_map.png Graphic file (type png)
 
 <use images/Contour_map.png>
@@ -2572,7 +2572,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--134
 pdfTeX warning: pdflatex.exe (file C:/Users/Kartik.Karuna/Documents/Exjobb/Thes
 is_Report/images/Probability_field.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
-<images/Probability_field.pdf, id=925, 1195.01572pt x 845.04686pt>
+<images/Probability_field.pdf, id=927, 1195.01572pt x 845.04686pt>
 File: images/Probability_field.pdf Graphic file (type pdf)
 
 <use images/Probability_field.pdf>
@@ -2584,7 +2584,7 @@ Overfull \hbox (41.82791pt too wide) in paragraph at lines 143--144
  []
 
 [36 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Contour_map.p
-ng (PNG copy)>] <images/Proposed_Flow.png, id=930, 559.1289pt x 944.0871pt>
+ng (PNG copy)>] <images/Proposed_Flow.png, id=932, 559.1289pt x 944.0871pt>
 File: images/Proposed_Flow.png Graphic file (type png)
 
 <use images/Proposed_Flow.png>
@@ -2599,7 +2599,7 @@ Overfull \vbox (30.18909pt too high) has occurred while \output is active []
 .png>])
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\chapters/40_chapter.tex
 Chapter 4.
-<images/pacehold.png, id=960, 722.7pt x 542.025pt>
+<images/pacehold.png, id=962, 722.7pt x 542.025pt>
 File: images/pacehold.png Graphic file (type png)
  <use images/pacehold.png>
 Package pdftex.def Info: images/pacehold.png used on input line 7.
@@ -2717,14 +2717,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
 Package acronym Info: Label `acro:VAL' newly defined as it shall be overridden
 although it is yet undefined on input line 72.
-[44] <images/IVCurve_lui.png, id=1001, 467.346pt x 311.9655pt>
+[44] <images/IVCurve_lui.png, id=1003, 467.346pt x 311.9655pt>
 File: images/IVCurve_lui.png Graphic file (type png)
 
 <use images/IVCurve_lui.png>
 Package pdftex.def Info: images/IVCurve_lui.png used on input line 77.
 (pdftex.def)             Requested size: 418.25368pt x 279.19548pt.
 
-<images/IV_50-500.png, id=1006, 1275.93932pt x 664.13638pt>
+<images/IV_50-500.png, id=1008, 1275.93932pt x 664.13638pt>
 File: images/IV_50-500.png Graphic file (type png)
 
 <use images/IV_50-500.png>
@@ -2732,7 +2732,7 @@ Package pdftex.def Info: images/IV_50-500.png used on input line 86.
 (pdftex.def)             Requested size: 418.25368pt x 217.70639pt.
  [45 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVCurve_lui.
 png>]
-<images/IVCurve_lui_2.png, id=1011, 417.9615pt x 339.669pt>
+<images/IVCurve_lui_2.png, id=1013, 417.9615pt x 339.669pt>
 File: images/IVCurve_lui_2.png Graphic file (type png)
 
 <use images/IVCurve_lui_2.png>
@@ -2833,7 +2833,7 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 Here is how much of TeX's memory you used:
  33505 strings out of 493921
  558004 string characters out of 3147258
- 1024522 words of memory out of 3000000
+ 1024525 words of memory out of 3000000
  35385 multiletter control sequences out of 15000+200000
  126458 words of font info for 400 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -2858,9 +2858,9 @@ pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
-Output written on report.pdf (65 pages, 7036969 bytes).
+Output written on report.pdf (65 pages, 6961930 bytes).
 PDF statistics:
- 1232 PDF objects out of 1440 (max. 8388607)
+ 1234 PDF objects out of 1440 (max. 8388607)
  256 named destinations out of 1000 (max. 500000)
  66128 words of extra memory for PDF output out of 74296 (max. 10000000)
 

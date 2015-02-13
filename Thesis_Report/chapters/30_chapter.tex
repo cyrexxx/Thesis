@@ -59,11 +59,11 @@ Electrical models for solar cells are frequently found in literature \cite{vigna
 
 \section{Modelling and Simulations} 
 
-the three-dimensional surface thus created in the section above acts as a function , a look-up table of sorts. For a given illumination and voltage the function computes a appropriate current value. ** to convert continuous voltage values to discreet values**,a transfer functions are used. Capacitor and diode are added in order to accurately mimic the response of \ac{DSCs} under test as discussed in \ref{sec:SDM} . the \ac{DSCs} subsystem is represented in the figure ~\ref{fig:PV_block_Model} below. This sub-system is placed under a mask in the abstract view shown in figure ~\ref{fig:Model_top} on page ~\pageref{fig:Model_top} in order to simplify operation and for ** ascetic ** reasons. The validation of the said model is discussed in section \ref{sec:Validation}.\\
+The three-dimensional surface thus created in the section above acts as a function, a look-up table of sorts, for a given illumination and voltage; the function computes a appropriate value for the cell's current . ** to convert continuous voltage values to discreet values **,a transfer functions are used. The \ac{DSCs} subsystem is represented in the figure ~\ref{fig:PV_block_Model} below. Capacitor is added in order to accurately mimic the response of \ac{DSCs} under test as discussed in \ref{sec:eDDM}. The diode acts as a Snubber, eliminating flyback across the inductive load. This sub-system is placed under a mask in the abstract view, shown in figure ~\ref{fig:Model_top} on page ~\pageref{fig:Model_top}, in order to simplify operation and for ascetic reasons. The validation of the said model is discussed in section \ref{sec:Validation}. Another look-up table provides Open-circuit Voltages ($V_{OC}$) for a given Lux, to be used in certain algorithms. \\
 
-The \textit{Scopes and Outputs} subsection is used to plot data on to graphs and to push data onto Matlab for further analysis.\\
+The \textit{Scopes and Outputs} subsection is used to plot data on to graphs and to push data onto Matlab, for further analysis.\\
 
-\textit{\ac{MPPT} Controller Block}
+The \ac{MPPT} \textit{Controller Block} (figure ~\ref{fig:Controller_mod} on page ~\pageref{fig:Controller_mod} ) is modelled as a variant subsystem. The variant-control determines which variant is active, and is set before the simulation is started. This arrangement of subsystems makes it extremely easy to switch between and compare the various \ac{MPPT} Algorithms without making any alterations to the rest of the model.   
 
 \begin{figure}[H]
 	  \begin{center}
@@ -75,7 +75,7 @@ The \textit{Scopes and Outputs} subsection is used to plot data on to graphs and
 
 \begin{figure}[H]
   \begin{center}
-	  \includegraphics[width=0.8\textwidth]{images/Top_level_mod}
+	  \includegraphics[width=\textwidth]{images/Top_level_mod}
 	  \caption{Top Model }
 	  \label{fig:Model_top}
   \end{center}
@@ -83,7 +83,7 @@ The \textit{Scopes and Outputs} subsection is used to plot data on to graphs and
 
 \begin{figure}[H]
   \begin{center}
-	  \includegraphics[width=\textwidth]{images/controller_mod}
+	  \includegraphics[width=0.9\textwidth]{images/controller_mod}
 	  \caption{MPPT controller }
 	  \label{fig:Controller_mod}
   \end{center}
