@@ -340,7 +340,7 @@ In Figure ~\ref{fig:linear_regression} the points in red represent $V_{MPP}$ for
 \subsection{Pattern search}
 
 
-Finding the maxima or minima (Collectively known as extrema) of a first order single variable function can easily be found by equating the derivative of this function to zero. However finding the derivative of certain functions is not always easy or possible.In such conditions ** search techniques are used to find the Maxima or minima in a uni-modal(A uni-modal function contains only one minimum or maximum on the specified interval ) continuous function over an interval without using derivatives \cite{seiler1989numerical}.  Golden Section search Algorithm is one such search method. The Algorithm derives its name from the Golden ratio (0.61803...)\\
+Finding the maxima or minima (Collectively known as extrema) of a first order single variable function can easily be found by equating the derivative of this function to zero. However finding the derivative of certain functions is not always easy or possible.In such conditions, various search techniques are used to find the Maxima or minima  in a uni-modal(A uni-modal function contains only one minimum or maximum on the specified interval ) continuous function over an interval without using derivatives \cite{seiler1989numerical}.  Golden Section search Algorithm is one such search method. The Algorithm derives its name from the Golden ratio (0.61803...)\\
 
 Two numbers are said to be in the golden ratio if their ratio is same as the ratio of their sum to the larger of the two quantities.Assuming $\beta > \alpha$ then this can be expressed as\cite{Gill81MurrayWright}:\\
 
@@ -360,7 +360,7 @@ where ${\phi}$ is the golden ratio whose value is given by:\\
 	\end{aligned}
 \end{equation}
  
- Assuming \textit{f(x)} to be an uni-modal function in the intervals between  \textit{a} and \textit{b}. The maxima is represented by $\textit{f}(P_{\textit{max}})$ such that $a\leq P_{\textit{max}} \leq b $.
+ Assuming \textit{f(x)} to be an uni-modal function in the intervals between  \textit{a} and \textit{b}. It is very important for the extrema exists within the range to prevent misleading results. The maxima is represented by $\textit{f}(P_{\textit{max}})$ such that $a\leq P_{\textit{max}} \leq b $.
  \begin{itemize}
  
  \item Points $P_{1} \& P_{2}$ are chosen such that they satisfy:
@@ -384,7 +384,7 @@ where ${\phi}$ is the golden ratio whose value is given by:\\
 	\item If $\textit{f}(P_{1}) > \textit{f}(P_{2})$ then the outer bound is discarded and replaced by $ P_{2} $ and $ P_{2}$ replaced $ P_{1}$; a new $ P_{1}$ is calculated using equation ~\ref{eq:golden_ratio_p1}.
 	\item Else the lower bound is cast-off to be replaced with $ P_{1}$ and $ P_{1}$ is swapped with $ P_{2}$; with $ P_{2}$ found afresh using equation ~\ref{eq:golden_ratio_p2}.
 	\item New values of either $\textit{f}(P_{1})$ or $\textit{f}(P_{2})$ are found out depending on the branch taken.
-	\item  The process repeated over and over again only stopping when either the iteration count has run out or if the lower and upper bounds are close enough to be acceptable. 
+	\item  The process repeated over and over again only stopping when either the iteration count has run out or if the lower and upper bounds are close enough to be acceptably small. 
 \end{itemize}
 
  
