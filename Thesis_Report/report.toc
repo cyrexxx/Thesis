@@ -58,30 +58,18 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.4}Proposed Method }{36}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Result Discussion}{39}{chapter.4}
+\contentsline {chapter}{\numberline {4}Result Discussion}{43}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Perturb and Observe Method }{39}{section.4.1}
+\contentsline {section}{\numberline {4.1}Model building}{43}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Incremental Conductance Method }{40}{section.4.2}
+\contentsline {section}{\numberline {4.2}Perturb and Observe Method }{44}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Fractional Open Circuit Voltage Method }{40}{section.4.3}
+\contentsline {section}{\numberline {4.3}Incremental Conductance Method }{46}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Proposed Method }{42}{section.4.4}
+\contentsline {section}{\numberline {4.4}Fractional Open Circuit Voltage Method }{48}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{43}{chapter.5}
+\contentsline {section}{\numberline {4.5}Proposed Method }{50}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.1}**text**\cite {houssamo2013experimental}}{43}{subsection.5.0.1}
+\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{53}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.2}**text**\cite {jain2004new}}{43}{subsection.5.0.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.3}**text**\cite {liu2011fast}}{44}{subsection.5.0.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.4}**text**\cite {dondi2008modeling}}{46}{subsection.5.0.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.5}**text**\cite {chu2009robust}}{46}{subsection.5.0.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.6}**text**\cite {urayai2011single}}{47}{subsection.5.0.6}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.7}**text**\cite {clark2006power}}{47}{subsection.5.0.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{49}{chapter*.68}
+\contentsline {chapter}{Bibliography}{55}{chapter*.72}

@@ -1,0 +1,67 @@
+% Commeted out.
+ 
+ %\subsection{**text**\cite{ngan2011study}}
+ 
+ %Ngan, Mei Shan, and Chee Wei Tan. "\textit{A study of maximum power point tracking algorithms for stand-alone photovoltaic systems.}" Applied Power Electronics Colloquium (IAPEC), 2011 IEEE. IEEE, 
+2011. \\
+ 
+ %\subsection{**text**\cite{esram2007comparison}}
+ 
+ %Esram, Trishan, and Patrick L. Chapman. "\textit{Comparison of photovoltaic array maximum power point tracking techniques.}" IEEE TRANSACTIONS ON ENERGY CONVERSION EC 22.2 (2007): 439.\\
+ 
+ %**almost all the Work in eltawil2013mppt is derived from this paper including pictures and text **
+ %\subsection{**text**\cite{eltawil2013mppt}}
+ 
+ %Eltawil, Mohamed A., and Zhengming Zhao. "\textit{MPPT techniques for photovoltaic applications.}" Renewable and Sustainable Energy Reviews 25 (2013): 793-813. \\
+ 
+ %This article aims to assess different MPPT techniques, provide background knowledge, implementation topology, grid interconnection of PV and solar microinverter 
+requirements presented in the literature, doing in depth comparisons between them with a brief discussion. The MPPT merits, demerits and classification, which can 
+be used as a reference for future research related to optimizing the solar power generation, are also discussed.\\
+ 
+ %\subsection{**text**\cite{reza2013classification}}
+ 
+ %Reza Reisi, Ali, Mohammad Hassan Moradi, and Shahriar Jamasb. "\textit{Classification and comparison of maximum power point tracking techniques for photovoltaic system: A review.}" 
+Renewable and Sustainable Energy Reviews 19 (2013): 433-443.
+ 
+ %\subsection{**text**\cite{faranda2008energy}}
+ 
+ %Faranda, Roberto, and Sonia Leva. "\textit{Energy comparison of MPPT techniques for PV Systems.}" WSEAS transactions on power systems 3.6 (2008): 446-455.\\
+ 
+ %This paper presents a comparative study of ten widely-adopted MPPT algorithms; their performance is evaluated on the energy point of view, by using the 
+simulation tool Simulink{\textregistered}, considering different solar irradiance variations.\\
+ 
+ %My thesis borrows some of the algorithms/Flow Chart mentioned in the above four papers. 
+ 
+
+ 
+ \subsection{**text**\cite{liu2011fast}}
+ 
+ Liu, Yi-Hua, and Jia-Wei Huang. "\textit{A fast and low cost analog maximum power point tracking method for low power photovoltaic systems.}" Solar Energy 85.11 (2011): 2771-2780.\\
+ 
+  
+ Typically, MPPT methods utilized in medium and high power PV systems uses measured cell characteristics (current, voltage, power) along with an 
+online search algorithm to compute the corresponding \ac{MPP}. Due to the complexity of the required mathematical operations, a \ac{DSP} or a relatively 
+powerful micro-controller is typically needed, which increases the cost of the system.Moreover, it consumes significant portion of the generated power. 
+
+
+ \subsection{**text**}
+ Chu, Chen-Chi, and Chieh-Li Chen. "\textit{Robust maximum power point tracking method for photovoltaic cells: A sliding mode control approach.}" Solar Energy 83.8 (2009): 1370-1378.\\
+Therefore, a\ac{MPPT} circuit with low-cost and fast-tracking features is essential .\\
+
+ \subsection{**text**\cite{urayai2011single}}
+ ** Write about this in the proposed algo part**  
+ Urayai, Caston, and G. Amaratunga. "\textit{Single sensor boost converter-based maximum power point tracking algorithms.}" Applied Power Electronics Conference and Exposition (APEC), 2011 
+Twenty-Sixth Annual IEEE. IEEE, 2011.\\
+ 
+ Two new maximum power point tracking algorithms are presented: the input voltage sensor, and duty ratio maximum power point tracking algorithm (ViSD algorithm); and the output voltage sensor, 
+and duty ratio maximum power point tracking algorithm (VoSD algorithm).unlike the incremental conductance algorithm which requires two sensors (the voltage sensor and current sensor), 
+the two algorithms are more desirable because they require only one sensor: the voltage sensor.  \\ 
+
+ 
+ \subsection{**text**}
+ 
+ Clark, C., and A. Lopez. "\textit{Power system challenges for small satellite missions.}" Proceedings of the 2006 Small Satellites, Systems and Services Symposium, D. Danesy, Ed. The Netherlands: ESA. 2006.\\
+ 
+ 
+ **TExt**
+ Inspiration for use of multiple power buses 

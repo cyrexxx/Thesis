@@ -176,9 +176,9 @@ Where T is the absolute temperature, $\omega$ is the angular frequency, $\sigma$
 
 Despite all the advantages presented by the generation of energy through the use of solar cells the efficiency of energy conversion is currently low (the best commercial solar module is only 21.5\% efficient) and the initial cost for its implementation is still considered high. Thus it becomes pertinent to use various techniques to extract the maximum power from these cells, in order to achieve maximum efficiency in operation. It should be noted that there is only one maximum power point (MPP) for a given panel, and this varies according to climatic and irradiation conditions\cite{eltawil2013mppt}.
 
-To overcome this problem, several methods for extracting the maximum power have been proposed and many comparative studies have been published in literature \cite{ngan2011study},\cite{esram2007comparison},\cite{eltawil2013mppt},\cite{reza2013classification}and \cite{faranda2008energy}. 
+To overcome this problem, several methods for extracting the maximum power have been proposed and many comparative studies have been published in literature  \cite{chu2009robust}, \cite{clark2006power}, \cite{eltawil2013mppt}, \cite{esram2007comparison}, \cite{faranda2008energy}, \cite{houssamo2013experimental}, \cite{ngan2011study} and \cite{reza2013classification}. 
 
-\subsection{Perturb and Observe (PnO) Method }
+\subsection{Perturb and Observe (PnO) Method } \label{sec:pno_sec}
 
 
     \begin{figure}[H]
@@ -194,12 +194,12 @@ To overcome this problem, several methods for extracting the maximum power have 
   \begin{figure}[H]
     \begin{center}
     \includegraphics[width=\textwidth]{images/pno_flow}
-    \caption{ Flow chart for the Perturb and Observe Method }
+    \caption{*** Flow chart for the Perturb and Observe Method }
     \label{fig:PnO_flow}
     \end{center}
     \end{figure}
   
-  \subsection{Incremental Conductance Method (ICM) }
+  \subsection{Incremental Conductance Method (ICM) } \label{sec:icm_sec}
   
   \begin{figure}[H]
          \begin{center}
@@ -219,7 +219,7 @@ To overcome this problem, several methods for extracting the maximum power have 
       \end{center}
       \end{figure}
       
-  \subsection{Fractional Open Circuit Voltage (FOCV) Method  }
+  \subsection{Fractional Open Circuit Voltage (FOCV) Method  } \label{sec:focv_sec}
   
    \begin{figure}[H]
            \begin{center}
@@ -340,7 +340,7 @@ In Figure ~\ref{fig:linear_regression} the points in red represent $V_{MPP}$ for
 \subsection{Pattern search}
 
 
-Finding the maxima or minima ( collectively known as extrema) of a first order single variable function can easily be found by equating the derivative of this function to zero. However finding the derivative of certain functions is not always easy or possible. In such conditions, various search techniques are used to find the maxima or minima  in a uni-modal ( a uni-modal function contains only one minimum or maximum on the specified interval) continuous function over an interval without using derivatives \cite{seiler1989numerical}. Golden section search algorithm is one such search method. The algorithm derives its name from the Golden ratio (0.61803...)\\
+Finding the maxima or minima ( collectively known as extrema) of a first order single variable function can easily be found by equating the derivative of this function to zero. However finding the derivative of certain functions is not always easy or possible. In such conditions, various search techniques are used to find the maxima or minima  in a uni-modal ( a uni-modal function contains only one minimum or maximum on the specified interval) continuous function over an interval without using derivatives \cite{seiler1989numerical}. \ac{GSSA} is one such search method. The algorithm derives its name from the Golden ratio (0.61803...)\\
 
 Two numbers are said to be in the Golden ratio if their ratio is same as the ratio of their sum to the larger of the two quantities. Assuming $\beta > \alpha$ then this can be expressed as\cite{Gill81MurrayWright}:\\
 
@@ -396,7 +396,7 @@ where ${\phi}$ is the Golden ratio whose value is given by:\\
   \end{center}
   \end{figure}
   
-The advantage of using Golden search over other search methods is that the extrema is found in the least number of steps and every iteration requires only one additional data point. Thereby greatly reducing the complexity of the algorithm and hence the computation power and/or time required to lock-in onto the extrema.
+The advantage of using \ac{GSSA} over other search methods is that the extrema is found in the least number of steps and every iteration requires only one additional data point. Thereby greatly reducing the complexity of the algorithm and hence the computation power and/or time required to lock-in onto the extrema.
 
 \begin{itemize}
 	 \item The blue points represent extremes of the successive
