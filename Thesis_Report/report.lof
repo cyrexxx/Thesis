@@ -38,19 +38,19 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.11}{\ignorespaces Black box model for the Incremental Conductance Algorithm \relax }}{19}{figure.caption.38}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Flow chart for the fractional open circuit voltage Method (adapted from \cite {reza2013classification})\relax }}{20}{figure.caption.39}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Flow chart for the Fractional Open Circuit Voltage Method (adapted from \cite {reza2013classification})\relax }}{20}{figure.caption.39}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Example for linear regression \relax }}{22}{figure.caption.40}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Example for Linear regression \relax }}{22}{figure.caption.40}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Golden Section search Algorithm \relax }}{24}{figure.caption.41}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Golden Section search algorithm \relax }}{24}{figure.caption.41}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.15}{\ignorespaces Golden Section search Algorithm (modified from \cite {van1970fitting})\relax }}{25}{figure.caption.42}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Golden Section search algorithm (modified from \cite {van1970fitting})\relax }}{25}{figure.caption.42}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Test Setup \relax }}{28}{figure.caption.44}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces spread of measured illumination vs Voltage \relax }}{29}{figure.caption.45}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Spread of measured Illumination vs Voltage \relax }}{29}{figure.caption.45}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Cell Characterisation \relax }}{29}{figure.caption.47}
 \defcounter {refsection}{0}\relax 
@@ -90,6 +90,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {5.1}{\ignorespaces I\IeC {\textendash }V curves of the solar panel under different irradiation levels and the voltage approximation line. \cite {liu2011fast} \relax }}{45}{figure.caption.65}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Variation of V\textsubscript {MPP} for different illumination observed **in/on** the DSC under test \relax }}{46}{figure.caption.66}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Variation of V\textsubscript {MPP} for different illumination observed **in/on** the DSC under test \relax }}{45}{figure.caption.66}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Research Cell Efficiency Records \cite {liu2011fast} \relax }}{47}{figure.caption.67}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Research Cell Efficiency Records \cite {liu2011fast} \relax }}{46}{figure.caption.67}

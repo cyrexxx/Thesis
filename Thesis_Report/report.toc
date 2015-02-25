@@ -12,13 +12,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.1.2}Advantages of DSCs }{2}{subsection.1.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Maximum power Point Tracking(MPPT)}{3}{section.1.2}
+\contentsline {section}{\numberline {1.2}Maximum Power Point Tracking(MPPT)}{3}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Scope, Thesis Goals and Objectives}{6}{section.1.3}
+\contentsline {section}{\numberline {1.3}Scope, Thesis goals and Objectives}{6}{section.1.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}Thesis outline}{7}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Research Methodology}{7}{section.1.5}
+\contentsline {section}{\numberline {1.5}Research methodology}{7}{section.1.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Related Literature}{9}{chapter.2}
 \defcounter {refsection}{0}\relax 
@@ -30,15 +30,15 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.3}Equivalent DSCs model}{13}{subsection.2.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Maximum power Point Tracking(MPPT)}{15}{section.2.2}
+\contentsline {section}{\numberline {2.2}Maximum Power Point Tracking(MPPT)}{15}{section.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}Perturb and Observe (PnO) Method }{15}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.2}Incremental Conductance Method (ICM) }{16}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}fractional open circuit voltage (FOCV) Method }{19}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}Fractional Open Circuit Voltage (FOCV) Method }{19}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.4}Other Algorithms}{20}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.4}Other algorithms}{20}{subsection.2.2.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Machine Learning }{21}{section.2.3}
 \defcounter {refsection}{0}\relax 
@@ -72,16 +72,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.0.1}**text**\cite {houssamo2013experimental}}{43}{subsection.5.0.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.2}**text**\cite {jain2004new}}{44}{subsection.5.0.2}
+\contentsline {subsection}{\numberline {5.0.2}**text**\cite {jain2004new}}{43}{subsection.5.0.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {5.0.3}**text**\cite {liu2011fast}}{44}{subsection.5.0.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.4}**text**\cite {dondi2008modeling}}{47}{subsection.5.0.4}
+\contentsline {subsection}{\numberline {5.0.4}**text**\cite {dondi2008modeling}}{46}{subsection.5.0.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.5}**text**\cite {chu2009robust}}{47}{subsection.5.0.5}
+\contentsline {subsection}{\numberline {5.0.5}**text**\cite {chu2009robust}}{46}{subsection.5.0.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.6}**text**\cite {urayai2011single}}{48}{subsection.5.0.6}
+\contentsline {subsection}{\numberline {5.0.6}**text**\cite {urayai2011single}}{47}{subsection.5.0.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.0.7}**text**\cite {clark2006power}}{48}{subsection.5.0.7}
+\contentsline {subsection}{\numberline {5.0.7}**text**\cite {clark2006power}}{47}{subsection.5.0.7}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Bibliography}{49}{chapter*.68}
