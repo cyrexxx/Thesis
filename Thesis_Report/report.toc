@@ -60,16 +60,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Result Discussion}{43}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Model building}{43}{section.4.1}
+\contentsline {section}{\numberline {4.1}Perturb and Observe Method }{43}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Perturb and Observe Method }{44}{section.4.2}
+\contentsline {section}{\numberline {4.2}Incremental Conductance Method }{45}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Incremental Conductance Method }{46}{section.4.3}
+\contentsline {section}{\numberline {4.3}Fractional Open Circuit Voltage Method }{46}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.4}Fractional Open Circuit Voltage Method }{48}{section.4.4}
+\contentsline {section}{\numberline {4.4}Proposed Method }{46}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.5}Proposed Method }{50}{section.4.5}
+\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{51}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{53}{chapter.5}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{55}{chapter*.72}
+\contentsline {chapter}{Bibliography}{53}{chapter*.71}

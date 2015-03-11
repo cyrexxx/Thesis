@@ -16,7 +16,7 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Structure of a DSC \relax }}{9}{figure.caption.22}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Structure of a DSC (adapted from \cite {exeger_cell_sand}) \relax }}{9}{figure.caption.22}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.2}{\ignorespaces The structure and operating principle of a DSC (adapted from \cite {toivola2010dye,}\cite {gcell_DSSC_cycle})\relax }}{10}{figure.caption.26}
 \defcounter {refsection}{0}\relax 
@@ -30,7 +30,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.7}{\ignorespaces Black box model for the Perturb and Observe Algorithm \relax }}{15}{figure.caption.34}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.8}{\ignorespaces *** Flow chart for the Perturb and Observe Method \relax }}{16}{figure.caption.35}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Flow chart for the Perturb and Observe Method \relax }}{16}{figure.caption.35}
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {2.9}{\ignorespaces Black box model for the Incremental Conductance Algorithm \relax }}{16}{figure.caption.36}
 \defcounter {refsection}{0}\relax 
@@ -86,14 +86,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Perturb and Observe Method on implementation \relax }}{44}{figure.caption.65}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Incremental Conductance Method on implementation \relax }}{46}{figure.caption.66}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Incremental Conductance Method on implementation \relax }}{45}{figure.caption.66}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Fractional Open Circuit Voltage on implementation\relax }}{48}{figure.caption.67}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Proposed routine with full buffer, under similar light conditions as other algorithm\relax }}{47}{figure.caption.67}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Proposed algorithm under rapidly varying light conditions with empty lookup tables \relax }}{50}{figure.caption.68}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Proposed algorithm under rapidly varying light conditions with empty lookup tables \relax }}{49}{figure.caption.68}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces expanded view of the graph in figure ~\ref {fig:proposed_empty_lookup}\relax }}{51}{figure.caption.69}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Proposed routine with full buffer, under similar light conditions as other algorithm\relax }}{52}{figure.caption.70}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces expanded view of the graph in figure ~\ref {fig:proposed_empty_lookup}\relax }}{50}{figure.caption.69}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }

@@ -1,47 +1,22 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2014.9.29)  8 DEC 2014 12:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdftex 2014.9.29)  27 FEB 2015 11:29
 entering extended mode
 **C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/bibliography.bib
 (C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/bibliography.bib
-Overfull \hbox (14.05165pt too wide) in paragraph at lines 3--9
-[]\tenrm @bookkalyanasundaram2010dye, title=Dye-sensitized so-lar cells, au-tho
-r=Kalyanasundaram, Kup-puswamy,|
-
-\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
-.\hbox(0.0+0.0)x20.0
-.\tenrm @
-.\tenrm b
-.\kern0.27779
-.\tenrm o
-.etc.
-
-
-Overfull \hbox (1.30145pt too wide) in paragraph at lines 21--27
-[]\tenrm @articletoivola2010dye, title=Dye-sensitized so-lar cells on al-ter-na
--tive sub-strates, au-thor=Toivola, Minna|
-
-\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
-.\hbox(0.0+0.0)x20.0
-.\tenrm @
-.\tenrm a
-.\tenrm r
-.\tenrm t
-.etc.
-
 ! Missing $ inserted.
 <inserted text> 
                 $
 <to be read again> 
                    _
-l.55 @misc{nrel_
-                Research_Cell,
+l.55 @online{nrel_
+                  Research_Cell,
 ? 
 ! Emergency stop.
 <inserted text> 
                 $
 <to be read again> 
                    _
-l.55 @misc{nrel_
-                Research_Cell,
+l.55 @online{nrel_
+                  Research_Cell,
 End of file on the terminal!
 
 !  ==> Fatal error occurred, no output PDF file produced!

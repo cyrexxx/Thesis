@@ -19,6 +19,26 @@
 
 \refsection{0}
   \sortlist{}{}
+    \entry{exeger_cell_sand}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=40773da776950f2dc1ab45e03e98de2c}{AB}{A\bibinitperiod}{EXEGER\bibnamedelima Sweden}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=40773da776950f2dc1ab45e03e98de2c}{AB}{A\bibinitperiod}{EXEGER\bibnamedelima Sweden}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{40773da776950f2dc1ab45e03e98de2c}
+      \strng{fullhash}{40773da776950f2dc1ab45e03e98de2c}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{Schematic illustration of DSCs}
+      \field{title}{Schematic illustration of DSCs}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://exeger.com/our-key-technology
+      \endverb
+    \endentry
     \entry{chu2009robust}{article}{}
       \name{labelname}{2}{}{%
         {{hash=0c70414155d2180a99606a771754ebe8}{Chu}{C\bibinitperiod}{Chen-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
@@ -786,6 +806,26 @@
     \endentry
   \endsortlist
   \sortlist{nty}{nty}
+    \entry{exeger_cell_sand}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=40773da776950f2dc1ab45e03e98de2c}{AB}{A\bibinitperiod}{EXEGER\bibnamedelima Sweden}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=40773da776950f2dc1ab45e03e98de2c}{AB}{A\bibinitperiod}{EXEGER\bibnamedelima Sweden}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{40773da776950f2dc1ab45e03e98de2c}
+      \strng{fullhash}{40773da776950f2dc1ab45e03e98de2c}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{Schematic illustration of DSCs}
+      \field{title}{Schematic illustration of DSCs}
+      \field{urlday}{23}
+      \field{urlmonth}{11}
+      \field{urlyear}{2014}
+      \verb{url}
+      \verb http://exeger.com/our-key-technology
+      \endverb
+    \endentry
     \entry{chu2009robust}{article}{}
       \name{labelname}{2}{}{%
         {{hash=0c70414155d2180a99606a771754ebe8}{Chu}{C\bibinitperiod}{Chen-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
