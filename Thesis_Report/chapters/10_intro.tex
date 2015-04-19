@@ -12,21 +12,21 @@ Our ever increasing reliance on electrical and electronic equipment intensified 
  \subsection{Dye-Sensitized Solar Cells(DSCs)}
   Photovoltaic devices are based on the concept of charge separation at an interface of two materials of different conduction mechanism. To this date, the field has been dominated by Solid-state junction devices, usually made of silicon, and profiting from the experience and material availability resulting from the semiconductor industry. The dominance of the photovoltaic field by inorganic Solid-state junction devices is now being challenged by the emergence of a third generation of cells, based on nano-crystalline oxide and conducting polymer films \cite{gratzel2004conversion}. Crystalline silicon being the first; and thin film technologies such as \ac{CdTe}, \ac{CIGS}, \ac{CIS} and \ac{a-Si} being examples of the second generation \cite{toivola2010dye}.\\
   
-  Solar energy can be converted into electricity by a variety of technologies that can also be divided into four classes: Concentrator systems, wafer-based crystalline silicon, thin-film technologies and emerging technologies\cite{wenger2010strategies}.\\
+  Solar energy can be converted into electricity by a variety of technologies that can also be divided into four classes: Concentrator systems, wafer-based crystalline silicon, thin-film technologies and emerging technologies\cite{wenger2010strategies}. Figure ~\ref{fig:Cell_eficency} on the following page, illustrates the best lab efficiencies achieved up until 2015 for the various classes of solar cells. Dye-sensitized solar cells(\ac{DSCs}) are the most promising of the third and latest generation of solar cells.\\
   
     \begin{figure}[H]
     \begin{center}
-    \includegraphics[width=\textwidth]{images/efficiency_chart.jpg}
+    \includegraphics[width=1.6\linewidth, angle=90]{images/efficiency_chart.jpg}
     \caption{Research Cell Efficiency Records \cite{nrel_Research_Cell} }
     \label{fig:Cell_eficency}
     \end{center}
     \end{figure}
   
-  Dye-sensitized solar cells(\ac{DSCs}) are the most promising of the third and latest generation of solar cells. Under development for the last 20 years, this technology is ready for large scale commercialization to provide robust, efficient and affordable solar energy to the masses. Unlike previous generation cells, \ac{DSCs} is a Photo-electro-chemical device whose principle of operation is similar to Photosynthesis seen in plants.\\
+  Under development for the last 20 years(Figure~\ref{fig:Cell_eficency}), this technology is ready for large scale commercialization to provide robust, efficient and affordable solar energy to the masses. Unlike previous generation cells, \ac{DSCs} is a Photo-electro-chemical device whose principle of operation is similar to Photosynthesis seen in plants.\\
 
  \subsection{Advantages of DSCs }
   
-  The rate of adoption for solar cells is slow. A major contributing factor for this is the predominant type of solar cells used today -ones made from silicon, which are quite expensive and are complex to manufacture. This has lead to intensive research into alternative solar cells in the past decade. \ac{DSCs} have many advantages over their 1st and 2nd generation counterparts. They offer transparency, low cost, and high power conversion efficiencies under cloudy and artificial light conditions.\ac{DSCs} work even in low-light conditions such as non-direct sunlight and cloudy skies.They are easy and economical to manufacture,with the major constituent materials available in abundance in most counties. This copious availability of raw material also enables us to scale the manufacturing to Tera-Watt levels with relative ease. Raw-materials are non-toxic and there are no noxious emissions during fabrication - leading to sustainable manufacturing. \\
+  The rate of adoption for solar cells is slow. A major contributing factor for this is the predominant type of solar cells used today -ones made from silicon, which are quite expensive and are complex to manufacture. This has lead to intensive research into alternative solar cells in the past decade. \ac{DSCs} have many advantages over their 1st and 2nd generation counterparts. They offer transparency, low cost, and high power conversion efficiencies under cloudy and artificial light conditions. \ac{DSCs} work even in low-light conditions such as non-direct sunlight and cloudy skies. Compared to other cell technologies (Figure ~\ref{fig:3rd_gen}) $3^{rd}$ generation cells are impervious to angle of incident light or its quality, as the same time being less sensitive to change in temperatures (Conventional cells operate best when the light is perpendicular to the panel and their efficiency inversely proportional to temperature). \ac{DSCs} are easy and economical to manufacture, with the major constituent materials available in abundance in most counties. This copious availability of raw material also enables us to scale the manufacturing to Tera-Watt levels with relative ease. Raw-materials are non-toxic and there are no noxious emissions during fabrication - leading to sustainable manufacturing.\\
   
    
   \begin{figure}[H]
@@ -42,39 +42,35 @@ Our ever increasing reliance on electrical and electronic equipment intensified 
    
 \section{Maximum Power Point Tracking(MPPT)}
 
-A Photo-Voltaic (PV) array that functions under uniform radiation and temperature conditions presents an I–V and P–V characteristic as the one shown in Figure ~\ref{fig:IVgraph} and Figure ~\ref{fig:PVgraph},respectively. As can be observed, there is a single point, called \ac{MPP}, where the array provides the maximum power possible for these environmental conditions (radiation and temperature), and so functions with the maximum performance. When a load is connected directly to a PV array (direct coupling), the operation point is defined by the intersection of its I–V characteristics, as shown in Figure ~\ref{fig:IVgraph}. In general, this operation point does not coincide with the \ac{MPP}. Thus, in direct coupling systems, the array must be over-dimensioned to guarantee the power demand of the load. Obviously, this implies a more expensive system. To solve this problem, a DC/DC  converter with an algorithm for the automatic control of its duty cycle “${\delta}$” is inserted between the photovoltaic array and the load , resulting in what is known as \ac{MPPT} system. The MPPT must control the voltage or current (through the ${\delta}$ the converter) of the PV array regardless of the load, trying to place it in the \ac{MPP}.Therefore,the MPPT must find the optimal ${\delta}$ for the operation point of the PV array to coincide with the \ac{MPP}\cite{enrique2010reliable}.\\
+A Photo-Voltaic (PV) array that functions under uniform radiation and temperature conditions presents an I–V and P–V characteristic as shown in Figure ~\ref{fig:IVgraph} and Figure ~\ref{fig:PVgraph}, respectively. As can be observed, there is a single point, called \ac{MPP}, where the array provides the maximum power possible for these environmental conditions (radiation and temperature), and so functions with the maximum performance. When a load is connected directly to a PV array (direct coupling), the operation point is defined by the intersection of its I–V characteristics, as shown in Figure ~\ref{fig:IV_mppgraph}. In general, this operation point does not coincide with the \ac{MPP}. Thus, in direct coupling systems, the array must be over-dimensioned to guarantee the power demand of the load. Obviously, this implies a more expensive system. To solve this problem, a DC/DC  converter with an algorithm for the automatic control of its duty cycle “${\delta}$” is inserted between the photovoltaic array and the load , resulting in what is known as \ac{MPPT} system. The \ac{MPPT} must control the voltage or current (through the ${\delta}$ the converter) of the PV array regardless of the load, trying to place it in the \ac{MPP}. Therefore,the \ac{MPPT} must find the optimal ${\delta}$ for the operation point of the PV array to coincide with the \ac{MPP} \cite{enrique2010reliable}.\\
 
-Although the solution to operating in the \ac{MPP} may seem straightforward, it is not! This is because the location of the \ac{MPP} in the I–V curve of the PV array is not known beforehand. This point must be located, either by mathematical calculations over a valid model, or by using some search algorithm. This implies even more difficulty if we consider the fact that the \ac{MPP} presents non-linear dependencies with temperature and radiation\cite{enrique2010reliable}\\
-
-
-
-
+Although the solution to operate in the \ac{MPP} may seem straightforward, it is not! This is because the location of the \ac{MPP} in the I–V curve of the PV array is not known beforehand. This point must be located, either by mathematical calculations over a valid model, or by using some search algorithms. This implies even more difficulty if we consider the fact that the \ac{MPP} presents non-linear dependencies with temperature and radiation\cite{enrique2010reliable}\\
 
   \begin{figure}[H]
   \begin{center}
-  \includegraphics[width=\textwidth]{images/I-V-lux}
+  \includegraphics[width=0.9\textwidth]{images/I-V-lux}
   \caption{I-V-Lux}
   \label{fig:IVgraph}
   \end{center}
   \end{figure}
-  
-    \begin{figure}[H]
-    \begin{center}
-    \includegraphics[width=\textwidth]{images/IV_lux_MPP}
-    \caption{I-V Graph, MPPT marked with '*'}
-    \label{fig:IV_mppgraph}
-    \end{center}
-    \end{figure}
-  
-  \begin{figure}[H]
+    
+\begin{figure}[H]
   \begin{center}
   \includegraphics[width=\textwidth]{images/PV_LUX}
   \caption{ P-V Lux}
   \label{fig:PVgraph}
   \end{center}
+\end{figure}
+
+ \begin{figure}[H]
+   \begin{center}
+     \includegraphics[width=\textwidth]{images/IV_lux_MPP}
+     \caption{I-V Graph, MPPT marked with a star ( * )}
+     \label{fig:IV_mppgraph}
+    \end{center}
   \end{figure}
 
-As such, numerous \ac{MPPT} methods have been developed and implemented\cite{ngan2011study} \cite{esram2007comparison} \cite{eltawil2013mppt} . The methods vary in complexity, sensors required, convergence speed, cost, range of effectiveness, implementation hardware, popularity, and in other respects\cite{reza2013classification} \cite{dondi2008modeling}. They range from the almost obvious (but not necessarily ineffective) to the most creative (not necessarily most effective). In fact, so many methods have been developed that it has become difficult to adequately determine which method, newly proposed or existing, is most appropriate for a given PV system.Some of the most popular being: \\
+As such, numerous \ac{MPPT} methods have been developed and implemented ~\cite{dondi2008modeling}\cite{eltawil2013mppt}\cite{ngan2011study}\cite{reza2013classification}. These methods vary in complexity, number of sensors required, convergence speed, cost, range of effectiveness, implementation hardware, popularity and in other respects. They range from the almost obvious (but not necessarily ineffective) to the most creative (not necessarily most effective)\cite{esram2007comparison}. In fact, so many methods have been developed that it has become difficult to adequately determine which method, newly proposed or existing, is most appropriate for a given PV system. Some of the most popular methods are: \\
 
   
 \begin{itemize}
@@ -106,7 +102,7 @@ The objectives of the thesis can be summarized as:
 		
 	\end{enumerate}
 \item Setting up the test environment   
-\item Execution of test cases on prototype developed, based on two of the best optimised algorithms, with recordable test results.
+\item Execution of test cases on a prototype developed, based on two of the best optimised algorithms, with recordable test results.
 \item Develop reference designs for production.
 \item Internal report.
 \item  Master thesis report. 
@@ -116,7 +112,7 @@ The objectives of the thesis can be summarized as:
 \begin{itemize}
 \item Chapter 1 Presents the background and the main objectives of this thesis. \\
 \item Chapter 2 Contains the prior research and literature that this thesis was based on. It also discusses the operating principles/state-of-the-art  of \ac{DSCs} and of \ac{MPPT}. \\
-\item Chapter 3 Concerns the  research methods, measurement techniques and implementation of the thesis.
+\item Chapter 3 Concerns the research methods, measurement techniques and implementation of the thesis.
 \item Chapter 4 Gives a summary of the results. 
 \item The thesis is concluded and future work talked about in Chapter 5.
 \end {itemize}
@@ -129,7 +125,7 @@ The implementation of the thesis is the four steps.
 		\item the single diode equation for \ac{DSCs}.
 		\item based on experimental modelling methods .
 	\end{enumerate}
-\item Objective study of current algorithms;  weigh their advantages against their flaws.
+\item Objective study of popular commercially used algorithms;  weigh their advantages against their flaws.
 \item Validation of the model and algorithm in MATLAB{\textregistered} and Simulink{\textregistered}.
 \item Implementation in test Hardware .
 \end {itemize}

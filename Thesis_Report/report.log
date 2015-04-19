@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  9 MAR 2015 11:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  20 APR 2015 00:44
 entering extended mode
 **report.tex
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.tex
@@ -2081,12 +2081,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-<images/efficiency_chart.jpg, id=475, 1009.371pt x 591.6504pt>
+<images/efficiency_chart.jpg, id=483, 1009.371pt x 591.6504pt>
 File: images/efficiency_chart.jpg Graphic file (type jpg)
 
 <use images/efficiency_chart.jpg>
 Package pdftex.def Info: images/efficiency_chart.jpg used on input line 19.
-(pdftex.def)             Requested size: 418.25368pt x 245.1602pt.
+(pdftex.def)             Requested size: 669.20844pt x 392.27798pt.
 LaTeX Font Info:    Font shape `T1/iwona/bx/n' in size <10> not available
 (Font)              Font shape `T1/iwona/b/n' tried instead on input line 20.
  [1
@@ -2094,6 +2094,11 @@ LaTeX Font Info:    Font shape `T1/iwona/bx/n' in size <10> not available
 
 
 ]
+Overfull \vbox (63.80846pt too high) has occurred while \output is active []
+
+
+[2 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/efficiency_cha
+rt.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
@@ -2103,14 +2108,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-<images/3rd_gen.png, id=492, 621.07031pt x 353.06906pt>
+<images/3rd_gen.png, id=506, 623.32875pt x 354.57469pt>
 File: images/3rd_gen.png Graphic file (type png)
 
 <use images/3rd_gen.png>
 Package pdftex.def Info: images/3rd_gen.png used on input line 34.
-(pdftex.def)             Requested size: 418.25368pt x 237.77258pt.
- [2 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/efficiency_ch
-art.jpg>]
+(pdftex.def)             Requested size: 418.25368pt x 237.92088pt.
 Package acronym Info: Label `acro:MPP' newly defined as it shall be overridden
 although it is yet undefined on input line 45.
 
@@ -2118,71 +2121,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-
+[3 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/3rd_gen.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
-[3 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/3rd_gen.png>]
-<images/I-V-lux.png, id=518, 1264.12276pt x 919.0335pt>
+<images/I-V-lux.png, id=530, 1264.12276pt x 919.0335pt>
 File: images/I-V-lux.png Graphic file (type png)
 
 <use images/I-V-lux.png>
-Package pdftex.def Info: images/I-V-lux.png used on input line 55.
-(pdftex.def)             Requested size: 418.25368pt x 304.08131pt.
+Package pdftex.def Info: images/I-V-lux.png used on input line 51.
+(pdftex.def)             Requested size: 376.42575pt x 273.66476pt.
+ [4]
+<images/PV_LUX.png, id=536, 520.21939pt x 317.11577pt>
+File: images/PV_LUX.png Graphic file (type png)
+ <use images/PV_LUX.png>
+Package pdftex.def Info: images/PV_LUX.png used on input line 59.
+(pdftex.def)             Requested size: 418.25368pt x 254.9704pt.
 
-<images/IV_lux_MPP.png, id=519, 520.21939pt x 317.11577pt>
+<images/IV_lux_MPP.png, id=537, 520.21939pt x 317.11577pt>
 File: images/IV_lux_MPP.png Graphic file (type png)
 
 <use images/IV_lux_MPP.png>
-Package pdftex.def Info: images/IV_lux_MPP.png used on input line 63.
+Package pdftex.def Info: images/IV_lux_MPP.png used on input line 67.
 (pdftex.def)             Requested size: 418.25368pt x 254.9704pt.
- [4 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/I-V-lux.png>]
+ [5 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/I-V-lux.png> 
+<C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/PV_LUX.png (PNG c
+opy)>]
+Overfull \hbox (14.6484pt too wide) in paragraph at lines 73--74
+[]\T1/pplx/m/n/10.95 (-20) As such, nu-mer-ous [][] meth-ods have been de-vel-o
+ped and im-ple-mented  [[][][]5[][]][[][][]6[][]][[][][]24[][]][[][][]26[][]].
+ []
 
-<images/PV_LUX.png, id=524, 520.21939pt x 317.11577pt>
-File: images/PV_LUX.png Graphic file (type png)
- <use images/PV_LUX.png>
-Package pdftex.def Info: images/PV_LUX.png used on input line 71.
-(pdftex.def)             Requested size: 418.25368pt x 254.9704pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--78
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
 
-[5 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IV_lux_MPP.png
- (PNG copy)> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/PV_L
-UX.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
 
  []
 
+[6 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IV_lux_MPP.png
+>]
 Package acronym Info: Label `acro:PnO' newly defined as it shall be overridden
-although it is yet undefined on input line 103.
+although it is yet undefined on input line 99.
 Package acronym Info: Label `acro:ICM' newly defined as it shall be overridden
-although it is yet undefined on input line 104.
+although it is yet undefined on input line 100.
 Package acronym Info: Label `acro:FOCV' newly defined as it shall be overridden
 
-although it is yet undefined on input line 105.
+although it is yet undefined on input line 101.
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
-
- []
-
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
 
  []
 
-) [7]
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+[7]) [8]
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\chapters/20_related.tex
-[8
-
-
-
-
-]
 Chapter 2.
-<images/DSCs_struc.png, id=569, 605.26125pt x 246.9225pt>
+<images/DSCs_struc.png, id=583, 605.26125pt x 246.9225pt>
 File: images/DSCs_struc.png Graphic file (type png)
 
 <use images/DSCs_struc.png>
@@ -2195,7 +2198,7 @@ although it is yet undefined on input line 20.
 Package acronym Info: Label `acro:CE' newly defined as it shall be overridden
 although it is yet undefined on input line 20.
 
-<images/Cell_Cycle.png, id=575, 594.72188pt x 490.83376pt>
+<images/Cell_Cycle.png, id=589, 594.72188pt x 490.83376pt>
 File: images/Cell_Cycle.png Graphic file (type png)
 
 <use images/Cell_Cycle.png>
@@ -2206,8 +2209,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--27
 
  []
 
-[9 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/DSCs_struc.png
->]
+[9
+
+
+
+
+ <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/DSCs_struc.png>]
 Package acronym Info: Label `acro:HOMO' newly defined as it shall be overridden
 
 although it is yet undefined on input line 29.
@@ -2220,7 +2227,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
  []
 
 [10 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Cell_Cycle.pn
-g>] <images/simplified_single_diode_model.png, id=597, 1003.75pt x 503.8825pt>
+g>] <images/simplified_single_diode_model.png, id=611, 1003.75pt x 503.8825pt>
 File: images/simplified_single_diode_model.png Graphic file (type png)
 
 <use images/simplified_single_diode_model.png>
@@ -2233,7 +2240,7 @@ LaTeX Font Info:    Font shape `T1/pplx/bx/it' in size <10.95> not available
 (Font)              Font shape `T1/pplx/b/it' tried instead on input line 55.
  [11 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/simplified_s
 ingle_diode_model.png>]
-<images/simplified_single_diode_model_simple.png, id=618, 1003.75pt x 503.8825p
+<images/simplified_single_diode_model_simple.png, id=630, 1003.75pt x 503.8825p
 t>
 File: images/simplified_single_diode_model_simple.png Graphic file (type png)
  <use images/simplified_single_diode_model_simple.png>
@@ -2253,7 +2260,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
 [12 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/simplified_si
 ngle_diode_model_simple.png>]
-<images/Double_diode_model.png, id=630, 1003.75pt x 503.8825pt>
+<images/Double_diode_model.png, id=643, 1003.75pt x 503.8825pt>
 File: images/Double_diode_model.png Graphic file (type png)
 
 <use images/Double_diode_model.png>
@@ -2261,7 +2268,7 @@ Package pdftex.def Info: images/Double_diode_model.png used on input line 101.
 (pdftex.def)             Requested size: 418.25368pt x 209.96846pt.
  [13 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Double_diode
 _model.png>]
-<images/dsc_eq_ckt.png, id=652, 1003.75pt x 444.66125pt>
+<images/dsc_eq_ckt.png, id=665, 1003.75pt x 444.66125pt>
 File: images/dsc_eq_ckt.png Graphic file (type png)
 
 <use images/dsc_eq_ckt.png>
@@ -2273,71 +2280,81 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--164
  []
 
 [14 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/dsc_eq_ckt.pn
-g>] <images/PnO_block.png, id=677, 1016.79875pt x 489.83pt>
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+Package acronym Info: Label `acro:PV' newly defined as it shall be overridden
+although it is yet undefined on input line 179.
+<images/PnO_block.png, id=708, 1016.79875pt x 489.83pt>
 File: images/PnO_block.png Graphic file (type png)
 
 <use images/PnO_block.png>
-Package pdftex.def Info: images/PnO_block.png used on input line 186.
+Package pdftex.def Info: images/PnO_block.png used on input line 182.
 (pdftex.def)             Requested size: 167.2989pt x 80.59422pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
+Underfull \hbox (badness 10000) in paragraph at lines 179--186
 
  []
 
-<images/pno_flow.png, id=688, 501.3129pt x 469.755pt>
+[15] <images/pno_flow.png, id=717, 501.3129pt x 469.755pt>
 File: images/pno_flow.png Graphic file (type png)
 
 <use images/pno_flow.png>
-Package pdftex.def Info: images/pno_flow.png used on input line 196.
+Package pdftex.def Info: images/pno_flow.png used on input line 191.
 (pdftex.def)             Requested size: 418.25368pt x 391.94656pt.
- [15 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/PnO_block.pn
-g>]
-<images/inC_block.png, id=697, 1016.79875pt x 489.83pt>
+
+<images/inC_block.png, id=719, 1016.79875pt x 489.83pt>
 File: images/inC_block.png Graphic file (type png)
 
 <use images/inC_block.png>
-Package pdftex.def Info: images/inC_block.png used on input line 206.
+Package pdftex.def Info: images/inC_block.png used on input line 202.
 (pdftex.def)             Requested size: 167.2989pt x 80.59422pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 199--206
 
  []
 
-[16 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/pno_flow.png>
- <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/inC_block.png>]
-<images/INc_flow.png, id=708, 1970.36125pt x 2672.98625pt>
+[16 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/PnO_block.png
+> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/pno_flow.png>]
+<images/Inc_graph.jpg, id=734, 444.66125pt x 334.24875pt>
+File: images/Inc_graph.jpg Graphic file (type jpg)
+
+<use images/Inc_graph.jpg>
+Package pdftex.def Info: images/Inc_graph.jpg used on input line 210.
+(pdftex.def)             Requested size: 334.60422pt x 251.51727pt.
+
+<images/INc_flow.png, id=735, 1970.36125pt x 2672.98625pt>
 File: images/INc_flow.png Graphic file (type png)
 
 <use images/INc_flow.png>
-Package pdftex.def Info: images/INc_flow.png used on input line 216.
+Package pdftex.def Info: images/INc_flow.png used on input line 219.
 (pdftex.def)             Requested size: 418.25368pt x 567.38008pt.
- [17]
-<images/Frac_block.png, id=715, 1016.79875pt x 489.83pt>
-File: images/Frac_block.png Graphic file (type png)
-
-<use images/Frac_block.png>
-Package pdftex.def Info: images/Frac_block.png used on input line 226.
-(pdftex.def)             Requested size: 167.2989pt x 80.59422pt.
- [18 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/INc_flow.png
->]
-Underfull \hbox (badness 10000) in paragraph at lines 231--232
+ [17 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/inC_block.pn
+g> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Inc_graph.jpg>
+]
+Underfull \hbox (badness 10000) in paragraph at lines 227--228
 
  []
 
-<images/Vopen_circuit_Flow.png, id=729, 1167.36125pt x 1544.77126pt>
+[18 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/INc_flow.png>
+] <images/Frac_oc_n.png, id=762, 1016.79875pt x 489.83pt>
+File: images/Frac_oc_n.png Graphic file (type png)
+
+<use images/Frac_oc_n.png>
+Package pdftex.def Info: images/Frac_oc_n.png used on input line 240.
+(pdftex.def)             Requested size: 167.2989pt x 80.59422pt.
+
+<images/Vopen_circuit_Flow.png, id=763, 1167.36125pt x 1544.77126pt>
 File: images/Vopen_circuit_Flow.png Graphic file (type png)
 
 <use images/Vopen_circuit_Flow.png>
-Package pdftex.def Info: images/Vopen_circuit_Flow.png used on input line 244.
+Package pdftex.def Info: images/Vopen_circuit_Flow.png used on input line 248.
 (pdftex.def)             Requested size: 209.12683pt x 276.72684pt.
- [19 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Frac_block.p
-ng>]
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+ [19 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Frac_oc_n.pn
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
 
  []
 
@@ -2348,68 +2365,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--275
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--281
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--283
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
 
  []
 
-<images/Reg_line.png, id=758, 1402.23875pt x 824.07875pt>
+<images/Reg_line.png, id=794, 1402.23875pt x 824.07875pt>
 File: images/Reg_line.png Graphic file (type png)
 
 <use images/Reg_line.png>
-Package pdftex.def Info: images/Reg_line.png used on input line 330.
+Package pdftex.def Info: images/Reg_line.png used on input line 332.
 (pdftex.def)             Requested size: 418.25368pt x 245.80463pt.
+ [22 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Reg_line.png
+>]
 Package acronym Info: Label `acro:GSSA' newly defined as it shall be overridden
 
-although it is yet undefined on input line 343.
+although it is yet undefined on input line 345.
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--344
-
- []
-
-[22 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Reg_line.png>
-]
 Underfull \hbox (badness 10000) in paragraph at lines 345--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
 
  []
 
-<images/Golden_search_curve.png, id=777, 432.11438pt x 526.21594pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+ []
+
+[23] <images/Golden_search_curve.png, id=827, 432.11438pt x 526.21594pt>
 File: images/Golden_search_curve.png Graphic file (type png)
 
 <use images/Golden_search_curve.png>
-Package pdftex.def Info: images/Golden_search_curve.png used on input line 393.
+Package pdftex.def Info: images/Golden_search_curve.png used on input line 403.
 
 (pdftex.def)             Requested size: 384.7926pt x 468.60371pt.
- [23]
-<images/Golden_Search.png, id=791, 587.3142pt x 929.1513pt>
+ [24]
+<images/Golden_Search.png, id=835, 587.3142pt x 929.1513pt>
 File: images/Golden_Search.png Graphic file (type png)
 
 <use images/Golden_Search.png>
-Package pdftex.def Info: images/Golden_Search.png used on input line 411.
+Package pdftex.def Info: images/Golden_Search.png used on input line 414.
 (pdftex.def)             Requested size: 418.25368pt x 661.68692pt.
- [24 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Golden_searc
+ [25 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Golden_searc
 h_curve.png>]
 Overfull \vbox (56.28694pt too high) has occurred while \output is active []
 
 
-[25 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Golden_Search
+[26 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Golden_Search
 .png>])
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\chapters/30_chapter.tex
-[26
-
-
-
-
-]
 Chapter 3.
 Package acronym Info: Label `acro:LED' newly defined as it shall be overridden
 although it is yet undefined on input line 12.
@@ -2418,14 +2435,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<images/Light_Box.png, id=818, 712.91344pt x 465.99094pt>
+<images/Light_Box.png, id=858, 712.91344pt x 465.99094pt>
 File: images/Light_Box.png Graphic file (type png)
 
 <use images/Light_Box.png>
 Package pdftex.def Info: images/Light_Box.png used on input line 18.
 (pdftex.def)             Requested size: 418.25368pt x 273.3893pt.
- [27]
-<images/Voltagevlux.png, id=831, 1045.42293pt x 428.01285pt>
+ [27
+
+
+
+
+]
+<images/Voltagevlux.png, id=871, 1045.42293pt x 428.01285pt>
 File: images/Voltagevlux.png Graphic file (type png)
 
 <use images/Voltagevlux.png>
@@ -2436,7 +2458,7 @@ g>]
 Package acronym Info: Label `acro:SMU' newly defined as it shall be overridden
 although it is yet undefined on input line 34.
 
-<images/Cell_under_test.png, id=841, 669.2503pt x 469.00218pt>
+<images/Cell_under_test.png, id=881, 669.2503pt x 469.00218pt>
 File: images/Cell_under_test.png Graphic file (type png)
 
 <use images/Cell_under_test.png>
@@ -2449,7 +2471,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
 [29 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Voltagevlux.p
 ng> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Cell_under_te
-st.png>] <images/single2500_IV.png, id=854, 1594.92413pt x 813.66052pt>
+st.png>] <images/single2500_IV.png, id=894, 1594.92413pt x 813.66052pt>
 File: images/single2500_IV.png Graphic file (type png)
 
 <use images/single2500_IV.png>
@@ -2475,21 +2497,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-<images/PV_block_Model.png, id=870, 1091.277pt x 639.5895pt>
+<images/PV_block_Model.png, id=910, 1091.277pt x 639.5895pt>
 File: images/PV_block_Model.png Graphic file (type png)
 
 <use images/PV_block_Model.png>
 Package pdftex.def Info: images/PV_block_Model.png used on input line 70.
 (pdftex.def)             Requested size: 418.25368pt x 245.13503pt.
  [31]
-<images/Top_level_mod.png, id=875, 1441.7865pt x 761.244pt>
+<images/Top_level_mod.png, id=915, 1441.7865pt x 761.244pt>
 File: images/Top_level_mod.png Graphic file (type png)
 
 <use images/Top_level_mod.png>
 Package pdftex.def Info: images/Top_level_mod.png used on input line 78.
 (pdftex.def)             Requested size: 418.25368pt x 220.8248pt.
 
-<images/controller_mod.png, id=876, 353.52075pt x 437.2335pt>
+<images/controller_mod.png, id=916, 353.52075pt x 437.2335pt>
 File: images/controller_mod.png Graphic file (type png)
 
 <use images/controller_mod.png>
@@ -2518,7 +2540,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
-<images/IVLUX_LAB_measured.png, id=882, 1029.22449pt x 766.93422pt>
+<images/IVLUX_LAB_measured.png, id=922, 1029.22449pt x 766.93422pt>
 File: images/IVLUX_LAB_measured.png Graphic file (type png)
 
 <use images/IVLUX_LAB_measured.png>
@@ -2526,7 +2548,7 @@ Package pdftex.def Info: images/IVLUX_LAB_measured.png used on input line 101.
 (pdftex.def)             Requested size: 355.51817pt x 264.90855pt.
  [33 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/controller_m
 od.png>]
-<images/IVLUX_MOD_gen.png, id=889, 1029.22449pt x 766.93422pt>
+<images/IVLUX_MOD_gen.png, id=929, 1029.22449pt x 766.93422pt>
 File: images/IVLUX_MOD_gen.png Graphic file (type png)
 
 <use images/IVLUX_MOD_gen.png>
@@ -2540,14 +2562,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 [34 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVLUX_LAB_mea
 sured.png (PNG copy)> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/im
 ages/IVLUX_MOD_gen.png (PNG copy)>]
-<images/Diff_Contour.png, id=899, 1022.99431pt x 767.55724pt>
+<images/Diff_Contour.png, id=939, 1022.99431pt x 767.55724pt>
 File: images/Diff_Contour.png Graphic file (type png)
 
 <use images/Diff_Contour.png>
 Package pdftex.def Info: images/Diff_Contour.png used on input line 122.
 (pdftex.def)             Requested size: 418.25368pt x 313.8221pt.
 
-<images/Contour_map.png, id=904, 1029.22449pt x 766.93422pt>
+<images/Contour_map.png, id=944, 1029.22449pt x 766.93422pt>
 File: images/Contour_map.png Graphic file (type png)
 
 <use images/Contour_map.png>
@@ -2567,14 +2589,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--160
  []
 
 [36 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Contour_map.p
-ng (PNG copy)>] <images/IVCurve_lui.png, id=928, 467.346pt x 311.9655pt>
+ng (PNG copy)>] <images/IVCurve_lui.png, id=968, 467.346pt x 311.9655pt>
 File: images/IVCurve_lui.png Graphic file (type png)
 
 <use images/IVCurve_lui.png>
 Package pdftex.def Info: images/IVCurve_lui.png used on input line 163.
 (pdftex.def)             Requested size: 418.25368pt x 279.19548pt.
 
-<images/IV_50-500.png, id=935, 1275.93932pt x 664.13638pt>
+<images/IV_50-500.png, id=975, 1275.93932pt x 664.13638pt>
 File: images/IV_50-500.png Graphic file (type png)
 
 <use images/IV_50-500.png>
@@ -2582,7 +2604,7 @@ Package pdftex.def Info: images/IV_50-500.png used on input line 173.
 (pdftex.def)             Requested size: 418.25368pt x 217.70639pt.
  [37 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVCurve_lui.
 png>]
-<images/IVCurve_lui_2.png, id=940, 417.9615pt x 339.669pt>
+<images/IVCurve_lui_2.png, id=980, 417.9615pt x 339.669pt>
 File: images/IVCurve_lui_2.png Graphic file (type png)
 
 <use images/IVCurve_lui_2.png>
@@ -2605,7 +2627,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--191
 pdfTeX warning: pdflatex.exe (file C:/Users/Kartik.Karuna/Documents/Exjobb/Thes
 is_Report/images/Probability_field.pdf): PDF inclusion: found PDF version <1.7>
 , but at most version <1.5> allowed
-<images/Probability_field.pdf, id=955, 1195.01572pt x 845.04686pt>
+<images/Probability_field.pdf, id=997, 1195.01572pt x 845.04686pt>
 File: images/Probability_field.pdf Graphic file (type pdf)
 
 <use images/Probability_field.pdf>
@@ -2645,7 +2667,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
  []
 
-<images/Proposed_Flow.png, id=992, 559.1289pt x 944.0871pt>
+<images/Proposed_Flow.png, id=1034, 559.1289pt x 944.0871pt>
 File: images/Proposed_Flow.png Graphic file (type png)
 
 <use images/Proposed_Flow.png>
@@ -2665,14 +2687,14 @@ Overfull \vbox (30.18909pt too high) has occurred while \output is active []
 
 ]
 Chapter 4.
-<images/P&O_changing_lux-1.png, id=1017, 1662.21pt x 2347.77126pt>
+<images/P&O_changing_lux-1.png, id=1059, 1662.21pt x 2347.77126pt>
 File: images/P&O_changing_lux-1.png Graphic file (type png)
 
 <use images/P&O_changing_lux-1.png>
 Package pdftex.def Info: images/P&O_changing_lux-1.png used on input line 11.
 (pdftex.def)             Requested size: 418.25368pt x 590.73874pt.
  [43]
-<images/inC_stateflow_changing_lux-1.png, id=1022, 1662.21pt x 2347.77126pt>
+<images/inC_stateflow_changing_lux-1.png, id=1064, 1662.21pt x 2347.77126pt>
 File: images/inC_stateflow_changing_lux-1.png Graphic file (type png)
 
 <use images/inC_stateflow_changing_lux-1.png>
@@ -2695,7 +2717,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-<images/Proposed_algo-1.png, id=1055, 1659.19875pt x 2347.77126pt>
+<images/Proposed_algo-1.png, id=1097, 1659.19875pt x 2347.77126pt>
 File: images/Proposed_algo-1.png Graphic file (type png)
 
 <use images/Proposed_algo-1.png>
@@ -2722,14 +2744,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-<images/proposed_step_input.png, id=1081, 1659.19875pt x 2347.77126pt>
+<images/proposed_step_input.png, id=1123, 1659.19875pt x 2347.77126pt>
 File: images/proposed_step_input.png Graphic file (type png)
 
 <use images/proposed_step_input.png>
 Package pdftex.def Info: images/proposed_step_input.png used on input line 64.
 (pdftex.def)             Requested size: 418.25368pt x 591.81346pt.
  [48]
-<images/proposed_step_input_zoom-1(2)_pip.png, id=1086, 1662.21pt x 2347.77126p
+<images/proposed_step_input_zoom-1(2)_pip.png, id=1128, 1662.21pt x 2347.77126p
 t>
 File: images/proposed_step_input_zoom-1(2)_pip.png Graphic file (type png)
  <use images/proposed_step_input_zoom-1(2)_pip.png>
@@ -2797,7 +2819,7 @@ aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 9F4168CF168C44B9983D3CEAB4F6B53A;7007.
+(rerunfilecheck)             Checksum: CFC2FF97573D365B7F8AD6D73C233157;7007.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2809,13 +2831,13 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 ### simple group (level 1) entered at line 120 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 33556 strings out of 493921
- 559263 string characters out of 3147258
- 1025718 words of memory out of 3000000
- 35434 multiletter control sequences out of 15000+200000
+ 33569 strings out of 493921
+ 559453 string characters out of 3147258
+ 1025908 words of memory out of 3000000
+ 35443 multiletter control sequences out of 15000+200000
  125953 words of font info for 392 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,15n,58p,1889b,2674s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,15n,58p,1886b,2675s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-
 t1.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program
  Files/MiKTeX 2.9/fonts/enc/dvips/iwona/ts1-iwona.enc}{C:/Program Files/MiKTeX 
@@ -2836,9 +2858,9 @@ pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
-Output written on report.pdf (69 pages, 7194161 bytes).
+Output written on report.pdf (69 pages, 7229647 bytes).
 PDF statistics:
- 1316 PDF objects out of 1440 (max. 8388607)
- 264 named destinations out of 1000 (max. 500000)
- 66092 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 1358 PDF objects out of 1440 (max. 8388607)
+ 267 named destinations out of 1000 (max. 500000)
+ 66097 words of extra memory for PDF output out of 74296 (max. 10000000)
 
