@@ -363,11 +363,11 @@ where ${\phi}$ is the Golden ratio whose value is given by:\\
 \end{equation}
  
  
- Assuming \textit{f(x)} to be an uni-modal function in the intervals between  \textit{a} and \textit{b}. It is very important for the extrema exists within the range to prevent misleading results. The maxima is represented by $\textit{f}(P_{\textit{max}})$ such that $a\leq P_{\textit{max}} \leq b $. Figure~\ref{fig:Golden_search_curve} depicts the search algorithm in action, trying to localize the maxima of the curve. 
+ Assuming \textit{f(x)} to be an uni-modal function in the intervals between  \textit{a} and \textit{b}. It is very important that the extrema exists within the range to prevent misleading results. The maxima is represented by $\textit{f}(P_{\textit{max}})$ such that $a\leq P_{\textit{max}} \leq b $. Figure~\ref{fig:Golden_search_curve} depicts the search algorithm in action, trying to localise the maxima of the curve. 
   
  \begin{itemize}
-  	 \item The blue points represent extremes of the successive
-  	 \item Red points  are the newly evaluated values
+  	 \item The blue points represent extremes of the successive.
+  	 \item Red points  are the newly evaluated values.
   	 \item Black points are the already evaluated values.
    \end{itemize}
    
@@ -390,23 +390,23 @@ where ${\phi}$ is the Golden ratio whose value is given by:\\
 \end{equation}
 
 
-	\item $\textit{f}(a),\textit{f}(P_{1}),\textit{f}(P_{2})$ and $\textit{f}(b)$ is computed.
-	\item If $\textit{f}(P_{1}) > \textit{f}(P_{2})$ then the outer bound is discarded and replaced by $ P_{2} $ and $ P_{2}$ replaced $ P_{1}$; a new $ P_{1}$ is calculated using equation~\ref{eq:golden_ratio_p1}.
+	\item $\textit{f}(a),\textit{f}(P_{1}),\textit{f}(P_{2})$ and $\textit{f}(b)$ are computed.
+	\item If $\textit{f}(P_{1}) > \textit{f}(P_{2})$ then the outer bound is discarded and replaced by $ P_{2} $ and $ P_{2}$ replaced $ P_{1}$; a new $ P_{1}$ is calculated using equation~\ref{eq:golden_ratio_p1},
 	\item Else the lower bound is cast-off to be replaced with $ P_{1}$ and $ P_{1}$ is swapped with $ P_{2}$; with $ P_{2}$ found afresh using equation~\ref{eq:golden_ratio_p2}.
 	\item New values of either $\textit{f}(P_{1})$ or $\textit{f}(P_{2})$ are found out depending on the branch taken.
-	\item  The process repeated over and over again only stopping when either the iteration count has run out or if the lower and upper bounds are close enough to be acceptably small. 
+	\item  The process is repeated over and over again, only stopping when either the iteration count has run out or if the lower and upper bounds are close enough to be acceptably small. 
 \end{itemize}
 
  
 \begin{figure}[H]
   \begin{center}
   \includegraphics[width=0.92\textwidth]{images/Golden_search_curve}
-  \caption{ Golden Section search algorithm }
+  \caption{ Golden Section Search Algorithm }
   \label{fig:Golden_search_curve}
   \end{center}
   \end{figure}
   
-The advantage of using \ac{GSSA} over other search methods is that the extrema is found in the least number of steps and every iteration requires only one additional data point. Thereby greatly reducing the complexity of the algorithm and hence the computation power and/or time required to lock-in onto the extrema. Golden ratio is usually represented with ${\phi}$ but less often with ${\tau}$. The flowchart in figure~\ref{fig:Golden_search} outlines the process to lock-in to a maxima, which forms an essential building block for the proposed algorithm later on (section~\ref{sec:proposed_algo_sec}).
+The advantage of using \ac{GSSA} over other search methods is that the extrema is found in the least number of steps and every iteration requires only one additional data point. Greatly reducing the complexity of the algorithm and hence the computation power and/or time required to lock-in onto the extrema. Golden ratio is usually represented with ${\phi}$ but less often with ${\tau}$. The flowchart in figure~\ref{fig:Golden_search} outlines the process to lock-in to a maxima, which forms an essential building block for the proposed algorithm later on (section~\ref{sec:proposed_algo_sec}).
 
  
 \begin{figure}[H]
