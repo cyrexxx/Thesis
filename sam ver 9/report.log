@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  6 DEC 2014 01:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  23 APR 2015 15:06
 entering extended mode
 **report.tex
 ("C:\Users\Kartik.Karuna\Documents\Exjobb\sam ver 9\report.tex"
@@ -1827,7 +1827,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-<logo/kth_cmyk_electr_engine.pdf, id=82, 483.8075pt x 439.6425pt>
+<logo/kth_cmyk_electr_engine.pdf, id=86, 483.8075pt x 439.6425pt>
 File: logo/kth_cmyk_electr_engine.pdf Graphic file (type pdf)
 
 <use logo/kth_cmyk_electr_engine.pdf>
@@ -1976,7 +1976,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
-<images/efficiency_chart.jpg, id=207, 1009.371pt x 591.6504pt>
+<images/efficiency_chart.jpg, id=212, 1009.371pt x 591.6504pt>
 File: images/efficiency_chart.jpg Graphic file (type jpg)
 
 <use images/efficiency_chart.jpg>
@@ -1998,7 +1998,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
-<images/3rd_gen.png, id=225, 621.07031pt x 353.06906pt>
+<images/3rd_gen.png, id=230, 621.07031pt x 353.06906pt>
 File: images/3rd_gen.png Graphic file (type png)
 
 <use images/3rd_gen.png>
@@ -2023,21 +2023,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
  []
 
 [3 <C:/Users/Kartik.Karuna/Documents/Exjobb/sam ver 9/images/3rd_gen.png>]
-<images/I-V-lux.png, id=252, 1264.12276pt x 919.0335pt>
+<images/I-V-lux.png, id=257, 1264.12276pt x 919.0335pt>
 File: images/I-V-lux.png Graphic file (type png)
 
 <use images/I-V-lux.png>
 Package pdftex.def Info: images/I-V-lux.png used on input line 54.
 (pdftex.def)             Requested size: 418.25368pt x 304.08131pt.
 
-<images/IV_lux_MPP.png, id=253, 520.21939pt x 317.11577pt>
+<images/IV_lux_MPP.png, id=258, 520.21939pt x 317.11577pt>
 File: images/IV_lux_MPP.png Graphic file (type png)
 
 <use images/IV_lux_MPP.png>
 Package pdftex.def Info: images/IV_lux_MPP.png used on input line 62.
 (pdftex.def)             Requested size: 418.25368pt x 254.9704pt.
  [4 <C:/Users/Kartik.Karuna/Documents/Exjobb/sam ver 9/images/I-V-lux.png>] <im
-ages/PV_LUX.png, id=258, 520.21939pt x 317.11577pt>
+ages/PV_LUX.png, id=263, 520.21939pt x 317.11577pt>
 File: images/PV_LUX.png Graphic file (type png)
 
 <use images/PV_LUX.png>
@@ -2086,7 +2086,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
 ]
 Chapter 2.
-<images/pacehold.png, id=291, 722.7pt x 542.025pt>
+<images/pacehold.png, id=296, 722.7pt x 542.025pt>
 File: images/pacehold.png Graphic file (type png)
  <use images/pacehold.png>
 Package pdftex.def Info: images/pacehold.png used on input line 7.
@@ -2150,37 +2150,21 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 76.
 ("C:\Users\Kartik.Karuna\Documents\Exjobb\sam ver 9\chapters/01_abstract.aux")
 ("C:\Users\Kartik.Karuna\Documents\Exjobb\sam ver 9\chapters/02_ack.aux")
 ("C:\Users\Kartik.Karuna\Documents\Exjobb\sam ver 9\chapters/10_intro.aux")
-("C:\Users\Kartik.Karuna\Documents\Exjobb\sam ver 9\chapters/40_chapter.aux")
-
-Package mparhack Warning: Marginpars may have changed.
-(mparhack)                Rerun to get them right.
-
-)
+("C:\Users\Kartik.Karuna\Documents\Exjobb\sam ver 9\chapters/40_chapter.aux"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 76.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 76.
-
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: 284B17D15451F15CF05A03F45F159012;3049
-(rerunfilecheck)             After:  BF6C6C4C244AD7D228A4E31D4FB6C922;3156.
-
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
-
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: BF6C6C4C244AD7D228A4E31D4FB6C922;3156.
 Package logreq Info: Writing requests to 'report.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 32208 strings out of 493921
- 533256 string characters out of 3147258
- 987620 words of memory out of 3000000
- 34512 multiletter control sequences out of 15000+200000
+ 32216 strings out of 493921
+ 533465 string characters out of 3147258
+ 987667 words of memory out of 3000000
+ 34520 multiletter control sequences out of 15000+200000
  90223 words of font info for 229 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 56i,14n,57p,1481b,2286s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 56i,14n,57p,1481b,2287s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{C:/Pro
 gram Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}{C:/Program Files/MiKTeX 
 2.9/fonts/enc/dvips/iwona/ec-iwona-sc.enc}{C:/Program Files/MiKTeX 2.9/fonts/en
@@ -2193,9 +2177,9 @@ iKTeX 2.9/fonts/type1/nowacki/iwona/iwonar.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/cm-super/sftt1095.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 urw/palatino/uplb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/u
 plr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on report.pdf (23 pages, 3937588 bytes).
+Output written on report.pdf (23 pages, 3940959 bytes).
 PDF statistics:
- 376 PDF objects out of 1000 (max. 8388607)
+ 387 PDF objects out of 1000 (max. 8388607)
  85 named destinations out of 1000 (max. 500000)
- 57544 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 57552 words of extra memory for PDF output out of 61914 (max. 10000000)
 

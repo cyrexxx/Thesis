@@ -76,6 +76,22 @@ Figure~\ref{fig:proposed_empty_lookup} on page~\pageref{fig:proposed_empty_looku
   \end{center}
   \end{figure}
 
+\section{Comparison}
+Outlined below is a comparison of the result obtained by subjecting the various algorithms under test to similar input conditions. 
+\begin{center}
+    \begin{tabular}{ | l | l | p{4cm} | p{4cm} |}
+    \hline
+    Algorithm & Sensors Required & Iterations (depending on step-size) & Time required to Lock on to MPP* \\ \hline
+    \ac{PnO} & 2 & $~300 -400$ & $5-6$ min. \\ \hline
+    \ac{ICM} & 2 & $~300 -400$ & $5-6$ min. \\ \hline
+    \ac{FOCV} & 1 & 1 & 500 ms. \\ \hline
+    Proposed algo. & 1 (majority) & 1  (Min) & 500 ms (Min)\\
+    & 2 (Start-up) & 25 (Max) & 25 sec (Max).\\ \hline
+   \end{tabular}
+\end{center}
+\textbf{*}\textit{ Assuming 1 sec rest between iterations.}
+
+
   
 
 

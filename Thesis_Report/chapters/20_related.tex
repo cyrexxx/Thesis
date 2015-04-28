@@ -251,7 +251,7 @@ To overcome this problem, several methods for extracting the maximum power have 
         \end{center}
         \end{figure}
   
-\subsection{Other algorithms}
+\subsection{Other algorithms} \label{sec:others_algo}
   \begin{itemize}
   \item {\bf Fixed duty cycle}: The fixed duty cycle represents the simplest of the methods and it does not require any feedback, where the load impedance is adjusted only once for the maximum power point and it is not adjusted again.
   \item {\bf Pilot cell}: In the pilot cell MPPT algorithm, the constant voltage or current method is used, but the open-circuit voltage or short-circuit current measurements are made on a small solar cell, called a pilot cell, that has the same characteristics as the cells in the larger solar array. The pilot cell measurements can be used by the MPPT to operate the main solar array at its MPP, eliminating the loss of \ac{PV} power during the V\textsubscript{OC} or I\textsubscript{sc} measurement
@@ -262,11 +262,11 @@ To overcome this problem, several methods for extracting the maximum power have 
     \label{eq:equ_fracoc_cur}
     \end{aligned}
     \end{equation}
-   \item {\bf Fuzzy logic controllers} (FLC):They have the advantages of working with imprecise inputs, it does not need an accurate mathematical model and it can handle non-linearity as well~\cite{messai2011maximum}. However their effectiveness depends a lot on the presence of an expert knowledge; conversely, in the absence of such knowledge, their design is usually slow and not optimised. 
+   \item {\bf Fuzzy logic controllers} (FLC):They have the advantages of working with imprecise inputs, it does not need an accurate mathematical model and it can handle non-linearity as well~\cite{messai2011maximum}. However their effectiveness depends a lot on the presence of an expert knowledge; conversely, in the absence of such knowledge, their design is usually slow and not optimised.
+   \item In their research,{\bf I.Houssamo et al.}~\cite{houssamo2013experimental}, present an experimental comparison- using four identical \ac{PV} arrays under strictly the same set of technical and meteorological conditions; an experimental comparison  of four most used MPPT methods for \ac{PV} power systems is done. They  proposed a method based on Fuzzy Logic which introduce complexities of its own. On the other hand their comparison shows the advantages of using a \ac{MPP} tracker with a variable tracking step.
+   \item In the article by {\bf S.Jain et al.}~\cite{jain2004new}, presents a new fast tracking algorithm for photovoltaic systems, where an initial approximation of \ac{MPP} is quickly achieved using a variable step-size tracker. Subsequently, the exact \ac{MPP} can be targeted using any conventional method like the hill-climbing or incremental conductance method. Thus, the drawback of a fixed small step-size over the entire tracking range is removed, resulting in reduced number of iterations and much faster tracking compared to conventional methods.
   \end{itemize} 
   
-
-
 
 
 

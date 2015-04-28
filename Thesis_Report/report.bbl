@@ -19,7 +19,7 @@
 
 \refsection{0}
   \sortlist{}{}
-    \entry{exeger_cell_sand}{misc}{}
+    \entry{exeger_cell_sand}{online}{}
       \name{labelname}{1}{}{%
         {{hash=40773da776950f2dc1ab45e03e98de2c}{AB}{A\bibinitperiod}{EXEGER\bibnamedelima Sweden}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
       }
@@ -806,7 +806,7 @@
     \endentry
   \endsortlist
   \sortlist{nty}{nty}
-    \entry{exeger_cell_sand}{misc}{}
+    \entry{exeger_cell_sand}{online}{}
       \name{labelname}{1}{}{%
         {{hash=40773da776950f2dc1ab45e03e98de2c}{AB}{A\bibinitperiod}{EXEGER\bibnamedelima Sweden}{E\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
       }

@@ -16,9 +16,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.3}Scope, Thesis goals and Objectives}{7}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Thesis outline}{7}{section.1.4}
+\contentsline {section}{\numberline {1.4}Thesis outline}{8}{section.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.5}Research methodology}{7}{section.1.5}
+\contentsline {section}{\numberline {1.5}Research methodology}{8}{section.1.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Related Literature}{9}{chapter.2}
 \defcounter {refsection}{0}\relax 
@@ -42,7 +42,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Machine Learning }{21}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Regression Modelling }{21}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.1}Regression Modelling }{22}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.3.2}Pattern search}{23}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
@@ -68,6 +68,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.4}Proposed Method }{46}{section.4.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{51}{chapter.5}
+\contentsline {section}{\numberline {4.5}Comparison}{51}{section.4.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{53}{chapter*.73}
+\contentsline {chapter}{\numberline {5}Conclusion and Future Work}{53}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{55}{chapter*.75}
