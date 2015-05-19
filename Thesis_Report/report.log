@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  28 APR 2015 02:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.9.26)  13 MAY 2015 18:37
 entering extended mode
 **report.tex
 (C:\Users\Kartik.Karuna\Documents\Exjobb\Thesis_Report\report.tex
@@ -2143,19 +2143,19 @@ File: images/direct_coupling.png Graphic file (type png)
 Package pdftex.def Info: images/direct_coupling.png used on input line 51.
 (pdftex.def)             Requested size: 250.95476pt x 61.99315pt.
 
-<images/I-V-lux.png, id=544, 1264.12276pt x 919.0335pt>
+<images/I-V-lux.png, id=544, 2106.87125pt x 1531.7225pt>
 File: images/I-V-lux.png Graphic file (type png)
 
 <use images/I-V-lux.png>
 Package pdftex.def Info: images/I-V-lux.png used on input line 59.
-(pdftex.def)             Requested size: 376.42575pt x 273.66476pt.
+(pdftex.def)             Requested size: 376.42575pt x 273.66478pt.
  [4 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/direct_coupli
 ng.png>]
-<images/PV_LUX.png, id=551, 520.21939pt x 317.11577pt>
+<images/PV_LUX.png, id=551, 838.13126pt x 510.90875pt>
 File: images/PV_LUX.png Graphic file (type png)
  <use images/PV_LUX.png>
 Package pdftex.def Info: images/PV_LUX.png used on input line 67.
-(pdftex.def)             Requested size: 418.25368pt x 254.9704pt.
+(pdftex.def)             Requested size: 418.25368pt x 254.9548pt.
 
 <images/IV_lux_MPP.png, id=552, 520.21939pt x 317.11577pt>
 File: images/IV_lux_MPP.png Graphic file (type png)
@@ -2164,8 +2164,7 @@ File: images/IV_lux_MPP.png Graphic file (type png)
 Package pdftex.def Info: images/IV_lux_MPP.png used on input line 75.
 (pdftex.def)             Requested size: 418.25368pt x 254.9704pt.
  [5 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/I-V-lux.png> 
-<C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/PV_LUX.png (PNG c
-opy)>]
+<C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/PV_LUX.png>]
 <images/mppt_coup.png, id=558, 1287.81125pt x 558.085pt>
 File: images/mppt_coup.png Graphic file (type png)
 
@@ -2510,7 +2509,7 @@ Overfull \hbox (41.82791pt too wide) in paragraph at lines 46--47
 File: images/I-V-lux.png Graphic file (type png)
 <use images/I-V-lux.png>
 Package pdftex.def Info: images/I-V-lux.png used on input line 54.
-(pdftex.def)             Requested size: 334.60422pt x 243.26225pt.
+(pdftex.def)             Requested size: 334.60422pt x 243.25757pt.
  [30 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/single2500_I
 V.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 62--63
@@ -2536,16 +2535,16 @@ File: images/controller_mod.png Graphic file (type png)
 Package pdftex.def Info: images/controller_mod.png used on input line 78.
 (pdftex.def)             Requested size: 230.04079pt x 284.51196pt.
 
-<images/Top_level_mod.png, id=942, 761.244pt x 1441.7865pt>
+<images/Top_level_mod.png, id=942, 1268.74pt x 2402.9775pt>
 File: images/Top_level_mod.png Graphic file (type png)
 
 <use images/Top_level_mod.png>
 Package pdftex.def Info: images/Top_level_mod.png used on input line 86.
-(pdftex.def)             Requested size: 334.60422pt x 633.75003pt.
+(pdftex.def)             Requested size: 334.60422pt x 633.7427pt.
  [32 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/PV_block_Mod
 el.png> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/controlle
 r_mod.png>]
-Overfull \vbox (28.35005pt too high) has occurred while \output is active []
+Overfull \vbox (28.34273pt too high) has occurred while \output is active []
 
 
 [33 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Top_level_mod
@@ -2569,41 +2568,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-<images/IVLUX_LAB_measured.png, id=953, 1029.22449pt x 766.93422pt>
+<images/IVLUX_LAB_measured.png, id=953, 1658.195pt x 1235.61626pt>
 File: images/IVLUX_LAB_measured.png Graphic file (type png)
 
 <use images/IVLUX_LAB_measured.png>
 Package pdftex.def Info: images/IVLUX_LAB_measured.png used on input line 99.
-(pdftex.def)             Requested size: 355.51817pt x 264.90855pt.
+(pdftex.def)             Requested size: 355.51817pt x 264.917pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 104--105
 
  []
 
-<images/IVLUX_MOD_gen.png, id=960, 1029.22449pt x 766.93422pt>
+<images/IVLUX_MOD_gen.png, id=960, 1658.195pt x 1235.61626pt>
 File: images/IVLUX_MOD_gen.png Graphic file (type png)
 
 <use images/IVLUX_MOD_gen.png>
 Package pdftex.def Info: images/IVLUX_MOD_gen.png used on input line 110.
-(pdftex.def)             Requested size: 355.51817pt x 264.90855pt.
+(pdftex.def)             Requested size: 355.51817pt x 264.917pt.
  [34 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVLUX_LAB_me
-asured.png (PNG copy)>]
-<images/Diff_Contour.png, id=968, 1022.99431pt x 767.55724pt>
+asured.png>]
+<images/Diff_Contour.png, id=968, 1648.1575pt x 1236.62pt>
 File: images/Diff_Contour.png Graphic file (type png)
 
 <use images/Diff_Contour.png>
 Package pdftex.def Info: images/Diff_Contour.png used on input line 119.
-(pdftex.def)             Requested size: 355.51817pt x 266.75171pt.
+(pdftex.def)             Requested size: 355.51817pt x 266.7361pt.
 
-<images/Contour_map.png, id=973, 1029.22449pt x 766.93422pt>
+<images/Contour_map.png, id=973, 1658.195pt x 1235.61626pt>
 File: images/Contour_map.png Graphic file (type png)
 
 <use images/Contour_map.png>
 Package pdftex.def Info: images/Contour_map.png used on input line 128.
-(pdftex.def)             Requested size: 418.25368pt x 311.65988pt.
+(pdftex.def)             Requested size: 418.25368pt x 311.65599pt.
  [35 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/IVLUX_MOD_ge
-n.png (PNG copy)> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images
-/Diff_Contour.png (PNG copy)>]
+n.png> <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Diff_Conto
+ur.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
 
  []
@@ -2630,7 +2629,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--162
  []
 
 [36 <C:/Users/Kartik.Karuna/Documents/Exjobb/Thesis_Report/images/Contour_map.p
-ng (PNG copy)>]
+ng>]
 Package acronym Info: Label `acro:VAL' newly defined as it shall be overridden
 although it is yet undefined on input line 164.
 
@@ -2755,7 +2754,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-<images/Proposed_algo-1.png, id=1124, 1659.19875pt x 2347.77126pt>
+<images/Proposed_algo-1.png, id=1122, 1659.19875pt x 2347.77126pt>
 File: images/Proposed_algo-1.png Graphic file (type png)
 
 <use images/Proposed_algo-1.png>
@@ -2782,14 +2781,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
-<images/proposed_step_input.png, id=1150, 1659.19875pt x 2347.77126pt>
+<images/proposed_step_input.png, id=1147, 1659.19875pt x 2347.77126pt>
 File: images/proposed_step_input.png Graphic file (type png)
 
 <use images/proposed_step_input.png>
 Package pdftex.def Info: images/proposed_step_input.png used on input line 64.
 (pdftex.def)             Requested size: 418.25368pt x 591.81346pt.
  [48]
-<images/proposed_step_input_zoom-1(2)_pip.png, id=1155, 1662.21pt x 2347.77126p
+<images/proposed_step_input_zoom-1(2)_pip.png, id=1152, 1662.21pt x 2347.77126p
 t>
 File: images/proposed_step_input_zoom-1(2)_pip.png Graphic file (type png)
  <use images/proposed_step_input_zoom-1(2)_pip.png>
@@ -2882,7 +2881,7 @@ Package logreq Info: Writing requests to 'report.run.xml'.
 Here is how much of TeX's memory you used:
  33599 strings out of 493921
  559976 string characters out of 3147258
- 1026271 words of memory out of 3000000
+ 1027268 words of memory out of 3000000
  35462 multiletter control sequences out of 15000+200000
  126176 words of font info for 395 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
@@ -2907,9 +2906,9 @@ pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/urw/palatino/uplri8a.pfb>
-Output written on report.pdf (71 pages, 7326079 bytes).
+Output written on report.pdf (71 pages, 7357519 bytes).
 PDF statistics:
- 1400 PDF objects out of 1440 (max. 8388607)
+ 1395 PDF objects out of 1440 (max. 8388607)
  272 named destinations out of 1000 (max. 500000)
  66115 words of extra memory for PDF output out of 74296 (max. 10000000)
 
